@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tools.md",
+                "file": "Список покупок.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tools"
+              "title": "Список покупок"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tools.md",
+                "file": "Список покупок.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Tools"
+              "title": "Структура Список покупок"
             }
           }
         ],
@@ -199,8 +199,8 @@
   },
   "active": "ec1f346b8ffedd9d",
   "lastOpenFiles": [
-    "Полезные сайты (Powerful Websites — Usefull links).md",
     "Tools.md",
+    "Полезные сайты (Powerful Websites — Usefull links).md",
     "Просвещение/Знания - Практика и Теория.md",
     "Прочитать Ознакомиться.md",
     "Просвещение/Мысли или Настроение.md",
