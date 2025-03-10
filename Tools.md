@@ -30,6 +30,7 @@ cd storage/emulated/0/Documents/Obsidian
 am
 am | grep "d"
 am start -a android.intent.action.VIEW
+https://www.reddit.com/r/termux/comments/182g7np/where_do_i_find_my_things_that_i_downloaded/
 ssh-keygen
 cat /data/data/com.termux/files/home/.ssh/id_ed25519.pub
 git clone https://github.com/andrew-semenov/JS.git
