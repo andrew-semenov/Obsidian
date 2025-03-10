@@ -1,0 +1,21 @@
+{
+  "defaultViewMode": "source",
+  "livePreview": false,
+  "showLineNumber": true,
+  "newFileLocation": "root",
+  "attachmentFolderPath": "./attachments",
+  "spellcheck": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "foldIndent": true,
+  "foldHeading": true,
+  "showIndentGuide": true,
+  "readableLineLength": false
+}

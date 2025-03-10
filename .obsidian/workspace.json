@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "37bb70d239cfb91b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ce54ccccc636192",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04ca4cf962feb3f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Знания - Практика и Теория.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Знания - Практика и Теория"
+            }
+          },
+          {
+            "id": "040511a59d13ae12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Полезные сайты (Powerful Websites — Usefull links).md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Полезные сайты (Powerful Websites — Usefull links)"
+            }
+          },
+          {
+            "id": "ec1f346b8ffedd9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tools.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Tools"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f84c31e33a59ec48",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ad62ecdc9832dca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c8fd6add9c500be",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "8f9410aa6df6e23e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "f2a7d049d308bc0a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "6d718a9bb7109b71",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5f2768f3c18738a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5363d55a70402e4d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "it is my life/it is my life.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для it is my life"
+            }
+          },
+          {
+            "id": "4650c7a0a6f80989",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Media & Entertainment/Literature/Fiction (вымысел; художественная литература).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Fiction (вымысел; художественная литература)"
+            }
+          },
+          {
+            "id": "9d4939028f100233",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "9c710cc3bac97189",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tools.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Tools"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "ec1f346b8ffedd9d",
+  "lastOpenFiles": [
+    "Полезные сайты (Powerful Websites — Usefull links).md",
+    "Tools.md",
+    "Просвещение/Знания - Практика и Теория.md",
+    "Прочитать Ознакомиться.md",
+    "Просвещение/Мысли или Настроение.md",
+    "Список покупок.md",
+    "Запланировано Scheduled/Желаемые покупки.md",
+    "Knowledge/Заметки_Цитаты_Факты-(Notes_Quotes_Facts).md",
+    "Инструменты (Tools).md",
+    "Досуг и Развлечение/Музыка (Music) (音乐).md",
+    "Досуг и Развлечение/Что посмотреть.md",
+    "Досуг и Развлечение/Подкасты (Podcasts).md",
+    "Knowledge/IT/QA.md",
+    "Knowledge/IT/Network.md",
+    "Knowledge/IT/IT сленг.md",
+    "Просвещение",
+    "Просвещение/Словарь - значения, понятия и определения слов (Dictionary - meanings, concepts and definitions of words).md",
+    "Food. Полезные рецепты.md",
+    "Практика",
+    "Просвещение/Литература Literature/Фи́кция (вымысел; художественная литература) Fiction.md",
+    "Просвещение/Литература Literature/ИТ - Информационные Технологии (IT - Information Technology) (信息技术).md",
+    "Просвещение/Литература Literature/Энциклопедии Encyclopedia.md",
+    "Просвещение/Литература Literature/Справочники Directory.md",
+    "Просвещение/Литература Literature/Non-fiction (не вымысел; научная литература).md",
+    "Media & Entertainment/Литература Literature/non-fiction/Информационные технологии",
+    "Media & Entertainment/Литература Literature/non-fiction/Статистика",
+    "Media & Entertainment/Литература Literature/non-fiction/Астрология",
+    "Media & Entertainment/Литература Literature/non-fiction/Анатомия",
+    "Media & Entertainment/Литература Literature/non-fiction/Математика",
+    "Media & Entertainment/Литература Literature/non-fiction/Химия",
+    "Media & Entertainment/Литература Literature/non-fiction/Иллюстрация",
+    "Media & Entertainment/Литература Literature/non-fiction",
+    "Knowledge/attachments/photo_2023-03-16_00-41-29.jpg",
+    "Knowledge/attachments/Pasted image 20250202004040.png",
+    "Knowledge/attachments/Pasted image 20250202004040 - Copy.png",
+    "Media & Entertainment/Literature/Джентльмен сыска Иван Подушкин.md",
+    "Media & Entertainment/Без названия.canvas",
+    "Media & Entertainment/Music/Gilead - Fort Boyard.md",
+    "Media & Entertainment/Источники Sources.md",
+    "it is my life/it is my life.md",
+    "it is my life/attachments/DALL·E 2025-01-19 17.11.26 - A long road stretching into the horizon, symbolizing the journey of life and personal choices.webp",
+    "it is my life/attachments/Screenshot_5.png",
+    "it is my life/attachments/DALL·E 2025-01-19 17.11.26 - A long road stretching into the horizon, symbolizing the journey of life and personal choices The road is surrounded by beautiful landscapes, with a .webp",
+    "it is my life/attachments/DALL·E 2025-01-19 17.11.26 - A long road stretching into the horizon, symbolizing the journey of life and personal choices. The road is surrounded by beautiful landscapes, with a .webp",
+    "it is my life/attachments/DALL·E 2025-01-19 17.11.26 - A long road stretching into the horizon, symbolizing the journey of life and personal choices. The road is surrounded by beautiful landscapes, with a 11.webp"
+  ]
+}
