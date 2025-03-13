@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "41b32a7c3cde5374",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f6f27933ce114c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe6e4e5fe3be68ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2025-03-12.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-12"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ece2aa265e3424a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fbd45b3d02126f66",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": true
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Файловый менеджер"
+        }
+      },
+      {
+        "id": "738fca5341e7bc76",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Поиск"
+        }
+      },
+      {
+        "id": "e16f2505e6d2ea86",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Теги"
+        }
+      },
+      {
+        "id": "c674dcc429b6a4df",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Закладки"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "2e4dfc61e6e5acce",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5680f0568e83f0e5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Просвещение/Мысли (Идеи) и Настроение.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Обратные ссылки"
+        }
+      },
+      {
+        "id": "1b4672f3903c9989",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Список покупок.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Исходящие ссылки"
+        }
+      },
+      {
+        "id": "295afa0b9ffeefc5",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Список покупок.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Структура"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "fe6e4e5fe3be68ba",
+  "lastOpenFiles": [
+    "Просвещение/Мысли (Идеи) и Настроение.md",
+    "2025-03-13.md",
+    "Прочитать Ознакомиться.md",
+    "Заметка.md",
+    "Testdelete2.md",
+    "11.md",
+    "testtext1testtext2tst",
+    "Testdelete.md",
+    "Полезные сайты (Powerful Websites — Usefull links).md",
+    "2025-03-12.md",
+    "Уборка.md",
+    "fhhdjd",
+    "1",
+    "Просвещение/Знания - Практика и Теория.md",
+    "Просвещение/Литература Literature/ИТ - Информационные Технологии (IT - Information Technology) (信息技术).md",
+    "Просвещение/Литература Literature/Non-fiction (не вымысел; научная литература).md",
+    "Просвещение/Литература Literature/Фи́кция (вымысел; художественная литература) Fiction.md",
+    "Tools.md",
+    "Список покупок.md"
+  ]
+}
