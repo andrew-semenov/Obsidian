@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3f6f27933ce114c1",
+        "id": "4f59af2fe1e10c03",
         "type": "tabs",
         "children": [
           {
-            "id": "fe6e4e5fe3be68ba",
+            "id": "84501575ef27dac3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Прочитать Ознакомиться.md",
+                "file": "Уборка.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Прочитать Ознакомиться"
+              "title": "Уборка"
             }
           }
         ]
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Просвещение/Мысли (Идеи) и Настроение.md",
+            "file": "Уборка.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -109,20 +109,6 @@
           },
           "icon": "links-coming-in",
           "title": "Обратные ссылки"
-        }
-      },
-      {
-        "id": "1b4672f3903c9989",
-        "type": "leaf",
-        "state": {
-          "type": "outgoing-link",
-          "state": {
-            "file": "Список покупок.md",
-            "linksCollapsed": false,
-            "unlinkedCollapsed": true
-          },
-          "icon": "links-going-out",
-          "title": "Исходящие ссылки"
         }
       },
       {
@@ -150,29 +136,45 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "cmdr:Перейти на вкладку #4": false
     }
   },
-  "active": "fe6e4e5fe3be68ba",
+  "active": "84501575ef27dac3",
   "lastOpenFiles": [
+    "Тест датавью.md",
+    "Tools.md",
+    "it is my life/attachments/DALL·E 2025-01-19 17.11.26 - A long road stretching into the horizon, symbolizing the journey of life and personal choices.webp",
+    "Список покупок.md",
+    "Михаил Хазин.md",
+    "Просвещение/Литература Literature/ИТ - Информационные Технологии (IT - Information Technology) (信息技术).md",
+    "Просвещение/Литература Literature/Non-fiction (не вымысел; научная литература).md",
+    "Тест датавью 22 удалить.md",
+    "Просвещение/Литература Literature/Non-fiction (не вымысел; научная литература)^.md",
+    "Просвещение/Литература Literature/Non-fiction (не вымысел; научная литература)^мир.md",
+    "Просвещение/Литература Literature/Non-fiction (не вымысел; научная литература^мир).md",
+    "Non-fiction (не вымысел; научная литература) 1.md",
+    "Инструменты (Tools).md",
+    "Спорт здоровье тренировки.md",
     "Просвещение/Мысли (Идеи) и Настроение.md",
+    "Просвещение/Литература Literature/Фи́кция (вымысел; художественная литература) Fiction.md",
+    "Просвещение/Статьи.md",
+    "attachments/Recording 20250315211523.m4a",
+    "attachments/Recording 20250315211315.m4a",
+    "attachments",
+    "Просвещение/Словарь - значения, понятия и определения слов (Dictionary - meanings, concepts and definitions of words).md",
+    "Просвещение/Литература Literature/Справочники Directory.md",
     "Прочитать Ознакомиться.md",
+    "Без названия",
+    "Просвещение/Знания - Практика и Теория.md",
+    "Полезные сайты (Powerful Websites — Usefull links).md",
     "2025-03-12.md",
     "2025-03-13.md",
     "Заметка.md",
     "Testdelete2.md",
-    "11.md",
     "testtext1testtext2tst",
-    "Testdelete.md",
-    "Полезные сайты (Powerful Websites — Usefull links).md",
-    "Уборка.md",
     "fhhdjd",
-    "1",
-    "Просвещение/Знания - Практика и Теория.md",
-    "Просвещение/Литература Literature/ИТ - Информационные Технологии (IT - Information Technology) (信息技术).md",
-    "Просвещение/Литература Literature/Non-fiction (не вымысел; научная литература).md",
-    "Просвещение/Литература Literature/Фи́кция (вымысел; художественная литература) Fiction.md",
-    "Tools.md",
-    "Список покупок.md"
+    "1"
   ]
 }
