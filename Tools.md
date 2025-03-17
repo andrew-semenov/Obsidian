@@ -27,6 +27,7 @@ cd sdcard
 cd user
 cd home
 cd storage/emulated/0/Documents/Obsidian
+termux-setup-storage
 am
 am | grep "d"
 am start -a android.intent.action.VIEW
