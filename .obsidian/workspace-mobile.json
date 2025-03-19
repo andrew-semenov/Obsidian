@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Уборка.md",
+                "file": "Просвещение/Знания - Практика и Теория.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Уборка"
+              "title": "Знания - Практика и Теория"
             }
           }
         ]
@@ -143,6 +143,7 @@
   },
   "active": "84501575ef27dac3",
   "lastOpenFiles": [
+    "Уборка.md",
     "Тест датавью.md",
     "Tools.md",
     "it is my life/attachments/DALL·E 2025-01-19 17.11.26 - A long road stretching into the horizon, symbolizing the journey of life and personal choices.webp",
