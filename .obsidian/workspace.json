@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Список покупок.md",
+                "file": "Прочитать Ознакомиться.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Список покупок"
+              "title": "Прочитать Ознакомиться"
             }
           }
         ],
@@ -146,8 +146,8 @@
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
-              "icon": "links-going-out",
-              "title": "Исходящие ссылки из Fiction (вымысел; художественная литература)"
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Список покупок.md",
+                "file": "Прочитать Ознакомиться.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Список покупок"
+              "title": "Структура Прочитать Ознакомиться"
             }
           }
         ],
@@ -189,6 +189,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Начать/остановить запись": false,
+      "cmdr:Перейти на вкладку #4": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -199,12 +201,12 @@
   },
   "active": "ec1f346b8ffedd9d",
   "lastOpenFiles": [
+    "Список покупок.md",
     "Tools.md",
     "Полезные сайты (Powerful Websites — Usefull links).md",
     "Просвещение/Знания - Практика и Теория.md",
     "Прочитать Ознакомиться.md",
     "Просвещение/Мысли или Настроение.md",
-    "Список покупок.md",
     "Запланировано Scheduled/Желаемые покупки.md",
     "Knowledge/Заметки_Цитаты_Факты-(Notes_Quotes_Facts).md",
     "Инструменты (Tools).md",
