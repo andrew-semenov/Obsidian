@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Просвещение/Знания - Практика и Теория.md",
+                "file": "Досуг и Развлечение/Музыкальные инструменты.md",
                 "mode": "source",
-                "source": true
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Знания - Практика и Теория"
+              "title": "Музыкальные инструменты"
             }
           }
         ]
@@ -143,6 +153,8 @@
   },
   "active": "84501575ef27dac3",
   "lastOpenFiles": [
+    "Просвещение/Знания - Практика и Теория.md",
+    "Досуг и Развлечение/Музыкальные инструменты.md",
     "Уборка.md",
     "Тест датавью.md",
     "Tools.md",
@@ -168,12 +180,10 @@
     "Просвещение/Литература Literature/Справочники Directory.md",
     "Прочитать Ознакомиться.md",
     "Без названия",
-    "Просвещение/Знания - Практика и Теория.md",
     "Полезные сайты (Powerful Websites — Usefull links).md",
     "2025-03-12.md",
     "2025-03-13.md",
     "Заметка.md",
-    "Testdelete2.md",
     "testtext1testtext2tst",
     "fhhdjd",
     "1"
