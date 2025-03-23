@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Просвещение/Курсы.md",
+                "file": "Просвещение/Курсы 1.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -56,7 +56,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Курсы"
+              "title": "Курсы 1"
             }
           }
         ],
@@ -181,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Просвещение/Курсы.md",
+                "file": "Просвещение/Курсы 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Курсы"
+              "title": "Структура Курсы 1"
             }
           }
         ],
@@ -211,8 +211,9 @@
   },
   "active": "ec1f346b8ffedd9d",
   "lastOpenFiles": [
-    "Просвещение/Знания - Практика и Теория.md",
     "Просвещение/Курсы.md",
+    "Просвещение/Курсы 1.md",
+    "Просвещение/Знания - Практика и Теория.md",
     "Просвещение/Знания.md",
     "Прочитать Ознакомиться.md",
     "Список покупок.md",
@@ -250,7 +251,6 @@
     "Knowledge/attachments/Pasted image 20250202004040 - Copy.png",
     "Media & Entertainment/Literature/Джентльмен сыска Иван Подушкин.md",
     "Media & Entertainment/Без названия.canvas",
-    "Media & Entertainment/Music/Gilead - Fort Boyard.md",
     "it is my life/attachments/DALL·E 2025-01-19 17.11.26 - A long road stretching into the horizon, symbolizing the journey of life and personal choices.webp",
     "it is my life/attachments/Screenshot_5.png",
     "it is my life/attachments/DALL·E 2025-01-19 17.11.26 - A long road stretching into the horizon, symbolizing the journey of life and personal choices The road is surrounded by beautiful landscapes, with a .webp",
