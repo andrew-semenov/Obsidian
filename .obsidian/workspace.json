@@ -41,12 +41,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Прочитать Ознакомиться.md",
+                "file": "Просвещение/Курсы.md",
                 "mode": "source",
-                "source": true
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Прочитать Ознакомиться"
+              "title": "Курсы"
             }
           }
         ],
@@ -171,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Прочитать Ознакомиться.md",
+                "file": "Просвещение/Курсы.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Прочитать Ознакомиться"
+              "title": "Структура Курсы"
             }
           }
         ],
@@ -199,13 +209,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "ec1f346b8ffedd9d",
+  "active": "4c8fd6add9c500be",
   "lastOpenFiles": [
+    "Просвещение/Знания.md",
+    "Прочитать Ознакомиться.md",
+    "Просвещение/Курсы.md",
     "Список покупок.md",
     "Tools.md",
     "Полезные сайты (Powerful Websites — Usefull links).md",
     "Просвещение/Знания - Практика и Теория.md",
-    "Прочитать Ознакомиться.md",
     "Просвещение/Мысли или Настроение.md",
     "Запланировано Scheduled/Желаемые покупки.md",
     "Knowledge/Заметки_Цитаты_Факты-(Notes_Quotes_Facts).md",
@@ -239,8 +251,6 @@
     "Media & Entertainment/Literature/Джентльмен сыска Иван Подушкин.md",
     "Media & Entertainment/Без названия.canvas",
     "Media & Entertainment/Music/Gilead - Fort Boyard.md",
-    "Media & Entertainment/Источники Sources.md",
-    "it is my life/it is my life.md",
     "it is my life/attachments/DALL·E 2025-01-19 17.11.26 - A long road stretching into the horizon, symbolizing the journey of life and personal choices.webp",
     "it is my life/attachments/Screenshot_5.png",
     "it is my life/attachments/DALL·E 2025-01-19 17.11.26 - A long road stretching into the horizon, symbolizing the journey of life and personal choices The road is surrounded by beautiful landscapes, with a .webp",
