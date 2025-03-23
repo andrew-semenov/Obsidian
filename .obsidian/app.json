@@ -17,7 +17,7 @@
   "foldIndent": false,
   "foldHeading": false,
   "showIndentGuide": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "mobileToolbarCommands": [
     "editor:paste",
     "editor:insert-callout",
@@ -44,5 +44,6 @@
   "autoPairMarkdown": false,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "tabSize": 4
+  "tabSize": 4,
+  "strictLineBreaks": true
 }
