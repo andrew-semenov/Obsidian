@@ -12,7 +12,7 @@ $1111$
 ---
 
 ##  Энн Райс (Anne Rice)
-> - [x] $2016$ — Интервью с вампиром (Interview with the Vampire) `ISBN: 978-5-9906808-9-0` #pre-intermediate
+> - [x] $2016$ — Интервью с вампиром (Interview with the Vampire) `ISBN: 978-5-9906808-9-0` #pre-intermediate 
 
 ---
 
