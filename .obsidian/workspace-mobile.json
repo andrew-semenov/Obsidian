@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Досуг и Развлечение/Музыкальные инструменты.md",
+                "file": "Просвещение/Знания.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -23,12 +23,12 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Музыкальные инструменты"
+              "title": "Знания"
             }
           }
         ]
@@ -108,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Уборка.md",
+            "file": "Просвещение/Знания.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -153,36 +153,37 @@
   },
   "active": "84501575ef27dac3",
   "lastOpenFiles": [
+    "Просвещение/Литература Literature/Фи́кция (вымысел; художественная литература) Fiction.md",
+    "Просвещение/Литература Literature/Non-fiction (не вымысел; научная литература).md",
+    "Просвещение/Знания.md",
+    "Просвещение/Литература Literature/ИТ - Информационные Технологии (IT - Information Technology) (信息技术).md",
+    "Просвещение/Знания - Практика и Теория.md",
+    "Прочитать Ознакомиться.md",
+    "Tools.md",
+    "Полезные сайты (Powerful Websites — Usefull links).md",
+    "Инструменты (Tools).md",
+    "Просвещение/Статьи.md",
+    "Досуг и Развлечение/Музыкальные инструменты.md",
     "2025-03-21.md",
     "attachments/Recording 20250321195624.m4a",
     "attachments",
-    "Досуг и Развлечение/Музыкальные инструменты.md",
-    "Просвещение/Знания - Практика и Теория.md",
     "Уборка.md",
     "Тест датавью.md",
-    "Tools.md",
     "it is my life/attachments/DALL·E 2025-01-19 17.11.26 - A long road stretching into the horizon, symbolizing the journey of life and personal choices.webp",
     "Список покупок.md",
     "Михаил Хазин.md",
-    "Просвещение/Литература Literature/ИТ - Информационные Технологии (IT - Information Technology) (信息技术).md",
-    "Просвещение/Литература Literature/Non-fiction (не вымысел; научная литература).md",
     "Тест датавью 22 удалить.md",
     "Просвещение/Литература Literature/Non-fiction (не вымысел; научная литература)^.md",
     "Просвещение/Литература Literature/Non-fiction (не вымысел; научная литература)^мир.md",
     "Просвещение/Литература Literature/Non-fiction (не вымысел; научная литература^мир).md",
     "Non-fiction (не вымысел; научная литература) 1.md",
-    "Инструменты (Tools).md",
     "Спорт здоровье тренировки.md",
     "Просвещение/Мысли (Идеи) и Настроение.md",
-    "Просвещение/Литература Literature/Фи́кция (вымысел; художественная литература) Fiction.md",
-    "Просвещение/Статьи.md",
     "attachments/Recording 20250315211523.m4a",
     "attachments/Recording 20250315211315.m4a",
     "Просвещение/Словарь - значения, понятия и определения слов (Dictionary - meanings, concepts and definitions of words).md",
     "Просвещение/Литература Literature/Справочники Directory.md",
-    "Прочитать Ознакомиться.md",
     "Без названия",
-    "Полезные сайты (Powerful Websites — Usefull links).md",
     "2025-03-12.md",
     "testtext1testtext2tst",
     "fhhdjd",
