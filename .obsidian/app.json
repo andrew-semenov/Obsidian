@@ -33,10 +33,13 @@
     "editor:redo",
     "editor:clear-formatting",
     "editor:insert-table",
-    "editor:attach-file",
+    "editor:swap-line-down",
+    "editor:swap-line-up",
     "editor:configure-toolbar",
     "editor:insert-wikilink",
-    "editor:insert-embed"
+    "editor:insert-embed",
+    "editor:indent-list",
+    "editor:unindent-list"
   ],
   "mobileQuickRibbonItem": "",
   "propertiesInDocument": "source",
