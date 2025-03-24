@@ -20,6 +20,7 @@
   "readableLineLength": false,
   "mobileToolbarCommands": [
     "editor:paste",
+    "editor:toggle-code",
     "editor:insert-callout",
     "editor:toggle-checklist-status",
     "editor:insert-tag",
@@ -39,7 +40,8 @@
     "editor:insert-wikilink",
     "editor:insert-embed",
     "editor:indent-list",
-    "editor:unindent-list"
+    "editor:unindent-list",
+    "editor:toggle-blockquote"
   ],
   "mobileQuickRibbonItem": "",
   "propertiesInDocument": "source",

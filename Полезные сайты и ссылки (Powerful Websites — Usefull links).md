@@ -60,3 +60,10 @@
 
 >[!List]- tor ()
 >- библиотека
+
+>[!List]- Инструменты (Tools)
+>- конвертер
+>- расширения для браузера (browser extenstion)
+>	- https://tweak-extension.com/ `tweak your HTTP requests, to test, develop and demo your application`
+>	- https://authenticator.cc/ `Two-factor authentication in your browser`
+>	- https://responsiveviewer.org/ `Multi-Screen Responsive Testing Tool`
