@@ -2,5 +2,6 @@
   "enabledCssSnippets": [
     "test"
   ],
-  "accentColor": "#187a39"
+  "accentColor": "#187a39",
+  "theme": "moonstone"
 }
