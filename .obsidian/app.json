@@ -50,5 +50,5 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "tabSize": 4,
-  "strictLineBreaks": true
+  "strictLineBreaks": false
 }
