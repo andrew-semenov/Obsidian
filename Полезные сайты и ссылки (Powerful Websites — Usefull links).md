@@ -46,6 +46,7 @@
 >	- https://baza-knig.ru/
 >	- https://audioknig.su/
 >	- https://book-tracker.org/
+>	- https://www.knigoblud.club/
 >- Подкасты (Podcasts)
 >- Музыка (Music)
 
