@@ -1,6 +1,8 @@
 ---
 Data: 
-tags: "#english/pre-intermediate"
+tags:
+  - книги/английский/pre-intermediate
+  - books/english/pre-intermediate
 ---
 
 ## Interview with the Vampire

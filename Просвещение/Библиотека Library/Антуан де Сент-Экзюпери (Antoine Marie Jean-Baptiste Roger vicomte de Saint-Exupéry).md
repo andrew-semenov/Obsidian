@@ -1,8 +1,9 @@
 ---
 Data: 
-tags: "#english/pre-intermediate"
+tags:
+  - книги/английский/pre-intermediate
+  - books/english/pre-intermediate
 ---
-
 
 ## Маленький принц
 > Год: -

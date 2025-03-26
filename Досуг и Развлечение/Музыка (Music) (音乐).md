@@ -1,17 +1,12 @@
 > > [!Example]- Gilead  
-> > - Fort Boyard #Remix #Folk
+> > - Fort Boyard #музыка/фолк
 > > 	- https://www.youtube.com/watch?v=ukx5lwp-Dx8
 > > 	- https://soundcloud.com/gilead-band/gilead-fort-boyard
-> > - next 
+> > - 
 
-> > [!Example]- Modern Talking  
-> > - Fort Boyard #Remix #Folk
-> > 	- https://www.youtube.com/watch?v=ukx5lwp-Dx8
-> > 	- https://soundcloud.com/gilead-band/gilead-fort-boyard
-> > - next 
 
-> > [!Example]- Scorpions  
-> > - Fort Boyard #Remix #Folk
+> > [!Example]- Moder Talking  
+> > - Fort Boyard #музыка/80-90
 > > 	- https://www.youtube.com/watch?v=ukx5lwp-Dx8
 > > 	- https://soundcloud.com/gilead-band/gilead-fort-boyard
-> > - next 
+> > - 
