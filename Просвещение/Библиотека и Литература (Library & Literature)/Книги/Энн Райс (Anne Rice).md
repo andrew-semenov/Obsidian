@@ -1,7 +1,6 @@
 ---
 Data: 
 tags:
-  - книги/английский/pre-intermediate
   - books/english/pre-intermediate
 ---
 

@@ -36,12 +36,11 @@
     "editor:insert-table",
     "editor:swap-line-down",
     "editor:swap-line-up",
-    "editor:configure-toolbar",
-    "editor:insert-wikilink",
-    "editor:insert-embed",
     "editor:indent-list",
     "editor:unindent-list",
-    "editor:toggle-blockquote"
+    "editor:configure-toolbar",
+    "editor:insert-wikilink",
+    "editor:insert-embed"
   ],
   "mobileQuickRibbonItem": "",
   "propertiesInDocument": "source",

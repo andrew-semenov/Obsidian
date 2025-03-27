@@ -20,3 +20,5 @@
 	- позиттивный вгляд
 	- негативный взгляд
 - ....
+
+https://ru.wikipedia.org/wiki/%D0%90_%D0%BA%D0%B0%D0%BF%D0%B5%D0%BB%D0%BB%D0%B0
