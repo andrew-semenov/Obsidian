@@ -1,3 +1,4 @@
-.trash/
-/.obsidian/workspace.json
-/.obsidian/workspace-mobile.json
+./.trash/
+./ignore/
+./.obsidian/workspace.json
+./.obsidian/workspace-mobile.json
