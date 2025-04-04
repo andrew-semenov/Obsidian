@@ -3,6 +3,10 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "Data": "number"
+    "Data": "number",
+    "ISBN": "number",
+    "Прочитано": "checkbox",
+    "Прослушано": "checkbox",
+    "Автор(ы)": "multitext"
   }
 }

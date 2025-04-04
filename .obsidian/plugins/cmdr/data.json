@@ -9,6 +9,24 @@
       "icon": "lucide-plus-circle",
       "name": "Добавить свойство файла",
       "mode": "any"
+    },
+    {
+      "id": "insert-template",
+      "icon": "lucide-copy",
+      "name": "Шаблоны: Вставить шаблон",
+      "mode": "any"
+    },
+    {
+      "id": "insert-current-date",
+      "icon": "lucide-calendar-days",
+      "name": "Шаблоны: Вставить текущую дату",
+      "mode": "any"
+    },
+    {
+      "id": "insert-current-date",
+      "icon": "lucide-calendar-days",
+      "name": "Шаблоны: Вставить текущую дату",
+      "mode": "any"
     }
   ],
   "leftRibbon": [
