@@ -1,5 +1,5 @@
 {
-  "defaultViewMode": "source",
+  "defaultViewMode": "preview",
   "livePreview": false,
   "showLineNumber": true,
   "newFileLocation": "root",
@@ -49,5 +49,6 @@
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
   "tabSize": 4,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "showInlineTitle": true
 }

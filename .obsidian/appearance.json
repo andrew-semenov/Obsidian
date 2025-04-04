@@ -3,5 +3,7 @@
     "test"
   ],
   "accentColor": "#187a39",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "showViewHeader": true,
+  "showRibbon": true
 }

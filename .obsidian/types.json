@@ -4,9 +4,12 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Data": "number",
-    "ISBN": "number",
+    "ISBN": "text",
     "Прочитано": "checkbox",
     "Прослушано": "checkbox",
-    "Автор(ы)": "multitext"
+    "Автор(ы)": "multitext",
+    "Год": "number",
+    "Дескриптор(ы)": "multitext",
+    "Связанные книги": "multitext"
   }
 }
