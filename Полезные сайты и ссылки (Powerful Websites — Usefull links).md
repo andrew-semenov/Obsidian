@@ -1,5 +1,6 @@
 >[!List]- Здоровье (Health)
->- [ExRx.net : Home](https://exrx.net/)
+>- https://exrx.net/
+>- https://musclewiki.com/
 
 >[!List]- Информационные порталы
 > - [Лайфхакер — советы и лайфхаки, продуктивность, вдохновение, здоровье](https://lifehacker.ru/)
