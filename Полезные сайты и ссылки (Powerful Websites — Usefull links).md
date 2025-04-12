@@ -6,6 +6,8 @@
 		- https://cyberleninka.ru/article
 	- Научные журналы
 		 - https://cyberleninka.ru/journal
+	- Исследования и публикации
+		- https://www.researchgate.net/
 	- Информационные порталы (useful knowledge)
 		- https://lifehacker.ru/
 		- https://archive.org/
@@ -15,6 +17,7 @@
 		- https://sd.blackball.lv/
 	- Электронные книги (eBooks)
 		- https://flibusta.site/
+		- https://litnet.com/ru
 	- Аудиокниги (Audiobooks)
 		- https://baza-knig.ru/
 		- https://audioknig.su/
