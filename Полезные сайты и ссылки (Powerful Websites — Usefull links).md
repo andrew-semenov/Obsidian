@@ -33,6 +33,7 @@
 		- https://www.sololearn.com/
 		- https://www.freecodecamp.org/
 		- https://www.geeksforgeeks.org/
+		- https://github.com/codecrafters-io/build-your-own-x
 	- Challenges
 		- https://www.codewars.com/
 		- https://codepen.io/challenges
