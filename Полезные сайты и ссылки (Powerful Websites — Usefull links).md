@@ -16,6 +16,7 @@
 		- https://habr.com/ru/
 		- https://sd.blackball.lv/
 	- Электронные книги (eBooks)
+		- https://flibusta.su/
 		- https://flibusta.site/
 		- https://litnet.com/ru
 	- Аудиокниги (Audiobooks)
