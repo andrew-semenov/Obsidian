@@ -22,6 +22,7 @@
 	- Аудиокниги (Audiobooks)
 		- https://baza-knig.ru/
 		- https://audioknig.su/
+		- https://knigavuhe.org/
 		- https://book-tracker.org/
 		- https://www.knigoblud.club/
 - Образовательный контент (educational content)
