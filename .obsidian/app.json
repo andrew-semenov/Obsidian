@@ -49,5 +49,6 @@
   "showUnsupportedFiles": true,
   "tabSize": 4,
   "strictLineBreaks": false,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "focusNewTab": true
 }
