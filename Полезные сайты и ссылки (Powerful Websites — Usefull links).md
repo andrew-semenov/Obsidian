@@ -63,15 +63,15 @@
 ---
 
 > # YouTube
-> > [!Example]- #IT/programming/html_css_javascript
-> > - ![Вёрстка сайта с нуля • HTML, SCSS, JS практика • Подробное объяснение по шагам • Проект в портфолио](https://www.youtube.com/watch?v=hkYzqTKnSIg)
+> > [!Example]- #YouTube/IT/programming/html_css_javascript
+> > - [Вёрстка сайта с нуля • HTML, SCSS, JS практика • Подробное объяснение по шагам • Проект в портфолио](https://www.youtube.com/watch?v=hkYzqTKnSIg)
 > > - [Code with Ania Kubów](https://www.youtube.com/@aniakubow)
 > > 	- [JavaScript Game Walkthroughs](https://www.youtube.com/playlist?list=PLRD1Niz0lz1uR4W3ms6DygWMjXW-6hDB_)
-> > 	- ![JavaScript Analog Clock (Super Simple!!!)](https://www.youtube.com/watch?v=LNL1otheWeY)
+> > 	- [JavaScript Analog Clock (Super Simple!!!)](https://www.youtube.com/watch?v=LNL1otheWeY)
 > > - [Дюжев Алексей. с 0 в IT.](https://www.youtube.com/@sov-it)
 > > 	- [Frontend с нуля. От установки Программ для написания кода до публикации первого сайта.](https://www.youtube.com/playlist?list=PLXroaq4axUFLGfQeX2JWCHoMK9wa_E-Y_)
 >
-> > [!Example]- #IT/Networks/Tools
+> > [!Example]- #YouTube/IT/Networks/Tools
 > > - [NetworkChuck](https://www.youtube.com/@NetworkChuck)
 > > 	- ![Nmap Tutorial to find Network Vulnerabilities](https://www.youtube.com/watch?v=4t4kBkMsDbQ)
 > > - [Mister Exploit](https://www.youtube.com/@Mr0x45xploit)
@@ -79,7 +79,7 @@
 > > - [Alex WysiWyg](https://www.youtube.com/@alexwysiwyg)
 > > 	- ![Автоматическая смена IP каждые 5 секунд – 100% АНОНИМНОСТЬ | Новый Метод](https://www.youtube.com/watch?v=g60ln3q_24I)
 >
-> > [!Example]- #IT/Networks/Client-Server
+> > [!Example]- #YouTube/IT/Networks/Client-Server
 > > - ![Архитектура Клиент-сервер](https://www.youtube.com/watch?v=RBml4tRP500)
 > > - ![Как работают веб приложения. Что происходит, когда вы вводите адрес в браузере](https://www.youtube.com/watch?v=g94j-ahVR78)
 
