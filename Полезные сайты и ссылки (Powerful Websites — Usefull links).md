@@ -14,8 +14,6 @@
 > 	- https://archive.org/
 > 	- https://fmhy.net/
 > 	- https://medium.com/
-> 	- https://habr.com/ru/
-> 	- https://sd.blackball.lv/
 > - Электронные книги (eBooks)
 > 	- https://flibusta.su/
 > 	- https://flibusta.site/
@@ -28,22 +26,29 @@
 > 	- https://www.knigoblud.club/
 
 >[!Example]- Образовательный контент (educational content)
-> - Испытание Challenge
-> 	- https://www.codewars.com/
-> 	- https://www.geeksforgeeks.org/blogs/geeksforgeeks-practice-best-online-coding-platform/
-> 	- https://tryhackme.com/
-> - Курсы Courses
-> 	- https://javarush.com/
-> 	- https://scrimba.com/courses
-> 	- https://www.sololearn.com/ru/learn
-> 	- https://www.geeksforgeeks.org/courses/category/all?courseType=all&courseFeeType=free
-> 	- https://www.freecodecamp.org/learn/
-> 	- https://github.com/codecrafters-io/build-your-own-x
-> - Теория (Дорожные карты Roadmaps)
-> 	- https://roadmap.sh/
-> 	- https://vladislaveremeev.gitbook.io/qa_bible
-> - Песочница Sandbox
-> 	- https://codepen.io/
+>> Информационные технологии
+> > - Испытание Challenge
+> > 	- https://www.codewars.com/
+> > 	- https://www.geeksforgeeks.org/blogs/geeksforgeeks-practice-best-online-coding-platform/
+> > 	- https://tryhackme.com/
+> > - Курсы Courses
+> > 	- https://javarush.com/
+> > 	- https://scrimba.com/courses
+> > 	- https://www.sololearn.com/ru/learn
+> > 	- https://www.geeksforgeeks.org/courses/category/all?courseType=all&courseFeeType=free
+> > 	- https://www.freecodecamp.org/learn/
+> > 	- https://github.com/codecrafters-io/build-your-own-x
+> > - Теория / База Знаний / Roadmap
+> > 	- https://habr.com/ru/
+> > 	- https://sd.blackball.lv/
+> > 	- https://roadmap.sh/
+> > 	- https://vladislaveremeev.gitbook.io/qa_bible
+> > - Песочница Sandbox
+> > 	- https://codepen.io/
+> 
+>> Языки
+> > - https://www.loecsen.com/
+> > - https://reallanguage.club/
 
 >[!Example]- Переводчики (Translators)
 > - https://context.reverso.net/

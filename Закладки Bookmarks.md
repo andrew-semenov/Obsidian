@@ -35,3 +35,6 @@
 >
 > > [!Example]- #YouTube/музыкальные_инструменты/калимба
 > > - ![Крошка Енот - От улыбки хмурый день светлей](https://www.youtube.com/watch?v=vPwCGCS_UK8)
+>
+> > [!Example]- #YouTube/еда
+> > - ![груши под сырной шапкой(с 8й минуты)](https://www.youtube.com/watch?v=zl_vhJsj6D8)
