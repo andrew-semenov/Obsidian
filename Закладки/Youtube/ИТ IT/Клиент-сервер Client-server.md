@@ -1,0 +1,2 @@
+- [Архитектура Клиент-сервер](https://www.youtube.com/watch?v=RBml4tRP500)
+- [Как работают веб приложения. Что происходит, когда вы вводите адрес в браузере](https://www.youtube.com/watch?v=g94j-ahVR78)
