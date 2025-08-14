@@ -1,10 +1,10 @@
-# Читаю
+# Слушаю
 
 ```dataviewjs
 	let booksCSS = "";
 
-	let booksData = dv.pages('"Просвещение/Книги"').where(page => {
-		if (page.читаю) return page;
+	let booksData = dv.pages('"Просвещение/Аудиокниги"').where(page => {
+		if (page.Слушаю) return page;
 	});
 	
 	for (let book of booksData) {
@@ -13,7 +13,7 @@
 			<div>${book["Автор(ы)"]}</div>
 			<a href="${book.file.path}" class="internal-link" aria-label="${book.Название}"><img src="${book.Обложка}" /></a>
 			<div>${book.Прогресс}</div>
-			<div>${book.ISBN}</div>
+			<div>Озвучивает: ${book.Озвучивает}</div>
 		</div>`
 	}
 	
@@ -22,13 +22,13 @@
 
 ---
 
-# К прочтению
+# Для прослушивания
 
 ```dataviewjs
 	let booksCSS = "";
 
-	let booksData = dv.pages('"Просвещение/Книги"').where(page => {
-		if (page.читаю == false && page.прочитано == false) return page;
+	let booksData = dv.pages('"Просвещение/Аудиокниги"').where(page => {
+		if (page.Слушаю == false && page.Прослушано == false) return page;
 	});
 	
 	for (let book of booksData) {
@@ -37,7 +37,7 @@
 			<div>${book["Автор(ы)"]}</div>
 			<a href="${book.file.path}" class="internal-link" aria-label="${book.Название}"><img src="${book.Обложка}" /></a>
 			<div>${book.Прогресс}</div>
-			<div>${book.ISBN}</div>
+			<div>Озвучивает: ${book.Озвучивает}</div>
 		</div>`
 	}
 	
@@ -46,13 +46,13 @@
 
 ---
 
-# Прочитано
+# Прослушано
 
 ```dataviewjs
 	let booksCSS = "";
 
-	let booksData = dv.pages('"Просвещение/Книги"').where(page => {
-		if (page.прочитано) return page;
+	let booksData = dv.pages('"Просвещение/Аудиокниги"').where(page => {
+		if (page.Прослушано) return page;
 	});
 	
 	for (let book of booksData) {
@@ -61,7 +61,7 @@
 			<div>${book["Автор(ы)"]}</div>
 			<a href="${book.file.path}" class="internal-link" aria-label="${book.Название}"><img src="${book.Обложка}" /></a>
 			<div>${book.Прогресс}</div>
-			<div>${book.ISBN}</div>
+			<div>Озвучивает: ${book.Озвучивает}</div>
 		</div>`
 	}
 	

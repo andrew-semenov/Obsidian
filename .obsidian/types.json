@@ -10,6 +10,7 @@
     "Автор(ы)": "multitext",
     "Год": "number",
     "Дескриптор(ы)": "multitext",
-    "Связанные книги": "multitext"
+    "Связанные книги": "multitext",
+    "Озвучивает": "multitext"
   }
 }
