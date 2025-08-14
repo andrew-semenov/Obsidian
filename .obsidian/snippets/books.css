@@ -1,0 +1,29 @@
+.books>span {
+    background-color: brown;
+    width: 95%;
+    border: 1px solid #000;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    column-gap: 5px;
+    row-gap: 10px;
+}
+
+.book {
+    background-color: #fff;
+    margin: 15px;
+    padding: 5px;
+    height: auto;
+    border: 1px solid #000;
+    text-align: center;
+}
+
+.book div {
+    background-color: #fff;
+}
+
+.book a img {
+    min-height: 350px;
+    max-height:400px;
+    height: auto;
+    width: auto;
+}
