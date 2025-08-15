@@ -9,11 +9,17 @@
 	
 	for (let book of booksData) {
 		booksCSS += `<div class="book">
-			<div>${book.Название}</div>
-			<div>${book["Автор(ы)"]}</div>
-			<a href="${book.file.path}" class="internal-link" aria-label="${book.Название}"><img src="${book.Обложка}" /></a>
-			<div>${book.Прогресс}</div>
-			<div>${book.ISBN}</div>
+			<div class="header">
+				<div class="title">${book.Название}</div>
+				<div class="author">${book["Автор(ы)"]}</div>
+			</div>
+			<div class="cover">
+				<a href="${book.file.path}" class="internal-link" aria-label="${book.Название}"><img src="${book.Обложка}" /></a>
+			</div>
+			<div class="footer">
+				<div>${book.Прогресс}</div>
+				<div>${book.ISBN}</div>
+			</div>
 		</div>`
 	}
 	
@@ -33,11 +39,17 @@
 	
 	for (let book of booksData) {
 		booksCSS += `<div class="book">
-			<div>${book.Название}</div>
-			<div>${book["Автор(ы)"]}</div>
-			<a href="${book.file.path}" class="internal-link" aria-label="${book.Название}"><img src="${book.Обложка}" /></a>
-			<div>${book.Прогресс}</div>
-			<div>${book.ISBN}</div>
+			<div class="header">
+				<div class="title">${book.Название}</div>
+				<div class="author">${book["Автор(ы)"]}</div>
+			</div>
+			<div class="cover">
+				<a href="${book.file.path}" class="internal-link" aria-label="${book.Название}"><img src="${book.Обложка}" /></a>
+			</div>
+			<div class="footer">
+				<div>${book.Прогресс}</div>
+				<div>${book.ISBN}</div>
+			</div>
 		</div>`
 	}
 	
@@ -57,11 +69,17 @@
 	
 	for (let book of booksData) {
 		booksCSS += `<div class="book">
-			<div>${book.Название}</div>
-			<div>${book["Автор(ы)"]}</div>
-			<a href="${book.file.path}" class="internal-link" aria-label="${book.Название}"><img src="${book.Обложка}" /></a>
-			<div>${book.Прогресс}</div>
-			<div>${book.ISBN}</div>
+			<div class="header">
+				<div class="title">${book.Название}</div>
+				<div class="author">${book["Автор(ы)"]}</div>
+			</div>
+			<div class="cover">
+				<a href="${book.file.path}" class="internal-link" aria-label="${book.Название}"><img src="${book.Обложка}" /></a>
+			</div>
+			<div class="footer">
+				<div>${book.Прогресс}</div>
+				<div>${book.ISBN}</div>
+			</div>
 		</div>`
 	}
 	
