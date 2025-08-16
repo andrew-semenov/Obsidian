@@ -30,7 +30,7 @@
 }
 
 .book .header .author {
-    font-weight: 100;
+    font-weight: 300;
     color: brown;
     text-transform: uppercase;
 }
@@ -39,7 +39,15 @@
     margin: auto;
 }
 
+.book .cover a img {
+    max-height: 400px;
+}
+
 .book .footer {
     margin-top: auto;
     color: #ee6352;
+}
+
+.book .footer progress {
+    width: 95%;
 }

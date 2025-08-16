@@ -1,17 +1,17 @@
 ---
-Год: 2016
-ISBN: 978-5-9906808-9-0
-Название: Interview with the Vampire
-Автор(ы):
+Автор:
   - Anne Rice
+ISBN: 978-5-9906808-9-0
+Год: 2016
+СтраницГлав: 12
+Прогресс: 2
 Серия/Цикл: 
 Продолжение: 
 др. язык(и): 
 Читаю: false
 Прочитано: true
 Обложка: https://content.rozetka.com.ua/goods/images/big/251893714.jpg
-Прогресс: <progress style="width:95%" max=1 value=1></progress>
 tags:
-  - books/english/pre-intermediate
+  - Чтение/Книги/English/Pre-intermediate
 ---
 

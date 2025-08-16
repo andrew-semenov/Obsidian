@@ -1,11 +1,11 @@
-> > [!Example]- #музыка/инструментальная
-> > - Gilead #музыка/фолк
+> > [!Example]- #Аудио/Музыка/Инструментальная
+> > - Gilead #Аудио/Музыка/Фолк
 > > 	- Fort Boyard 
 > > 		- https://www.youtube.com/watch?v=ukx5lwp-Dx8
 > > 		- https://soundcloud.com/gilead-band/gilead-fort-boyard
 > > - 
 
-> > [!Example]- #music/80-90 
+> > [!Example]- #Аудио/Музыка/80-90 
 > > - Modern Talking  
 
 > > [!Example]- To sort 
