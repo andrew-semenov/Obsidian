@@ -4,7 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "Data": "number",
-    "ISBN": "text",
+    "ISBN": "multitext",
     "Прочитано": "checkbox",
     "Прослушано": "checkbox",
     "Автор(ы)": "multitext",
