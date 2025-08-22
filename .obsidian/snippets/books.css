@@ -51,3 +51,7 @@
 .book .footer progress {
     width: 95%;
 }
+
+#reading:checked .books {
+  display: none;
+}
