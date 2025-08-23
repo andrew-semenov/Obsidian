@@ -1,3 +1,20 @@
+pkg update
+pkg upgrade
+pkg install git
+pkg install wget
+
+cd /storage/emulated/0/Documents/Obsidian
+
+git fsck --full
+
+find .git/objects/ -size 0 -delete
+
+git clean -f -d -n
+
+git reset --hard origin/main
+
+---
+
 - Nmap
 - Curl
 - 
