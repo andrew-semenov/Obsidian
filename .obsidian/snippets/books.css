@@ -1,3 +1,11 @@
+.filters {
+    color:green;
+    cursor: pointer;
+    margin-right: 20px;
+    display: inline;
+    user-select: none;
+}
+
 .books>span {
     background-color: brown;
     width: 95%;
@@ -43,12 +51,12 @@
     max-height: 400px;
 }
 
-.book .footer {
+.bookFooter {
     margin-top: auto;
     color: #ee6352;
 }
 
-.book .footer progress {
+.bookFooter progress {
     width: 95%;
 }
 
