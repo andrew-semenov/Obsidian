@@ -27,37 +27,58 @@
     flex-direction: column;
 }
 
-.book .header {
+.bookHeader {
     margin-bottom: auto;
 }
 
-.book .header .title {
+.bookHeader .title {
     color:#000;
     font-weight: 900;
     text-transform: capitalize;
 }
 
-.book .header .author {
+.bookHeader .author {
     font-weight: 300;
     color: brown;
     text-transform: uppercase;
 }
 
-.book .cover {
+.book .bookCover {
     margin: auto;
+    width: 85%;
 }
 
-.book .cover a img {
-    max-height: 400px;
+.bookCover a img {
+    height: auto;
+    width:100%;
 }
 
 .bookFooter {
     margin-top: auto;
     color: #ee6352;
+    
 }
 
 .bookFooter progress {
     width: 95%;
+}
+
+.bookFooter div {
+    display: inline-block;
+    width: 95%;
+}
+
+
+.bookFooter div:nth-child(1) {
+    text-align: left;
+}
+
+.bookFooter div:nth-child(2) {
+    text-align: center;
+}
+
+.bookFooter div:nth-child(3) {
+    text-align: right;
 }
 
 #reading:checked .books {
