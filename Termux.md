@@ -9,6 +9,8 @@ git fsck --full
 
 find .git/objects/ -size 0 -delete
 
+find .git/objects/ -type f -empty | xargs rm
+
 git clean -f -d -n
 
 git reset --hard origin/main
