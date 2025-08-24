@@ -55,8 +55,8 @@
 }
 
 .bookCover a img {
-    height: auto;
-    width:100%;
+    width:auto;
+    max-height: 400px;
 }
 
 .bookFooter {
