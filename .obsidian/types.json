@@ -15,6 +15,7 @@
     "др. язык(и)": "multitext",
     "СтраницГлав": "number",
     "Прогресс": "number",
-    "Читает": "multitext"
+    "Читает": "multitext",
+    "ПрогрессMax": "number"
   }
 }
