@@ -32,8 +32,10 @@
 > > 	- https://www.geeksforgeeks.org/blogs/geeksforgeeks-practice-best-online-coding-platform/
 > > 	- https://tryhackme.com/
 > > - Курсы Courses
+> > 	- https://coddy.tech/
 > > 	- https://javarush.com/
 > > 	- https://scrimba.com/courses
+> > 	- https://www.codingame.com/
 > > 	- https://www.sololearn.com/ru/learn
 > > 	- https://www.geeksforgeeks.org/courses/category/all?courseType=all&courseFeeType=free
 > > 	- https://www.freecodecamp.org/learn/
