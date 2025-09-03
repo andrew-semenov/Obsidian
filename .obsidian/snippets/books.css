@@ -23,8 +23,8 @@
 }
 
 .book {
-    margin: 10px;
-    padding: 5px;
+    margin: 5px;
+    padding: 10px;
     border: 1px solid #000;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     background-color: white;
@@ -33,28 +33,24 @@
     flex-direction: column;
 }
 
-.bookHeader {
-    margin-bottom: auto;
+.bookHeader .bookCover {
+    margin: 0 auto;
 }
 
-.bookHeader .title {
+.title {
     color:#000;
     font-weight: 900;
     text-transform: capitalize;
 }
 
-.bookHeader .author {
+.author {
     font-weight: 300;
     color: brown;
     text-transform: uppercase;
 }
 
-.book .bookCover {
-    margin: auto;
-    width: 85%;
-}
 
-.bookCover a img {
+.bookCover > a > img {
     width:auto;
     max-height: 400px;
 }
@@ -62,16 +58,17 @@
 .bookFooter {
     margin-top: auto;
     color: #ee6352;
-    
+    width: 95%;
+    margin: 0 auto;
 }
 
 .bookFooter progress {
     width: 95%;
 }
 
-.bookFooter div {
-    display: inline-block;
-    width: 95%;
+.bookFooter > div > div {
+  width:30%;  
+  display:inline-block;
 }
 
 

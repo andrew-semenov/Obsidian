@@ -2,7 +2,7 @@
 > - https://exrx.net/
 > - https://musclewiki.com/
 
->[!Example]- Библиотека
+>[!Example]-  Библиотека
 > - Научные статьи
 > 	- https://cyberleninka.ru/article
 > - Научные журналы

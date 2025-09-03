@@ -1,0 +1,19 @@
+filters:
+  and:
+    - Прослушано == false
+views:
+  - type: cards
+    name: Table
+    filters:
+      or:
+        - Слушаю == false
+        - Слушаю == true
+    order:
+      - file.name
+      - Слушаю
+      - Прослушано
+      - Прогресс
+      - ПрогрессMax
+    imageFit: ""
+    image: note.Обложка
+    imageAspectRatio: 1.5
