@@ -16,6 +16,7 @@
     "СтраницГлав": "number",
     "Прогресс": "number",
     "Читает": "multitext",
-    "ПрогрессMax": "number"
+    "ПрогрессMax": "number",
+    "Глав": "number"
   }
 }
