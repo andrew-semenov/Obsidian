@@ -1,15 +1,15 @@
 
-[[Полезные сайты и ссылки (Powerful Websites — Usefull links)]]
+[[Закладки Bookmarks/Полезные Сайты Useful Sites]]
 	- https://coddy.tech/
 	- https://javarush.com/ 
 	- https://www.codewars.com/
 	- https://www.codingame.com/
 
-[[Полезные сайты и ссылки (Powerful Websites — Usefull links)#test]]
+[[Закладки Bookmarks/Полезные Сайты Useful Sites#test]]
 
 ---
 
-- [[Обучающий материал]]
+- [[Закладки Bookmarks/Обучающий Материал Educational Material]]
 - [[Обучение математике 5 класс]]
 - [[roadmap/Работа с умеренным темпом|Работа с умеренным темпом]]
 - [[roadmap/Идеи для дополнительного дохода|Идеи для дополнительного дохода]]
