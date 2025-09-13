@@ -2,7 +2,7 @@
 > - https://exrx.net/
 > - https://musclewiki.com/
 
->[!Example]-  Библиотека
+>[!Example]-  Литература
 > - Научные статьи
 > 	- https://cyberleninka.ru/article
 > - Научные журналы
@@ -23,6 +23,7 @@
 > 	- https://audioknig.su/
 > 	- https://knigavuhe.org/
 > 	- https://book-tracker.org/
+> 	- https://deti-online.com/
 > 	- https://www.knigoblud.club/
 
 >[!Example]- Образовательный контент (educational content)
