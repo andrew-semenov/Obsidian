@@ -16,7 +16,7 @@ git clean -f -d -n
 git reset --hard origin/main
 
 git config --global core.compression 0
-****
+
 ---
 
 - Nmap
