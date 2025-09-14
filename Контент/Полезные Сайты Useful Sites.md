@@ -18,6 +18,7 @@
 > 	- https://flibusta.su/
 > 	- https://flibusta.site/
 > 	- https://litnet.com/ru
+> 	- https://loveread.ec/
 > - Аудиокниги (Audiobooks)
 > 	- https://baza-knig.ru/
 > 	- https://audioknig.su/
@@ -46,6 +47,7 @@
 > > 	- https://sd.blackball.lv/
 > > 	- https://roadmap.sh/
 > > 	- https://vladislaveremeev.gitbook.io/qa_bible
+> > 	- https://www.wolframalpha.com/
 > > - Песочница Sandbox
 > > 	- https://codepen.io/
 > 
