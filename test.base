@@ -17,3 +17,19 @@ views:
     imageFit: ""
     image: note.Обложка
     imageAspectRatio: 1.5
+  - type: table
+    name: Навыки
+  - type: table
+    name: представление
+  - type: table
+    name: К прочтению
+  - type: table
+    name: Прочитано
+  - type: table
+    name: К прослушиванию
+  - type: table
+    name: Читаю
+  - type: table
+    name: Слушаю
+  - type: table
+    name: Прослушано
