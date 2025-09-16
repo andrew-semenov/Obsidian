@@ -30,9 +30,9 @@
 >[!Example]- Образовательный контент (educational content)
 >> Информационные технологии
 > > - Испытание Challenge
-> > 	- https://www.codewars.com/
+> > 	- https://www.codewars.com/ #Навыки
 > > 	- https://www.geeksforgeeks.org/blogs/geeksforgeeks-practice-best-online-coding-platform/
-> > 	- https://tryhackme.com/
+> > 	- https://tryhackme.com/ #Навыки
 > > - Курсы Courses
 > > 	- https://coddy.tech/
 > > 	- https://leetcode.com/
