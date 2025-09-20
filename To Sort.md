@@ -385,3 +385,7 @@ https://habr.com/ru/articles/724792/
 
 
 https://www.youtube.com/watch?v=KDjLP5rAuvU
+
+https://youtube.com/watch?v=amqTUf0Fu-M&si=rqQ1BM8Y_pR8KtCV
+
+https://youtube.com/watch?v=amqTUf0Fu-M&si=F0ch4g_EuKVfsEng
