@@ -5,6 +5,8 @@ pkg install wget
 
 cd /storage/emulated/0/Documents/Obsidian
 
+git fsck --name-objects
+
 git fsck --full
 
 find .git/objects/ -size 0 -delete
