@@ -389,3 +389,26 @@ https://www.youtube.com/watch?v=KDjLP5rAuvU
 https://youtube.com/watch?v=amqTUf0Fu-M&si=rqQ1BM8Y_pR8KtCV
 
 https://youtube.com/watch?v=amqTUf0Fu-M&si=F0ch4g_EuKVfsEng
+
+https://youtube.com/shorts/oL40wgTwPK8?si=OlLwvOZbs7j9EWD2
+
+https://youtube.com/shorts/SrCrw7C6TME?si=aDkGXmughRM_H3YX
+
+https://youtube.com/shorts/GfbHfxKCRV8?si=nzXMCH20OQbwiQub
+
+
+www.goodreads.com/shelf/show/science
+
+https://www.instagram.com/reel/DHtgJHuIqTg/
+
+https://www.rbc.ua/ukr/styler/chomu-bilya-morya-mi-zavzhdi-pochuvaemosya-1735931082.html
+
+https://sst.by/7-problem-kotorye-mozhet-vyzvat-izbytok-belka/
+
+https://sd.blackball.lv/
+
+https://ru.wikipedia.org/wiki/DSA
+
+https://www.wolframalpha.com/
+
+https://gazprombank.investments/blog/economics/cycle-kondratiev/
