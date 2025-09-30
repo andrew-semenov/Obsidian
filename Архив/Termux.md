@@ -3,6 +3,14 @@ pkg upgrade
 pkg install git
 pkg install wget
 
+```
+apt update &&
+apt upgrade &&
+git fsck --full &&
+git fsck --name-objects &&
+git pull --rebase
+```
+
 cd /storage/emulated/0/Documents/Obsidian
 
 git fsck --name-objects
