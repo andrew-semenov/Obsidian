@@ -1,0 +1,55 @@
+formulas:
+  Untitled: ""
+views:
+  - type: cards
+    name: В процессе
+    filters:
+      or:
+        - Слушаю == true
+        - Читаю == true
+    order:
+      - file.name
+      - Автор
+      - Читаю
+      - Слушаю
+      - Прогресс
+      - Продолжение
+    sort: []
+    imageFit: ""
+    image: note.Обложка
+    imageAspectRatio: 1.45
+    cardSize: 190
+  - type: cards
+    name: Планирую
+    filters:
+      and:
+        - Читаю == false
+        - Слушаю == false
+        - Прочитано == false
+        - Прослушано == false
+    order:
+      - file.name
+      - Автор
+      - Продолжение
+    sort: []
+    imageFit: ""
+    image: note.Обложка
+    imageAspectRatio: 1.45
+    cardSize: 190
+  - type: cards
+    name: Закончил
+    filters:
+      or:
+        - Прочитано == true
+        - Прослушано == true
+    order:
+      - file.name
+      - Автор
+      - Прочитано
+      - Прослушано
+      - Продолжение
+    sort: []
+    imageFit: ""
+    image: note.Обложка
+    imageAspectRatio: 1.45
+    cardSize: 190
