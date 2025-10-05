@@ -1,4 +1,4 @@
-> [!Example]- #Видео/YouTube/Плейлист #Видео/YouTube/Playlist 
+> [!Example]- #Видео/YouTube/Плейлисты
 > - [Основы Nginx](https://www.youtube.com/playlist?list=PLhgRAQ8BwWFa7ulOkX0qi5UfVizGD_-Rc)
 
 ---
