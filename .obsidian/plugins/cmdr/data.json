@@ -11,12 +11,6 @@
       "mode": "any"
     },
     {
-      "id": "insert-template",
-      "icon": "lucide-copy",
-      "name": "Шаблоны: Вставить шаблон",
-      "mode": "any"
-    },
-    {
       "id": "insert-current-date",
       "icon": "lucide-calendar-days",
       "name": "Шаблоны: Вставить текущую дату",
@@ -26,6 +20,24 @@
       "id": "insert-current-date",
       "icon": "lucide-calendar-days",
       "name": "Шаблоны: Вставить текущую дату",
+      "mode": "any"
+    },
+    {
+      "id": "editor:insert-footnote",
+      "icon": "lucide-file-signature",
+      "name": "Вставить сноску",
+      "mode": "any"
+    },
+    {
+      "id": "bases:add-view",
+      "icon": "lucide-shapes",
+      "name": "Базы даннных: Add view",
+      "mode": "any"
+    },
+    {
+      "id": "bases:add-view",
+      "icon": "lucide-shapes",
+      "name": "Базы даннных: Add view",
       "mode": "any"
     }
   ],
