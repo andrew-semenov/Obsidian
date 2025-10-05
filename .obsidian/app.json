@@ -4,7 +4,7 @@
   "showLineNumber": true,
   "newFileLocation": "root",
   "attachmentFolderPath": "attachments",
-  "spellcheck": true,
+  "spellcheck": false,
   "useMarkdownLinks": false,
   "newLinkFormat": "relative",
   "pdfExportSettings": {
@@ -50,5 +50,6 @@
   "tabSize": 4,
   "strictLineBreaks": false,
   "showInlineTitle": true,
-  "focusNewTab": true
+  "focusNewTab": true,
+  "promptDelete": true
 }

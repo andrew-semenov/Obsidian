@@ -1,8 +1,15 @@
 {
-  "confirmDeletion": true,
+  "confirmDeletion": false,
   "showAddCommand": true,
   "debug": false,
-  "editorMenu": [],
+  "editorMenu": [
+    {
+      "id": "bases:insert",
+      "icon": "lucide-layout-list",
+      "name": "Bases: Insert new base",
+      "mode": "any"
+    }
+  ],
   "fileMenu": [
     {
       "id": "markdown:add-metadata-property",

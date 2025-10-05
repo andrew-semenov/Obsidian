@@ -1,7 +1,6 @@
 >[!Example]- Здоровье (Health) и спорт
 > - https://exrx.net/
 > - https://musclewiki.com/
-
 >[!Example]-  Литература
 > - Научные статьи
 > 	- https://cyberleninka.ru/article
