@@ -18,7 +18,7 @@ views:
     imageFit: ""
     image: note.Обложка
     imageAspectRatio: 1.45
-    cardSize: 190
+    cardSize: 170
   - type: cards
     name: Планирую
     filters:
@@ -35,7 +35,7 @@ views:
     imageFit: ""
     image: note.Обложка
     imageAspectRatio: 1.45
-    cardSize: 190
+    cardSize: 170
   - type: cards
     name: Закончил
     filters:
@@ -52,4 +52,4 @@ views:
     imageFit: ""
     image: note.Обложка
     imageAspectRatio: 1.45
-    cardSize: 190
+    cardSize: 170
