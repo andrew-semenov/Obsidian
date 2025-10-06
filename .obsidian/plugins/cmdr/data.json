@@ -46,6 +46,12 @@
       "icon": "lucide-shapes",
       "name": "Базы даннных: Add view",
       "mode": "any"
+    },
+    {
+      "id": "editor:insert-callout",
+      "icon": "lucide-quote",
+      "name": "Вставить выносной блок",
+      "mode": "any"
     }
   ],
   "leftRibbon": [
