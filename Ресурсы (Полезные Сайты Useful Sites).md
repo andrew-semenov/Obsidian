@@ -75,8 +75,3 @@
 >[!Example]- Музыка (Music)
 > - https://soundcloud.com/
 > - https://www.spotify.com/
-
->[!Example]- расширения для браузера (browser extenstion)
-> - https://tweak-extension.com/ `tweak your HTTP requests, to test, develop and demo your application`
-> - https://authenticator.cc/ `Two-factor authentication in your browser`
-> - https://responsiveviewer.org/ `Multi-Screen Responsive Testing Tool`
