@@ -1,3 +1,6 @@
+filters:
+  and:
+    - file.folder.contains("Знания_Информация_Контент/Литература")
 formulas:
   Untitled: ""
 views:
