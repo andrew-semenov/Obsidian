@@ -32,14 +32,14 @@
 > > - Паттерны
 > > 	- [Первый сезон курса: Паттерны и практики написания кода](https://www.youtube.com/playlist?list=PLknJ4Vr6efQHD8qkPPosGQjqrZpTa7KQP)
 > > 	- [Второй сезон курса: Паттерны и практики написания кода](https://www.youtube.com/playlist?list=PLknJ4Vr6efQHvhvlGcBSD4KHa4ekAn0DS) 
-> > - Javascript
+> > - #Javascript
 > > 	- [Сложный JavaScript простым языком](https://www.youtube.com/playlist?list=PLqKQF2ojwm3l4oPjsB9chrJmlhZ-zOzWT)
 > > 	- [JavaScript Game Walkthroughs](https://www.youtube.com/playlist?list=PLRD1Niz0lz1uR4W3ms6DygWMjXW-6hDB_)
 > > 	- [Frontend с нуля. От установки Программ для написания кода до публикации первого сайта.](https://www.youtube.com/playlist?list=PLXroaq4axUFLGfQeX2JWCHoMK9wa_E-Y_)
-> > - NodeJS
+> > - #NodeJS
 > > 	- [Скринкаст по Node.JS](https://www.youtube.com/playlist?list=PLDyvV36pndZFWfEQpNixIHVvp191Hb3Gg) 
 > > 	- [NodeJs API with MySQL and Docker](https://www.youtube.com/playlist?list=PLopcHtZ0hJF1XfuyxnFmGmpmHrdyKO6Bx) 
-> > - VueJS
+> > - #VueJS
 > > 	- [Уроки Vue.js для начинающих](https://www.youtube.com/playlist?list=PL0lO_mIqDDFVVNsIt02JBIdBkjNVHIoum) 
 > > 	- [Уроки Vue JS для начинающих / Изучаем VueJS с нуля](https://www.youtube.com/playlist?list=PLDyJYA6aTY1lwiVmcFFb7g0dRehAXmWUn) 
 > > - Python
@@ -98,7 +98,7 @@
 > > - Другое
 > > 	- [ИГРЫ для изучения ПРОГРАММИРОВАНИЯ](https://www.youtube.com/watch?v=wkhS8QoXYCA&list=PLzZpNqUTZceI5pxXF8l0BVnhYcai22s-9)
 > 
-> > [!faq]- Кулинария
+> > [!faq]- #кулинария
 > > - [Груши с креветками под сырной шапкой (с 8й минуты)](https://www.youtube.com/watch?v=zl_vhJsj6D8) 
 > 
 > > [!faq]- Obsidian

@@ -1,8 +1,6 @@
 ---
-Data: 
+Data:
 tags:
-  - книги/ИТ/Безопасность
-  - books/IT/Security
 ---
 
 ## The Art of Network Penetration Testing: How to take over any company in the world

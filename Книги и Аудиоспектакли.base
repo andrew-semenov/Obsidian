@@ -20,7 +20,7 @@ views:
     imageAspectRatio: 1.45
     cardSize: 170
   - type: cards
-    name: Планирую
+    name: Запланировано
     filters:
       and:
         - Читаю == false
@@ -37,7 +37,7 @@ views:
     imageAspectRatio: 1.45
     cardSize: 170
   - type: cards
-    name: Закончил
+    name: Завершено
     filters:
       or:
         - Прочитано == true
