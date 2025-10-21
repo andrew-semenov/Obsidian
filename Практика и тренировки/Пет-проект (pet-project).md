@@ -1,0 +1,8 @@
+- [ ] Список задач
+- [ ] Калькулятор
+	- [Learn JavaScript by building the EASIEST Calculator! - Super easy!](https://www.youtube.com/watch?v=1cWtQ1GOASs)
+- [ ] Breakout — аркадная игра
+	- [1 hour 2D Breakout in JavaScript!](https://www.youtube.com/watch?v=sAnHM4D9e7U)
+- [ ] Галерея из карточек
+	- [5 ДНЕЙ = 5 ПРОЕКТОВ (JS, html, css - от простого к сложному)](https://www.youtube.com/watch?v=my3gzdnD_OQ&t=138s)
+- [ ] 
