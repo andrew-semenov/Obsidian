@@ -39,7 +39,8 @@
     "editor:toggle-highlight",
     "editor:clear-formatting",
     "editor:insert-table",
-    "editor:configure-toolbar"
+    "editor:configure-toolbar",
+    "bases:insert"
   ],
   "mobileQuickRibbonItem": "",
   "propertiesInDocument": "source",
