@@ -1,3 +1,7 @@
+- [Полезные ссылки от профессора – 1](https://javarush.com/quests/lectures/questsyntax.level01.lecture09)
+
+---
+
 > [!note]- [Java Syntax](https://javarush.com/quests/QUEST_JAVA_SYNTAX)
 > > [!faq]- [Уровень 0. Знакомство](https://javarush.com/quests/lectures?quest=QUEST_JAVA_SYNTAX&level=0)
 > > - [x] https://javarush.com/quests/lectures/questsyntax.level00.lecture00
