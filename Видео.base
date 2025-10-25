@@ -1,0 +1,39 @@
+views:
+  - type: cards
+    name: Смотрю
+    filters:
+      and:
+        - file.inFolder("Досуг/Видео")
+        - Смотрю == true
+    order:
+      - file.name
+      - Название
+      - Формат
+    image: note.Обложка
+    imageFit: contain
+    cardSize: 170
+  - type: cards
+    name: Хочу посмотреть
+    filters:
+      and:
+        - file.inFolder("Досуг/Видео")
+        - Посмотрел == false
+        - Смотрю == false
+    order:
+      - file.name
+      - Название
+    image: note.Обложка
+    imageFit: contain
+    cardSize: 170
+  - type: cards
+    name: Посмотрел
+    filters:
+      and:
+        - file.inFolder("Досуг/Видео")
+        - Посмотрел == true
+    order:
+      - file.name
+      - Название
+    image: note.Обложка
+    imageFit: contain
+    cardSize: 170

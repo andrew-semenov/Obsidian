@@ -18,7 +18,7 @@ views:
       - Прогресс
       - Продолжение
     sort: []
-    imageFit: ""
+    imageFit: contain
     image: note.Обложка
     imageAspectRatio: 1.45
     cardSize: 170
@@ -35,7 +35,7 @@ views:
       - Автор
       - Продолжение
     sort: []
-    imageFit: ""
+    imageFit: contain
     image: note.Обложка
     imageAspectRatio: 1.45
     cardSize: 170
@@ -52,7 +52,7 @@ views:
       - Прослушано
       - Продолжение
     sort: []
-    imageFit: ""
+    imageFit: contain
     image: note.Обложка
     imageAspectRatio: 1.45
     cardSize: 170

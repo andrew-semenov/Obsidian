@@ -17,6 +17,8 @@
     "Прогресс": "number",
     "Читает": "multitext",
     "ПрогрессMax": "number",
-    "Глав": "number"
+    "Глав": "number",
+    "Смотрю": "checkbox",
+    "Посмотрел": "checkbox"
   }
 }

@@ -2,7 +2,7 @@
 
 ---
 
-> [!note]- [Java Syntax](https://javarush.com/quests/QUEST_JAVA_SYNTAX)
+> [!note] [Java Syntax](https://javarush.com/quests/QUEST_JAVA_SYNTAX)
 > > [!faq]- [Уровень 0. Знакомство](https://javarush.com/quests/lectures?quest=QUEST_JAVA_SYNTAX&level=0)
 > > - [x] https://javarush.com/quests/lectures/questsyntax.level00.lecture00
 > > - [x] https://javarush.com/quests/lectures/questsyntax.level00.lecture01
@@ -164,22 +164,6 @@
 > > - [ ] https://javarush.com/quests/lectures/questsyntax.level10.lecture11
 
 ---
-
-
-> [!NOTE] core
-> Contents
-
-
-> [!NOTE] уровень1
-> - [ ] https://javarush.com/quests/lectures/questcore.level01.lecture00
-
-https://javarush.com/quests/lectures/questcore.level01.lecture01
-
-https://javarush.com/quests/lectures/questcore.level01.lecture02
-
-https://javarush.com/quests/lectures/questcore.level01.lecture03
-
-
 
 > [!note]- [Java Core](https://javarush.com/quests/QUEST_JAVA_CORE)
 > > [!faq]- [Уровень 1. Основы ООП: основные принципы, наследование, инкапсуляция.](https://javarush.com/quests/lectures?quest=QUEST_JAVA_CORE&level=1)
