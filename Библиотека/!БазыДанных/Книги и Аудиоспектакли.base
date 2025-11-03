@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.folder.contains("Знания_Информация_Контент/Литература")
+    - file.folder.contains("Библиотека/Литература/Книги и Аудиоспектакли")
 formulas:
   Untitled: ""
 views:

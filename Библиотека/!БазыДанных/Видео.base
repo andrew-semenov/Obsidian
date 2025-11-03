@@ -1,9 +1,11 @@
+filters:
+  and:
+    - file.folder.contains("Библиотека/Видео")
 views:
   - type: cards
     name: Смотрю
     filters:
       and:
-        - file.inFolder("Досуг/Видео")
         - Смотрю == true
     order:
       - file.name
@@ -16,12 +18,12 @@ views:
     name: Хочу посмотреть
     filters:
       and:
-        - file.inFolder("Досуг/Видео")
         - Посмотрел == false
         - Смотрю == false
     order:
       - file.name
       - Название
+      - Формат
     image: note.Обложка
     imageFit: contain
     cardSize: 170
@@ -29,11 +31,11 @@ views:
     name: Посмотрел
     filters:
       and:
-        - file.inFolder("Досуг/Видео")
         - Посмотрел == true
     order:
       - file.name
       - Название
+      - Формат
     image: note.Обложка
     imageFit: contain
     cardSize: 170
