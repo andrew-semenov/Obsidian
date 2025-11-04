@@ -1,0 +1,38 @@
+views:
+  - type: cards
+    name: В процессе
+    filters:
+      and:
+        - note["В процессе"] == true
+    order:
+      - file.name
+      - Название
+      - Формат
+    image: note.Обложка
+    imageFit: contain
+    cardSize: 170
+  - type: cards
+    name: Ожидает
+    filters:
+      and:
+        - note["В процессе"] == false
+        - Завершено == false
+    order:
+      - file.name
+      - Название
+      - Формат
+    image: note.Обложка
+    imageFit: contain
+    cardSize: 170
+  - type: cards
+    name: Завершено
+    filters:
+      and:
+        - Завершено == true
+    order:
+      - file.name
+      - Название
+      - Формат
+    image: note.Обложка
+    imageFit: contain
+    cardSize: 170

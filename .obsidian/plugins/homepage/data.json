@@ -2,7 +2,7 @@
   "version": 4,
   "homepages": {
     "Main Homepage": {
-      "value": "Главная",
+      "value": "Главная.base",
       "kind": "File",
       "openOnStartup": true,
       "openMode": "Keep open notes",
