@@ -1,3 +1,6 @@
+properties:
+  note.Название:
+    displayName: Название
 views:
   - type: cards
     name: В процессе
@@ -6,7 +9,7 @@ views:
         - note["В процессе"] == true
     order:
       - file.name
-      - Название
+      - Этап/Прогресс
       - Формат
     image: note.Обложка
     imageFit: contain
@@ -19,7 +22,7 @@ views:
         - Завершено == false
     order:
       - file.name
-      - Название
+      - Оригинальное название
       - Формат
     image: note.Обложка
     imageFit: contain
@@ -31,8 +34,19 @@ views:
         - Завершено == true
     order:
       - file.name
-      - Название
+      - Оригинальное название
       - Формат
     image: note.Обложка
     imageFit: contain
+    cardSize: 170
+  - type: cards
+    name: Кладезь
+    filters:
+      and:
+        - Кладезь == true
+    order:
+      - file.name
+      - Формат
+    imageFit: contain
+    image: note.Обложка
     cardSize: 170

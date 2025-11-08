@@ -1,7 +1,8 @@
 ---
-Название: Witcher
+Оригинальное название: англ. The Witcher () или пол. Wiedźmin
 Формат: Игра
 В процессе: true
+Этап/Прогресс: Ведьмак 1
 Завершено: false
 Обложка: https://upload.wikimedia.org/wikipedia/ru/a/a2/The_Witcher_3-_Wild_Hunt_Cover.jpg
 tags:

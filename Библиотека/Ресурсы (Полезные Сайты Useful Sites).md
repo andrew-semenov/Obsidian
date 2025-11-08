@@ -1,3 +1,8 @@
+---
+Кладезь: true
+Обложка: https://st.depositphotos.com/1052468/4896/i/450/depositphotos_48969957-stock-photo-seo-web-design-concept-useful.jpg
+---
+
 >[!Example]- Образовательный контент (educational content)
 >> [!faq]- Информационные технологии
 > > - Испытание Challenge

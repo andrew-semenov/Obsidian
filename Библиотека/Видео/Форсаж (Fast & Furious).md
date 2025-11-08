@@ -1,6 +1,7 @@
 ---
-Название: Fast & Furious
+Оригинальное название: англ. Fast & Furious
 Формат: Фильм
+Этап/Прогресс: «Бандиты» (исп. Los Bandoleros)
 В процессе: true
 Завершено: false
 Обложка: https://upload.wikimedia.org/wikipedia/ru/thumb/c/c4/Fast_X.jpg/960px-Fast_X.jpg
