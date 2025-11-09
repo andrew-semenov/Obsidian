@@ -11,6 +11,7 @@ views:
       - file.name
       - Этап/Прогресс
       - Формат
+      - tags
     image: note.Обложка
     imageFit: contain
     cardSize: 170
