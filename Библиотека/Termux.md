@@ -3,19 +3,29 @@ pkg upgrade
 pkg install git
 pkg install wget
 
+git config --global core.compression 0
+
+git config --global core.quotepath false
+
+```
+cd /storage/emulated/0/Documents/Obsidian
+```
+
 ```
 apt update &&
 apt upgrade &&
+```
+
+```
 git fsck --full &&
 git fsck --name-objects &&
 git pull --rebase
 ```
 
-cd /storage/emulated/0/Documents/Obsidian
-
-git fsck --name-objects
-
-git fsck --full
+```
+git reset --hard origin/main &&
+git pull --rebase
+```
 
 find .git/objects/ -size 0 -delete
 
@@ -23,9 +33,6 @@ find .git/objects/ -type f -empty | xargs rm
 
 git clean -f -d -n
 
-git reset --hard origin/main
-
-git config --global core.compression 0
 
 ---
 

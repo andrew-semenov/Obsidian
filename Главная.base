@@ -24,6 +24,7 @@ views:
       - file.name
       - Оригинальное название
       - Формат
+      - tags
     image: note.Обложка
     imageFit: contain
     cardSize: 170

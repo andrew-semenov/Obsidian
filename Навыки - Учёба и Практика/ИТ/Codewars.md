@@ -1,4 +1,11 @@
-
+---
+Формат: Практика
+В процессе: true
+Этап/Прогресс: 
+Завершено: false
+Обложка: https://www.codewars.com/packs/assets/logo-square-red-big.c74ae0e7.png
+tags:
+---
 
 > [!NOTE] Javascript
 > - [ ] [8 kyu Function 1 - hello world](https://www.codewars.com/kata/523b4ff7adca849afe000035)
