@@ -3,6 +3,8 @@
 В процессе: true
 Этап/Прогресс: Java Syntax. Уровень 1
 Завершено: false
+Кладезь: true
+Интерес: 1
 Обложка: https://cdn.javarush.com/images/system/422c44d3-6cad-4b4a-a929-6e21155e379f/1024.jpeg
 tags:
 ---

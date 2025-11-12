@@ -4,6 +4,7 @@
 Этап/Прогресс: «Бандиты» (исп. Los Bandoleros)
 В процессе: false
 Завершено: false
+Интерес: 3
 Обложка: https://upload.wikimedia.org/wikipedia/ru/thumb/c/c4/Fast_X.jpg/960px-Fast_X.jpg
 tags:
   - Боевик

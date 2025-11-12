@@ -3,7 +3,8 @@
 Формат: Фильм
 В процессе: false
 Завершено: true
-Обложка:
+Интерес: 4
+Обложка: https://avatars.mds.yandex.net/get-kinopoisk-image/1704946/0d134040-295d-420e-9cfb-9546522f6e3b/600x900
 tags:
 ---
 

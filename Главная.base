@@ -12,6 +12,9 @@ views:
       - Этап/Прогресс
       - Формат
       - tags
+    sort:
+      - property: Интерес
+        direction: ASC
     image: note.Обложка
     imageFit: contain
     cardSize: 170
@@ -26,6 +29,9 @@ views:
       - Оригинальное название
       - Формат
       - tags
+    sort:
+      - property: Интерес
+        direction: ASC
     image: note.Обложка
     imageFit: contain
     cardSize: 170
@@ -38,6 +44,9 @@ views:
       - file.name
       - Оригинальное название
       - Формат
+    sort:
+      - property: Интерес
+        direction: ASC
     image: note.Обложка
     imageFit: contain
     cardSize: 170

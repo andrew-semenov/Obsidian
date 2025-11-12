@@ -19,6 +19,7 @@
     "ПрогрессMax": "number",
     "Глав": "number",
     "Смотрю": "checkbox",
-    "Посмотрел": "checkbox"
+    "Посмотрел": "checkbox",
+    "Приоритет": "number"
   }
 }
