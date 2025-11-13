@@ -4,6 +4,7 @@
 Этап/Прогресс:
 Завершено: false
 Кладезь: true
+Приоритет: 1
 Интерес: 1
 Обложка: https://www.codewars.com/packs/assets/logo-square-red-big.c74ae0e7.png
 tags:
