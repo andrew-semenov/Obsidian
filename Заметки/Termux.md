@@ -1,3 +1,13 @@
+---
+Формат: Закладки
+Заметки: true
+Кладезь: true
+Приоритет: 0
+Интерес: 0
+Обложка: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Termux.svg/1200px-Termux.svg.png
+tags:
+---
+
 pkg update
 pkg upgrade
 pkg install git

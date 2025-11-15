@@ -17,8 +17,8 @@ views:
     sort: []
     image: note.Обложка
     imageFit: contain
-    cardSize: 180
-    imageAspectRatio: 1.05
+    cardSize: 170
+    imageAspectRatio: 0.7
   - type: cards
     name: Заметкии
     filters:
@@ -36,8 +36,8 @@ views:
         direction: ASC
     image: note.Обложка
     imageFit: contain
-    cardSize: 180
-    imageAspectRatio: 1.05
+    cardSize: 170
+    imageAspectRatio: 0.7
   - type: cards
     name: Кладезь
     filters:
@@ -49,6 +49,7 @@ views:
     imageFit: contain
     image: note.Обложка
     cardSize: 170
+    imageAspectRatio: 0.7
   - type: cards
     name: Youtube
     filters:
@@ -62,7 +63,8 @@ views:
         direction: ASC
     imageFit: contain
     image: note.Обложка
-    cardSize: 170
+    cardSize: 120
+    imageAspectRatio: 1
   - type: cards
     name: В процессе
     filters:
@@ -79,9 +81,9 @@ views:
       - property: Интерес
         direction: ASC
     image: note.Обложка
+    cardSize: 200
+    imageAspectRatio: 0.7
     imageFit: contain
-    cardSize: 180
-    imageAspectRatio: 1.05
   - type: cards
     name: Ожидает
     filters:
