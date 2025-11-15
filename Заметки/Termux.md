@@ -12,12 +12,16 @@ cd /storage/emulated/0/Documents/Obsidian
 ```
 
 ```
-apt update && apt upgrade
+apt update && 
+apt upgrade
 ```
 
 ```
 git fsck --full &&
-git fsck --name-objects &&
+git fsck --name-objects
+```
+
+```
 git pull --rebase
 ```
 
