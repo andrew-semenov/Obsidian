@@ -3,6 +3,67 @@ properties:
     displayName: Название
 views:
   - type: cards
+    name: Учёба и практика
+    filters:
+      or:
+        - Формат == "Учёба и практика"
+        - Формат == "Лекции"
+        - Формат == "Курсы"
+        - Формат == "Скринкаст"
+    order:
+      - file.name
+      - Формат
+      - tags
+    sort: []
+    image: note.Обложка
+    imageFit: contain
+    cardSize: 180
+    imageAspectRatio: 1.05
+  - type: cards
+    name: Заметкии
+    filters:
+      or:
+        - Заметки == true
+    groupBy:
+      property: Приоритет
+      direction: ASC
+    order:
+      - file.name
+      - Формат
+      - tags
+    sort:
+      - property: Интерес
+        direction: ASC
+    image: note.Обложка
+    imageFit: contain
+    cardSize: 180
+    imageAspectRatio: 1.05
+  - type: cards
+    name: Кладезь
+    filters:
+      and:
+        - Кладезь == true
+    order:
+      - file.name
+      - Формат
+    imageFit: contain
+    image: note.Обложка
+    cardSize: 170
+  - type: cards
+    name: Youtube
+    filters:
+      and:
+        - file.tags.contains("Youtube")
+    order:
+      - file.name
+      - Формат
+    sort:
+      - property: Интерес
+        direction: ASC
+    imageFit: contain
+    image: note.Обложка
+    cardSize: 170
+  - type: cards
     name: В процессе
     filters:
       and:
@@ -12,7 +73,6 @@ views:
       direction: ASC
     order:
       - file.name
-      - Этап/Прогресс
       - Формат
       - tags
     sort:
@@ -20,7 +80,8 @@ views:
         direction: ASC
     image: note.Обложка
     imageFit: contain
-    cardSize: 170
+    cardSize: 180
+    imageAspectRatio: 1.05
   - type: cards
     name: Ожидает
     filters:
@@ -40,7 +101,8 @@ views:
         direction: ASC
     image: note.Обложка
     imageFit: contain
-    cardSize: 170
+    cardSize: 180
+    imageAspectRatio: 1.05
   - type: cards
     name: Завершено
     filters:
@@ -60,15 +122,4 @@ views:
         direction: ASC
     image: note.Обложка
     imageFit: contain
-    cardSize: 170
-  - type: cards
-    name: Кладезь
-    filters:
-      and:
-        - Кладезь == true
-    order:
-      - file.name
-      - Формат
-    imageFit: contain
-    image: note.Обложка
     cardSize: 170

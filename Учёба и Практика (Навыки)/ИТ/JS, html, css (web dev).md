@@ -5,8 +5,12 @@
 Завершено: false
 Приоритет: 1
 Интерес: 2
-Обложка: https://habrastorage.org/getpro/habr/upload_files/3bf/0fa/a04/3bf0faa04aca5094fa2d05a68a04561f.png
+Обложка: https://www.ultimatewb.com/blog/wp-content/uploads/html-js-css-website-coding.jpg
 tags:
+  - Youtube
+  - Javascript
+  - html
+  - css
 ---
 - [ ] Debug: Создать простой проект на JS, чтобы можно было тренероваться дебажить в браузере
 - [ ] Список задач
