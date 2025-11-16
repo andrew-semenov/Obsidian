@@ -7,7 +7,13 @@ tags:
   - Youtube
 ---
 
-#### 7 класс
+### 7 класс
+
+> - [ ] [Урок 1 (осн). Физика - наука о природе](https://www.youtube.com/watch?v=2JGbRnJfG0g)
+> - [ ] [Урок 2 (осн). Научные методы изучения природы](https://www.youtube.com/watch?v=Ioaq97Jp10Q)
+
+^3dfa9a
+
 > [!NOTE]- [7 класс (основная школа)](https://www.youtube.com/playlist?list=PL1Us50cZo25nsoM_r05Jcx5VX5uKF1seU)
 > - [ ] [Урок 1 (осн). Физика - наука о природе](https://www.youtube.com/watch?v=2JGbRnJfG0g)
 > - [ ] [Урок 2 (осн). Научные методы изучения природы](https://www.youtube.com/watch?v=Ioaq97Jp10Q)
@@ -42,22 +48,15 @@ tags:
 > - [ ] 
 > - [ ] 
 
-^dd94ef
-
-#### 8 класс
 > [!NOTE]- [8 класс (основная школа)](https://www.youtube.com/playlist?list=PL1Us50cZo25lI9BRQat7KXDMW5XWWiEXC)
 > - [ ] [Урок 87 (осн). Вращательное движение. Период и частота вращения](https://www.youtube.com/watch?v=r9vhXplxrKI)
 > - [ ] []()
 
-^4b29c6
 
-#### 9 класс
 > [!NOTE]- [9 класс (основная школа)](https://www.youtube.com/playlist?list=PL1Us50cZo25nXaCjM-LsYk07Seabl_GSh)
 > - [ ] [Урок 195 (осн). Свет. Источники света. Распространение света](https://www.youtube.com/watch?v=RyC8QIs-o_0)
 > - [ ] []()
 > - [ ] []()
 > - [ ] []()
-
-^80df42
 
 

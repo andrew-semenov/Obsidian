@@ -39,19 +39,17 @@ views:
       and:
         - note["В процессе"] == true
     groupBy:
-      property: Формат
+      property: Приоритет
       direction: ASC
     order:
       - file.name
       - Формат
       - tags
     sort:
-      - property: Приоритет
-        direction: ASC
       - property: Интерес
         direction: ASC
     image: note.Обложка
-    cardSize: 170
+    cardSize: 210
     imageAspectRatio: 0.7
     imageFit: contain
   - type: cards

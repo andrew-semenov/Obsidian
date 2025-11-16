@@ -1,0 +1,4 @@
+- [ ] [Разбираем простой пайплайн Github Actions за 10 минут - YouTube](https://www.youtube.com/watch?v=P2c_xR-jKKE)
+- [ ] [Автотесты и деплой на GitHub Actions: npm-скрипты, EditorConfig и настройка ssh-ключа - YouTube](https://www.youtube.com/watch?v=hevU4NdIsoU)
+- [ ] [Github Actions - Введение в CI/CD - YouTube](https://www.youtube.com/watch?v=e0A2hDObLmg)
+- [ ] 
