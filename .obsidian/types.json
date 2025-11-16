@@ -21,6 +21,7 @@
     "Смотрю": "checkbox",
     "Посмотрел": "checkbox",
     "Приоритет": "number",
-    "Интерес": "number"
+    "Интерес": "number",
+    "Учёба": "checkbox"
   }
 }

@@ -1,10 +1,8 @@
 ---
-Формат: Учёба и практика
-В процессе: true
-Этап/Прогресс:
+Учёба: true
 Завершено: false
 Приоритет: 1
-Интерес: 2
+Интерес: 1
 Обложка: https://www.ultimatewb.com/blog/wp-content/uploads/html-js-css-website-coding.jpg
 tags:
   - Youtube

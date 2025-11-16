@@ -3,16 +3,12 @@ properties:
     displayName: Название
 views:
   - type: cards
-    name: Учёба и практика
+    name: Теоретические знания и практические навыки
     filters:
-      or:
-        - Формат == "Учёба и практика"
-        - Формат == "Лекции"
-        - Формат == "Курсы"
-        - Формат == "Скринкаст"
+      and:
+        - Учёба == true
     order:
       - file.name
-      - Формат
       - tags
     sort: []
     image: note.Обложка
@@ -29,7 +25,6 @@ views:
       direction: ASC
     order:
       - file.name
-      - Формат
       - tags
     sort:
       - property: Интерес
@@ -38,50 +33,25 @@ views:
     imageFit: contain
     cardSize: 170
     imageAspectRatio: 0.7
-  - type: cards
-    name: Кладезь
-    filters:
-      and:
-        - Кладезь == true
-    order:
-      - file.name
-      - Формат
-    imageFit: contain
-    image: note.Обложка
-    cardSize: 170
-    imageAspectRatio: 0.7
-  - type: cards
-    name: Youtube
-    filters:
-      and:
-        - file.tags.contains("Youtube")
-    order:
-      - file.name
-      - Формат
-    sort:
-      - property: Интерес
-        direction: ASC
-    imageFit: contain
-    image: note.Обложка
-    cardSize: 120
-    imageAspectRatio: 1
   - type: cards
     name: В процессе
     filters:
       and:
         - note["В процессе"] == true
     groupBy:
-      property: Приоритет
+      property: Формат
       direction: ASC
     order:
       - file.name
       - Формат
       - tags
     sort:
+      - property: Приоритет
+        direction: ASC
       - property: Интерес
         direction: ASC
     image: note.Обложка
-    cardSize: 200
+    cardSize: 170
     imageAspectRatio: 0.7
     imageFit: contain
   - type: cards
@@ -91,7 +61,7 @@ views:
         - note["В процессе"] == false
         - Завершено == false
     groupBy:
-      property: Приоритет
+      property: Формат
       direction: ASC
     order:
       - file.name
@@ -99,12 +69,14 @@ views:
       - Формат
       - tags
     sort:
+      - property: Приоритет
+        direction: ASC
       - property: Интерес
         direction: ASC
     image: note.Обложка
     imageFit: contain
-    cardSize: 180
-    imageAspectRatio: 1.05
+    cardSize: 170
+    imageAspectRatio: 0.7
   - type: cards
     name: Завершено
     filters:
@@ -125,3 +97,4 @@ views:
     image: note.Обложка
     imageFit: contain
     cardSize: 170
+    imageAspectRatio: 0.7
