@@ -4,8 +4,10 @@
 Завершено: false
 Приоритет: 1
 Интерес: 1
+Контент: Образовательный
 Обложка: https://cdn.javarush.com/images/system/422c44d3-6cad-4b4a-a929-6e21155e379f/1024.jpeg
 tags:
+  - Курсы
 ---
 
 - [Полезные ссылки от профессора – 1](https://javarush.com/quests/lectures/questsyntax.level01.lecture09)

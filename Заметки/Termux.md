@@ -4,6 +4,8 @@
 Интерес: 0
 Обложка: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Termux.svg/1200px-Termux.svg.png
 tags:
+Контент: Заметки
+В процессе: true
 ---
 
 pkg update

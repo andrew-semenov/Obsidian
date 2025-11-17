@@ -4,8 +4,10 @@
 Завершено: false
 Приоритет: 1
 Интерес: 1
+Контент: Образовательный
 Обложка: https://www.codewars.com/packs/assets/logo-square-red-big.c74ae0e7.png
 tags:
+  - Challenges
 ---
 
 > [!NOTE] Javascript

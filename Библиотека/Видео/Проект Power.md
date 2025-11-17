@@ -5,10 +5,12 @@
 Завершено: false
 Приоритет: 3
 Интерес: 4
+Контент: Развлекательный
 Обложка: https://3c6758962www.lafa.site/image/2020-07/25/poster_m_5405571_616254.jpg
 tags:
+  - Фильм
   - Фантастика
-  - "#Netflix"
+  - Netflix
 ---
 
 https://3c6758962www.lafa.site/film/Boevik/proekt-power.htm

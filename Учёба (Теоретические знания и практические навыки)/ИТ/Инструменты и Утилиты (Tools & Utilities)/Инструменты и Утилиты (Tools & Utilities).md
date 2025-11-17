@@ -7,9 +7,11 @@
 Обложка: https://cf.ppt-online.org/files/slide/l/lHWw3Tgjen6IioyLcbz2pSJKMNOBAEZsVXFhv9/slide-0.jpg
 tags:
   - Youtube
-  - Javascript
-  - html
-  - css
+  - git
+  - nmap
+  - curl
+  - docker
+Контент: Образовательный
 ---
 
 #### git
