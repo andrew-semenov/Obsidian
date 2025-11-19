@@ -1,10 +1,12 @@
 ---
-Заметки: true
+Категория: Заметки
+В процессе: true
+Завершено: false
 Приоритет: 0
 Интерес: 0
-Обложка: https://st.depositphotos.com/1052468/4896/i/450/depositphotos_48969957-stock-photo-seo-web-design-concept-useful.jpg
-Контент: Заметки
-В процессе: true
+---
+
+
 ---
 
 >[!Example]- Образовательный контент (educational content)
@@ -85,3 +87,19 @@
 >[!Example]- Музыка (Music)
 > - https://soundcloud.com/
 > - https://www.spotify.com/
+
+---
+
+#### Языки (Ресурсы)
+- https://www.loecsen.com/
+- https://reallanguage.club/   
+
+^116c4b
+
+
+#### Спорт
+- https://exrx.net/
+- https://musclewiki.com/  
+
+^c34a61
+

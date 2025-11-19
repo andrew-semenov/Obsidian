@@ -1,11 +1,10 @@
 ---
-Заметки: true
+Категория: Заметки
+В процессе: true
+Завершено: false
 Приоритет: 0
 Интерес: 0
-Обложка: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Termux.svg/1200px-Termux.svg.png
 tags:
-Контент: Заметки
-В процессе: true
 ---
 
 pkg update
@@ -44,17 +43,19 @@ git reset --hard origin/main &&
 git pull --rebase
 ```
 
+```
 find .git/objects/ -size 0 -delete
+```
 
+```
 find .git/objects/ -type f -empty | xargs rm
+```
 
+```
 git clean -f -d -n
-
+```
 
 ---
-
-- Nmap
-- Curl
 - 
 
 > Termux (Android)

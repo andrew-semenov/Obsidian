@@ -17,7 +17,7 @@
   "foldIndent": false,
   "foldHeading": false,
   "showIndentGuide": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "mobileToolbarCommands": [
     "editor:paste",
     "editor:insert-callout",

@@ -1,11 +1,9 @@
 ---
-Учёба: true
+Категория: Образовательный контент
 В процессе: true
 Завершено: false
 Приоритет: 1
 Интерес: 1
-Контент: Образовательный
-Обложка: https://www.ultimatewb.com/blog/wp-content/uploads/html-js-css-website-coding.jpg
 tags:
   - Youtube
   - Javascript

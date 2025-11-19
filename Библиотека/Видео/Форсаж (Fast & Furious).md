@@ -1,11 +1,10 @@
 ---
 Оригинальное название: англ. Fast & Furious
-Формат: Фильм
+Категория: Развлекательный контент
 В процессе: true
 Завершено: false
 Приоритет: 3
 Интерес: 2
-Контент: Развлекательный
 Обложка: https://upload.wikimedia.org/wikipedia/ru/thumb/c/c4/Fast_X.jpg/960px-Fast_X.jpg
 tags:
   - Фильм

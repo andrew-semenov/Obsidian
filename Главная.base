@@ -3,37 +3,6 @@ properties:
     displayName: Название
 views:
   - type: cards
-    name: Теоретические знания и практические навыки
-    filters:
-      and:
-        - Учёба == true
-    order:
-      - file.name
-      - tags
-    sort: []
-    image: note.Обложка
-    imageFit: contain
-    cardSize: 170
-    imageAspectRatio: 0.7
-  - type: cards
-    name: Заметкии
-    filters:
-      or:
-        - Заметки == true
-    groupBy:
-      property: Приоритет
-      direction: ASC
-    order:
-      - file.name
-      - tags
-    sort:
-      - property: Интерес
-        direction: ASC
-    image: note.Обложка
-    imageFit: contain
-    cardSize: 170
-    imageAspectRatio: 0.7
-  - type: cards
     name: В процессе
     filters:
       and:
@@ -102,31 +71,7 @@ views:
       and:
         - note["В процессе"] == true
     groupBy:
-      property: Контент
-      direction: ASC
-    order:
-      - file.name
-      - Оригинальное название
-      - Автор
-      - tags
-    sort:
-      - property: Приоритет
-        direction: ASC
-      - property: Интерес
-        direction: ASC
-    image: note.Обложка
-    cardSize: 210
-    imageAspectRatio: 0.7
-    imageFit: contain
-    indentProperties: false
-    separator: ", "
-  - type: list
-    name: Завершено - список
-    filters:
-      and:
-        - Завершено == true
-    groupBy:
-      property: Контент
+      property: Категория
       direction: ASC
     order:
       - file.name
@@ -150,6 +95,30 @@ views:
       and:
         - note["В процессе"] == false
         - Завершено == false
+    groupBy:
+      property: Контент
+      direction: ASC
+    order:
+      - file.name
+      - Оригинальное название
+      - Автор
+      - tags
+    sort:
+      - property: Приоритет
+        direction: ASC
+      - property: Интерес
+        direction: ASC
+    image: note.Обложка
+    cardSize: 210
+    imageAspectRatio: 0.7
+    imageFit: contain
+    indentProperties: false
+    separator: ", "
+  - type: list
+    name: Завершено - список
+    filters:
+      and:
+        - Завершено == true
     groupBy:
       property: Контент
       direction: ASC
