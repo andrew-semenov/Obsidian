@@ -96,7 +96,7 @@ views:
         - note["В процессе"] == false
         - Завершено == false
     groupBy:
-      property: Контент
+      property: Категория
       direction: ASC
     order:
       - file.name
@@ -120,7 +120,7 @@ views:
       and:
         - Завершено == true
     groupBy:
-      property: Контент
+      property: Категория
       direction: ASC
     order:
       - file.name
