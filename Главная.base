@@ -157,3 +157,13 @@ views:
     cardSize: 170
     imageAspectRatio: 0.7
     indentProperties: false
+  - type: list
+    name: библиотека
+    groupBy:
+      property: Категория
+      direction: ASC
+    order:
+      - file.name
+      - Оригинальное название
+      - Автор
+      - file.tags
