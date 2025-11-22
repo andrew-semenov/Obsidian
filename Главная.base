@@ -7,16 +7,11 @@ views:
     filters:
       and:
         - note["В процессе"] == true
-    groupBy:
-      property: Приоритет
-      direction: ASC
     order:
       - file.name
       - Формат
       - tags
-    sort:
-      - property: Интерес
-        direction: ASC
+    sort: []
     image: note.Обложка
     cardSize: 210
     imageAspectRatio: 0.7
@@ -27,19 +22,12 @@ views:
       and:
         - note["В процессе"] == false
         - Завершено == false
-    groupBy:
-      property: Формат
-      direction: ASC
     order:
       - file.name
       - Оригинальное название
       - Формат
       - tags
-    sort:
-      - property: Приоритет
-        direction: ASC
-      - property: Интерес
-        direction: ASC
+    sort: []
     image: note.Обложка
     imageFit: contain
     cardSize: 170
@@ -49,18 +37,11 @@ views:
     filters:
       and:
         - Завершено == true
-    groupBy:
-      property: Формат
-      direction: ASC
     order:
       - file.name
       - Оригинальное название
       - Формат
-    sort:
-      - property: Приоритет
-        direction: ASC
-      - property: Интерес
-        direction: ASC
+    sort: []
     image: note.Обложка
     imageFit: contain
     cardSize: 170
