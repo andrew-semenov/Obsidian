@@ -2,55 +2,60 @@ properties:
   note.Название:
     displayName: Название
 views:
-  - type: cards
-    name: В процессе
+  - type: list
+    name: Начато
     filters:
       and:
-        - note["В процессе"] == true
+        - Начато == true
+    groupBy:
+      property: Категория
+      direction: ASC
     order:
       - file.name
-      - Формат
+      - Оригинальное название
+      - Автор
       - tags
-    sort: []
+    sort:
+      - property: Приоритет
+        direction: ASC
+      - property: Интерес
+        direction: ASC
     image: note.Обложка
     cardSize: 210
     imageAspectRatio: 0.7
     imageFit: contain
-  - type: cards
+    indentProperties: false
+    separator: ", "
+  - type: list
     name: Ожидает
     filters:
       and:
-        - note["В процессе"] == false
+        - Начато == false
         - Завершено == false
+    groupBy:
+      property: Категория
+      direction: ASC
     order:
       - file.name
       - Оригинальное название
-      - Формат
+      - Автор
       - tags
-    sort: []
+    sort:
+      - property: Приоритет
+        direction: ASC
+      - property: Интерес
+        direction: ASC
     image: note.Обложка
-    imageFit: contain
-    cardSize: 170
+    cardSize: 210
     imageAspectRatio: 0.7
-  - type: cards
+    imageFit: contain
+    indentProperties: false
+    separator: ", "
+  - type: list
     name: Завершено
     filters:
       and:
         - Завершено == true
-    order:
-      - file.name
-      - Оригинальное название
-      - Формат
-    sort: []
-    image: note.Обложка
-    imageFit: contain
-    cardSize: 170
-    imageAspectRatio: 0.7
-  - type: list
-    name: В процессе - список
-    filters:
-      and:
-        - note["В процессе"] == true
     groupBy:
       property: Категория
       direction: ASC
@@ -71,75 +76,7 @@ views:
     indentProperties: false
     separator: ", "
   - type: list
-    name: Ожидание - список
-    filters:
-      and:
-        - note["В процессе"] == false
-        - Завершено == false
-    groupBy:
-      property: Категория
-      direction: ASC
-    order:
-      - file.name
-      - Оригинальное название
-      - Автор
-      - tags
-    sort:
-      - property: Приоритет
-        direction: ASC
-      - property: Интерес
-        direction: ASC
-    image: note.Обложка
-    cardSize: 210
-    imageAspectRatio: 0.7
-    imageFit: contain
-    indentProperties: false
-    separator: ", "
-  - type: list
-    name: Завершено - список
-    filters:
-      and:
-        - Завершено == true
-    groupBy:
-      property: Категория
-      direction: ASC
-    order:
-      - file.name
-      - Оригинальное название
-      - Автор
-      - tags
-    sort:
-      - property: Приоритет
-        direction: ASC
-      - property: Интерес
-        direction: ASC
-    image: note.Обложка
-    cardSize: 210
-    imageAspectRatio: 0.7
-    imageFit: contain
-    indentProperties: false
-    separator: ", "
-  - type: list
-    name: Заметкии - список
-    filters:
-      or:
-        - Заметки == true
-    groupBy:
-      property: Приоритет
-      direction: ASC
-    order:
-      - file.name
-      - tags
-    sort:
-      - property: Интерес
-        direction: ASC
-    image: note.Обложка
-    imageFit: contain
-    cardSize: 170
-    imageAspectRatio: 0.7
-    indentProperties: false
-  - type: list
-    name: библиотека
+    name: Библиотека
     groupBy:
       property: Категория
       direction: ASC
