@@ -78,10 +78,10 @@ views:
   - type: list
     name: Библиотека
     groupBy:
-      property: tags
+      property: Категория
       direction: ASC
     order:
       - file.name
       - Оригинальное название
       - Автор
-      - file.tags
+      - tags
