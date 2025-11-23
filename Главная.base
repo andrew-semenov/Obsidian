@@ -78,7 +78,7 @@ views:
   - type: list
     name: Библиотека
     groupBy:
-      property: Категория
+      property: tags
       direction: ASC
     order:
       - file.name
