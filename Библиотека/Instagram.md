@@ -12,3 +12,6 @@
 > [!NOTE]- Психология
 > - Contents
 
+https://www.instagram.com/p/DQoNpx2DIZi/
+
+https://www.instagram.com/kosrnouri/reel/DMOZDUkIbsi/

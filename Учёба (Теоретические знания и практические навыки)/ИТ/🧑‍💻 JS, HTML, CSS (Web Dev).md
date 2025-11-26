@@ -5,13 +5,13 @@
 Приоритет: 1
 Интерес: 1
 tags:
-  - Youtube
-  - Javascript
-  - html
-  - css
+  - JavaScript
+  - HTML
+  - CSS
+  - YouTube
 ---
 
-#### проекты
+#### проект
 - [ ] [Вёрстка сайта с нуля • HTML, SCSS, JS практика • Подробное объяснение по шагам • Проект в портфолио - YouTube](https://www.youtube.com/watch?v=hkYzqTKnSIg&list=PLzZpNqUTZceL_6KJgq8I8Zw5bSfEkxwKn)
 - [ ] [Learn JavaScript by building the EASIEST Calculator! - Super easy!](https://youtu.be/1cWtQ1GOASs?si=AhOaw021Y4C01Wp9)
 - [ ] [1 hour 2D Breakout in JavaScript!](https://www.youtube.com/watch?v=sAnHM4D9e7U)
@@ -36,3 +36,8 @@ tags:
 - [ ] Помощник: приложение, которое задаёт вопросы и даёт предложения какой вариант лучше
 - [ ] Эконом: веб- приложение для поиска товаров по шрихкоду
 - [ ] 
+
+
+---
+
+# На сортировку

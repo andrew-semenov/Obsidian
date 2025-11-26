@@ -24,7 +24,7 @@ views:
     cardSize: 210
     imageAspectRatio: 0.7
     imageFit: contain
-    indentProperties: false
+    indentProperties: true
     separator: ", "
   - type: list
     name: Ожидает
@@ -73,7 +73,7 @@ views:
     cardSize: 210
     imageAspectRatio: 0.7
     imageFit: contain
-    indentProperties: false
+    indentProperties: true
     separator: ", "
   - type: list
     name: Библиотека

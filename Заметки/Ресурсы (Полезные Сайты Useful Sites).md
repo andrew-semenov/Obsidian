@@ -101,3 +101,6 @@ tags:
 
 ^c34a61
 
+https://www.newgrounds.com/wiki/about-newgrounds
+
+https://itch.io/

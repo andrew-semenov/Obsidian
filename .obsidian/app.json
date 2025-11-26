@@ -40,7 +40,8 @@
     "editor:clear-formatting",
     "editor:insert-table",
     "editor:configure-toolbar",
-    "bases:insert"
+    "bases:insert",
+    "editor:toggle-blockquote"
   ],
   "mobileQuickRibbonItem": "",
   "propertiesInDocument": "source",

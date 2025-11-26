@@ -7,6 +7,7 @@
 tags:
   - Испытания
   - Challenges
+  - kata
 ---
 
 > [!NOTE] Javascript
