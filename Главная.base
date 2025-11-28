@@ -12,9 +12,9 @@ views:
       direction: ASC
     order:
       - file.name
+      - tags
       - Оригинальное название
       - Автор
-      - tags
     sort:
       - property: Приоритет
         direction: ASC

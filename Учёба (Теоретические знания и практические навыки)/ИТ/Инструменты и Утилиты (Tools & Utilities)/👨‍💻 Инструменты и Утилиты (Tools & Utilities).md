@@ -30,3 +30,5 @@ tags:
 ---
 
 # На сортировку
+
+https://youtube.com/watch?v=SXwC9fSwct8&si=lajmB6x5zBZCvIc2
