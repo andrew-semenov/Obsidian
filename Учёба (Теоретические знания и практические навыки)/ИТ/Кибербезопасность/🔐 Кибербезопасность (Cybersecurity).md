@@ -31,3 +31,7 @@ tags:
 ---
 
 # На сортировку
+
+https://youtube.com/watch?v=2OPVViV-GQk&si=btGiGx_-3OAQURLN
+
+https://youtube.com/watch?v=4rnrfbb1-Wg&si=UrgjY1Nx-EDTw-a9
