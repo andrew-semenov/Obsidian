@@ -11,7 +11,7 @@ tags:
   - YouTube
 ---
 
-
+- [ ] [NoSQL Database Tutorial – Full Course for Beginners - YouTube](https://www.youtube.com/watch?v=xh4gy1lbL2k) #AniaKubow
 
 #### Теория
 
@@ -24,6 +24,5 @@ tags:
 ---
 
 # На сортировку
-https://www.instagram.com/reel/DQ6VuPWiHsh/
 
-https://youtube.com/watch?v=xh4gy1lbL2k&si=WPwX8rnIziCDf6X1 #AniaKubow
+https://www.instagram.com/reel/DQ6VuPWiHsh/

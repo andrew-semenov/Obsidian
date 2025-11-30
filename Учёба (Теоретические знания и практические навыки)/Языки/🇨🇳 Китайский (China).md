@@ -13,9 +13,9 @@ tags:
   - YouTube
 ---
 
-> [!faq]- Слова и фразы
-> - https://www.youtube.com/watch?v=JlpSCoylG54&list=PLzZpNqUTZceJgKDwWF1w5vqzjyY3PwuC3
-> - 
+#### Слова и фразы
+ - [100 САМЫХ ИСПОЛЬЗУЕМЫХ СЛОВ. 💪 Урок китайского языка с нуля 🐼 - YouTube](https://www.youtube.com/watch?v=JlpSCoylG54&list=PLzZpNqUTZceJgKDwWF1w5vqzjyY3PwuC3) #НадяПоднебесная
+ - [25 фраз, которые помогут тебе выжить в Китае \| Школа Китайского \| Twins Chinese - YouTube](https://www.youtube.com/watch?v=pO-Tuok6Sf8&list=PLzZpNqUTZceJgKDwWF1w5vqzjyY3PwuC3&index=2)
 
 
 

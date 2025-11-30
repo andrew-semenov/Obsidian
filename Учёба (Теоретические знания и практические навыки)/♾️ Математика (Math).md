@@ -14,11 +14,15 @@ tags:
 ### Упражнения
 - https://ru.onlinemschool.com/math/practice/
 
+####  3 класс
+- [Порядок выполнения действий - Математика 3 класс - YouTube](https://www.youtube.com/watch?v=NdzZIlb7sqs)
+
 ---
 
 # На сортировку
 
-https://youtube.com/watch?v=NdzZIlb7sqs&si=MyiMvroLBwTPItlu
+
+
 
 https://youtube.com/shorts/kId27ZbsRNA?si=1xYEBWUYagB2HG9U
 
