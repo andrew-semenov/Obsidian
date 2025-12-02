@@ -14,8 +14,8 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "foldIndent": false,
-  "foldHeading": false,
+  "foldIndent": true,
+  "foldHeading": true,
   "showIndentGuide": true,
   "readableLineLength": false,
   "mobileToolbarCommands": [

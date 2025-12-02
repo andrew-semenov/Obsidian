@@ -16,9 +16,9 @@ tags:
 
 
 #### Модель TCP/IP
+
 - [ ] [Модель и стек протоколов TCP/IP \| Курс "Компьютерные сети" - YouTube](https://www.youtube.com/watch?v=UZo4ffQ-aAc) #AndreySozykin 
 - [ ] [КАК УСТРОЕН TCP/IP? - YouTube](https://www.youtube.com/watch?v=EJzitviiv2c)
-
 
 #### Протоколы
 - [ ] [Протокол IMAP \| Курс "Компьютерные сети" - YouTube](https://www.youtube.com/watch?v=VGYHXIdtNS4) #AndreySozykin 
@@ -32,6 +32,7 @@ tags:
 - [ ] [Постоянное соединение в HTTP \| Курс "Компьютерные сети" - YouTube](https://www.youtube.com/watch?v=7DitlqcesKI) #AndreySozykin 
 - [ ] [Кэширование в HTTP \| Курс "Компьютерные сети" - YouTube](https://www.youtube.com/watch?v=esi6YZRvJzk) #AndreySozykin 
 - [ ] 
+
 
 #### DNS
 - [ ] [Протокол DNS \| Курс "Компьютерные сети" - YouTube](https://www.youtube.com/watch?v=yAlm-jTneeY) #AndreySozykin 
