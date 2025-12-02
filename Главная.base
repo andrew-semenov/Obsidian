@@ -86,3 +86,28 @@ views:
       - Оригинальное название
       - Автор
       - tags
+  - type: list
+    name: Образовательный контент
+    filters:
+      and:
+        - Категория == "Образовательный контент"
+    groupBy:
+      property: Статус
+      direction: ASC
+    order:
+      - file.name
+      - tags
+      - Оригинальное название
+      - Описание
+      - Автор
+    sort:
+      - property: Приоритет
+        direction: ASC
+      - property: Интерес
+        direction: ASC
+    image: note.Обложка
+    cardSize: 210
+    imageAspectRatio: 0.7
+    imageFit: contain
+    indentProperties: true
+    separator: ", "
