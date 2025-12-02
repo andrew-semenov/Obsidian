@@ -53,5 +53,6 @@
   "strictLineBreaks": false,
   "showInlineTitle": true,
   "focusNewTab": false,
-  "promptDelete": true
+  "promptDelete": true,
+  "mobilePullAction": "editor:fold-all"
 }
