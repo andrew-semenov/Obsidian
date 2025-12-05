@@ -52,6 +52,12 @@
       "icon": "lucide-quote",
       "name": "Вставить выносной блок",
       "mode": "any"
+    },
+    {
+      "id": "editor:unfold-all",
+      "icon": "lucide-maximize-2",
+      "name": "Unfold all headings and lists",
+      "mode": "any"
     }
   ],
   "leftRibbon": [

@@ -13,12 +13,9 @@ tags:
 ---
 
 ![[nmap]]
-
-![[curl]]
-
+![[curl#curl]]
 ![[git]]
-
-![[docker]]
+![[docker#docker moker]]
 
 #### eksctl
 
@@ -39,3 +36,6 @@ https://youtube.com/watch?v=Qw9zlE3t8Ko&si=BRz7DfbC6v0XAbNX
 https://youtube.com/watch?v=qxPdd-geqqA&si=_KJi7gPrG4IR_yXf
 
 https://youtube.com/watch?v=56bgjtGUzGE&si=yg8F51B0bR8A_oXN
+
+https://youtu.be/SEvR78OhGtw?si=jNv0BbvOmZ0sG7Ip
+

@@ -77,16 +77,6 @@ views:
     indentProperties: true
     separator: ", "
   - type: list
-    name: Библиотека
-    groupBy:
-      property: Категория
-      direction: ASC
-    order:
-      - file.name
-      - Оригинальное название
-      - Автор
-      - tags
-  - type: list
     name: Образовательный контент
     filters:
       and:
@@ -103,6 +93,8 @@ views:
     sort:
       - property: Приоритет
         direction: ASC
+      - property: Порядок
+        direction: ASC
       - property: Интерес
         direction: ASC
     image: note.Обложка
@@ -111,3 +103,73 @@ views:
     imageFit: contain
     indentProperties: true
     separator: ", "
+  - type: list
+    name: Развлекательный контент
+    filters:
+      and:
+        - Категория == "Развлекательный контент"
+    groupBy:
+      property: Статус
+      direction: ASC
+    order:
+      - file.name
+      - tags
+      - Оригинальное название
+      - Описание
+      - Автор
+    sort:
+      - property: Приоритет
+        direction: ASC
+      - property: Порядок
+        direction: ASC
+      - property: Интерес
+        direction: ASC
+    image: note.Обложка
+    cardSize: 210
+    imageAspectRatio: 0.7
+    imageFit: contain
+    indentProperties: true
+    separator: ", "
+  - type: list
+    name: Справочный контент
+    filters:
+      and:
+        - Категория == "Справочный контент"
+    order:
+      - file.name
+      - tags
+      - Оригинальное название
+      - Описание
+      - Автор
+    sort:
+      - property: Приоритет
+        direction: ASC
+      - property: Порядок
+        direction: ASC
+      - property: Интерес
+        direction: ASC
+    image: note.Обложка
+    cardSize: 210
+    imageAspectRatio: 0.7
+    imageFit: contain
+    indentProperties: true
+    separator: ", "
+  - type: list
+    name: Библиотека
+    groupBy:
+      property: Статус
+      direction: ASC
+    order:
+      - file.name
+      - Оригинальное название
+      - Автор
+      - tags
+    sort:
+      - property: Приоритет
+        direction: ASC
+      - property: Порядок
+        direction: ASC
+      - property: Интерес
+        direction: ASC
+    markers: bullet
+    indentProperties: true

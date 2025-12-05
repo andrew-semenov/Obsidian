@@ -3,8 +3,10 @@
 Начато: true
 Завершено: false
 Приоритет: 1
-Интерес: 2
+Порядок: 2
+Интерес: 1
 tags:
+Статус: Начато
 ---
 
 #### Модель OSI
@@ -44,6 +46,8 @@ tags:
 
 
 #### WSL сети
+- [ ] [WSL 2 Networking](https://youtu.be/yCK3easuYm4?si=TsHcM5yh-XnX5VET) #DavidBombal #YouTube 
+- [ ] 
 
 
 #### API. Rest API. Soap. GraphQL

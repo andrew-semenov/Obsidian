@@ -5,12 +5,18 @@
 Начато: true
 Завершено: false
 Приоритет: 1
+Порядок: 1
 Интерес: 1
 Обложка:
 tags:
   - Теория
   - Примеры
+ПриоритетПорядокИнтерес: 1.1.1
 ---
+
+#### Алгебра
+
+#### Геометрия
 
 ### Упражнения
 - https://ru.onlinemschool.com/math/practice/
@@ -49,3 +55,12 @@ https://www.instagram.com/reel/DQ8hwDfDdSq/
 Посмотрите это фото пользователя @matematika.online.repetitor в Instagram https://www.instagram.com/p/DRB2Go4Df4H/?utm_source=ig_web_button_native_share
 
 Посмотрите это видео пользователя @elm.pluss в Instagram https://www.instagram.com/reel/DQtGEIHDUgN/?utm_source=ig_web_button_native_share
+
+https://youtube.com/watch?v=sn7_drV3WMs&si=p-N2AosrypuQs-sm
+
+[YouTube](https://www.youtube.com/live/_-Yg49jqjio?si=AEGqfZVAZAKystku)
+
+[YouTube](https://youtu.be/sn7_drV3WMs?si=vIaCqyhQaosgkxs3)
+
+[YouTube](https://youtu.be/mRaQbgyd63k?si=Ey_FV06kH62Au4Yd)
+
