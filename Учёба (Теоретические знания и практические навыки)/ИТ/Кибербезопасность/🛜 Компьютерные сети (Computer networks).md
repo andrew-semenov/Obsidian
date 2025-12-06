@@ -78,3 +78,57 @@ tags:
 
 [Основы сетей передачи данных. Модель OSI и стек протоколов TCP IP. Основы Ethernet. [GeekBrains]](https://www.youtube.com/watch?v=Z-a7MNStFQs)
 
+[Модель OSI \| 7 уровней за 7 минут - YouTube](https://www.youtube.com/watch?v=je0QFU7p5Oo&list=PLzZpNqUTZceI7Tll2YVwUqMdCcwTb4L_U)
+
+[Поговорим о DNS. DNS-сервер - YouTube](https://www.youtube.com/watch?v=3jGZuk-ydIc&list=PLzZpNqUTZceI7Tll2YVwUqMdCcwTb4L_U&index=2)
+
+[1 03 Что такое DNS и почему это важно - YouTube](https://www.youtube.com/watch?v=3v7eHV2LJLc&list=PLzZpNqUTZceI7Tll2YVwUqMdCcwTb4L_U&index=2)
+
+[Протокол DHCP \| Курс "Компьютерные сети" - YouTube](https://www.youtube.com/watch?v=uZJ8WVdw-Ck&list=PLzZpNqUTZceI7Tll2YVwUqMdCcwTb4L_U&index=2) #AndreySozykin 
+
+[Трансляция сетевых адресов (NAT) \| Курс "Компьютерные сети" - YouTube](https://www.youtube.com/watch?v=L1JtmAiSaFQ&list=PLzZpNqUTZceI7Tll2YVwUqMdCcwTb4L_U&index=2) #AndreySozykin 
+
+[Сетевой уровень \| Курс "Компьютерные сети" - YouTube](https://www.youtube.com/watch?v=K-yvp1ti-QU&list=PLzZpNqUTZceI7Tll2YVwUqMdCcwTb4L_U&index=2) #AndreySozykin 
+
+
+[Протокол POP3 \| Курс "Компьютерные сети" - YouTube](https://www.youtube.com/watch?v=1swSSGvmnwU&list=PLzZpNqUTZceI7Tll2YVwUqMdCcwTb4L_U&index=2) #AndreySozykin 
+
+[Протокол HTTP \| Курс "Компьютерные сети" - YouTube](https://www.youtube.com/watch?v=RlccXUx4LVw&list=PLzZpNqUTZceI7Tll2YVwUqMdCcwTb4L_U&index=2) #AndreySozykin 
+
+[Протокол FTP \| Курс "Компьютерные сети" - YouTube](https://www.youtube.com/watch?v=Uji0sQ-Co7Q&list=PLzZpNqUTZceI7Tll2YVwUqMdCcwTb4L_U&index=2) #AndreySozykin 
+
+[Модель OSI \| Курс "Компьютерные сети" - YouTube](https://www.youtube.com/watch?v=Tt8BTkxz_Vc&list=PLzZpNqUTZceI7Tll2YVwUqMdCcwTb4L_U&index=2) #AndreySozykin 
+
+[Модель и стек протоколов TCP/IP \| Курс "Компьютерные сети" - YouTube](https://www.youtube.com/watch?v=UZo4ffQ-aAc&list=PLzZpNqUTZceI7Tll2YVwUqMdCcwTb4L_U&index=4) #AndreySozykin 
+
+[Физический уровень \| Курс "Компьютерные сети" - YouTube](https://www.youtube.com/watch?v=yIf7hrgw8P4&list=PLzZpNqUTZceI7Tll2YVwUqMdCcwTb4L_U&index=5) #AndreySozykin 
+
+[Модель OSI. Быстро и просто. - YouTube](https://www.youtube.com/watch?v=Dkk5psHDhe4&list=PLzZpNqUTZceI7Tll2YVwUqMdCcwTb4L_U&index=1)
+
+[✅ Глава 1. 03 Модель OSI - YouTube](https://www.youtube.com/watch?v=DcV3HY6lFP4&list=PLzZpNqUTZceI7Tll2YVwUqMdCcwTb4L_U&index=2)
+
+[Модель OSI 7 простыми словами: эталонная / семиуровневая модель взаимодействия открытых систем. - YouTube](https://www.youtube.com/watch?v=zXtKoT-F7FE&list=PLzZpNqUTZceI7Tll2YVwUqMdCcwTb4L_U&index=2)
+
+[HTTP в текстовом режиме \| Компьютерные сети 2025 - 11 - YouTube](https://www.youtube.com/watch?v=umu1rYPhaBw&list=PLzZpNqUTZceI7Tll2YVwUqMdCcwTb4L_U&index=2)
+
+[Кэширование в HTTP \| Компьютерные сети 2025 - 12 - YouTube](https://www.youtube.com/watch?v=AMonMSmVUeI&list=PLzZpNqUTZceI7Tll2YVwUqMdCcwTb4L_U&index=2)
+
+[HTTP API \| Компьютерные сети 2025 - 14 - YouTube](https://www.youtube.com/watch?v=oOf3brYvzSk&list=PLzZpNqUTZceI7Tll2YVwUqMdCcwTb4L_U&index=2)
+
+[Что такое Swagger и OpenAPI за 3 минуты - YouTube](https://www.youtube.com/watch?v=aaFDBgPdXw4&list=PLzZpNqUTZceI7Tll2YVwUqMdCcwTb4L_U&index=2)
+
+[Что такое TCP/IP: Объясняем на пальцах - YouTube](https://www.youtube.com/watch?v=2I1HnSN1H9o&list=PLzZpNqUTZceI7Tll2YVwUqMdCcwTb4L_U&index=2)
+
+[Что такое CORS за 10 минут - YouTube](https://www.youtube.com/watch?v=meBaGIcOE2A&list=PLzZpNqUTZceI7Tll2YVwUqMdCcwTb4L_U&index=2)
+
+[Что такое GraphQL за 15 минут с примерами - YouTube](https://www.youtube.com/watch?v=Xkx5wroOt7o&list=PLzZpNqUTZceI7Tll2YVwUqMdCcwTb4L_U&index=2)
+
+[КАК УСТРОЕН TCP/IP? - YouTube](https://www.youtube.com/watch?v=EJzitviiv2c&list=PLzZpNqUTZceI7Tll2YVwUqMdCcwTb4L_U&index=2)
+
+
+
+
+
+
+
+

@@ -1,5 +1,6 @@
 ---
 Категория: Образовательный контент
+Статус: Начато
 Начато: true
 Завершено: false
 Приоритет: 1
@@ -25,6 +26,10 @@ tags:
 
 # На сортировку
 
+[Selenium JavaScript Complete Tutorial \| Learn JavaScript Test Automation in 3 Hours - YouTube](https://www.youtube.com/watch?v=BQ-9e13kJ58&list=PLzZpNqUTZceI-cXJyyYrNmg8DEXyCWZNO&index=3)
+
+[Selenium + Python = автоматизация тестирования веб-сайтов \| Селениум + Питон - YouTube](https://www.youtube.com/watch?v=iEmv_nIvFp4&list=PLzZpNqUTZceI-cXJyyYrNmg8DEXyCWZNO&index=6)
+
 https://youtube.com/watch?v=5eKv9PtRX4U&si=1ZnOptJXTyLDzaKY
 
 https://youtube.com/watch?v=1B6oEy3x6VI&si=f_bfdlrvydtyngY1
@@ -36,3 +41,12 @@ https://youtube.com/live/iEmv_nIvFp4?si=wOjDnh2ysUiQkl50
 https://youtube.com/live/m7SvKhsJrNg?si=L23cAASAjkxZkFMS
 
 https://youtube.com/watch?v=4KJo7XlIUKg&si=I0AYK_wccIaKw4u_
+
+
+
+
+
+
+
+
+
