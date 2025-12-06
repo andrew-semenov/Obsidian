@@ -93,8 +93,6 @@ views:
     sort:
       - property: Приоритет
         direction: ASC
-      - property: Порядок
-        direction: ASC
       - property: Интерес
         direction: ASC
     image: note.Обложка
@@ -119,8 +117,6 @@ views:
       - Автор
     sort:
       - property: Приоритет
-        direction: ASC
-      - property: Порядок
         direction: ASC
       - property: Интерес
         direction: ASC

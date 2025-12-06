@@ -1,9 +1,10 @@
 ---
 Категория: Образовательный контент
-Статус: Ожидает
+Статус: Выполняется
 Начато: true
 Завершено: false
-Приоритет: 1
+Приоритет: 2
+Порядок: 3
 Интерес: 2
 Обложка: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvz-1tEMZTwZhVeVFliq13v39GgVP_QTCrSQ&s
 tags:
