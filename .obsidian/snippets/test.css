@@ -6,3 +6,11 @@ body {
     --h5-color: var(--color-blue);
     --h6-color: var(--color-purple);
 }
+
+.bases-group-heading {
+    font-size: large;
+    font-weight: bold;
+    color: darkgreen;
+    text-decoration: underline;
+    text-transform: uppercase;
+}

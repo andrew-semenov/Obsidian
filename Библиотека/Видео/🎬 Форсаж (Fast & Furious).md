@@ -6,7 +6,6 @@
 Завершено: false
 Приоритет: 2
 Интерес: 1
-Обложка: https://upload.wikimedia.org/wikipedia/ru/thumb/c/c4/Fast_X.jpg/960px-Fast_X.jpg
 tags:
   - Фильмы
   - Боевик
@@ -27,3 +26,5 @@ https://ru.wikipedia.org/wiki/Форсаж_(франшиза)
 12. [x] Форсаж 9
 13. [ ] Форсаж 10
 14. [ ] Форсаж 11
+
+![](https://upload.wikimedia.org/wikipedia/ru/thumb/c/c4/Fast_X.jpg/960px-Fast_X.jpg)

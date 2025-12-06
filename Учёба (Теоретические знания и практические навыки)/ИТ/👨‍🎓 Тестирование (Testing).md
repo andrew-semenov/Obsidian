@@ -9,9 +9,9 @@
 tags:
 ---
 
-[[../../Библиотека/📑 Чек-листы#Quality Control|📑 Чек-листы]]
 
 
+### Пути обучения (Learning Paths)
 #### Теория
 - [QD, QC, QA: 3 Quality Processes... in 60 seconds - YouTube](https://www.youtube.com/watch?v=CUX57a6MeQk&list=PLzZpNqUTZceKzVrD2c1yqx6qd7SbNDjYa&index=3) #YouTube 
 - [The Difference Between Quality Assurance and Quality Control - YouTube](https://www.youtube.com/watch?v=9QC09eEfBBw&list=PLzZpNqUTZceKs52BL2lj3nPUQiUZ_52zm&index=2) #YouTube 
@@ -31,13 +31,12 @@ tags:
 > 		- [ ] 
 > - [ ] SDLC Delivery Model
 
+### Дополнительные материалы
 
-#### Чеклисты
-- [Чек-лист по запуску нового сайта: что нужно учесть? ](https://sd.blackball.lv/articles/read/19919)
+- [[../../Библиотека/📑 Чек-листы#Quality Control|📑 Чек-листы]]
 
 #### Книги
 
----
 
 # На сортировку
 

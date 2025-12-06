@@ -29,17 +29,19 @@
   "editor:fold-all": [
     {
       "modifiers": [
+        "Alt",
         "Mod"
       ],
-      "key": "ArrowLeft"
+      "key": "ArrowUp"
     }
   ],
   "editor:unfold-all": [
     {
       "modifiers": [
+        "Alt",
         "Mod"
       ],
-      "key": "ArrowRight"
+      "key": "ArrowDown"
     }
   ]
 }
