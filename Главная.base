@@ -1,8 +1,8 @@
 properties:
   note.Название:
     displayName: Название
-  file.name:
-    displayName: file name
+  note.Прогресс:
+    displayName: Прогресс
 views:
   - type: list
     name: Начато
@@ -89,6 +89,8 @@ views:
     order:
       - file.name
       - tags
+      - Оригинальное название
+      - Описание
       - Автор
       - Прогресс
     sort:
@@ -135,11 +137,13 @@ views:
     order:
       - file.name
       - tags
-      - Метаданные
+      - Оригинальное название
       - Описание
       - Автор
     sort:
       - property: Приоритет
+        direction: ASC
+      - property: Порядок
         direction: ASC
       - property: Интерес
         direction: ASC
