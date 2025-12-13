@@ -15,7 +15,7 @@ tags:
 
 
 ![[nmap]]
-![[curl#curl]]
+![[curl#curl234]]
 ![[git]]
 ![[docker#docker moker]]
 

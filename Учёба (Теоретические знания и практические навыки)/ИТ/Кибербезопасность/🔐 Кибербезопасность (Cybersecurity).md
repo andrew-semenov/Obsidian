@@ -36,3 +36,9 @@ tags:
 https://youtube.com/watch?v=2OPVViV-GQk&si=btGiGx_-3OAQURLN
 
 https://youtube.com/watch?v=4rnrfbb1-Wg&si=UrgjY1Nx-EDTw-a9
+
+https://youtube.com/watch?v=2OPVViV-GQk&si=CN_opKcVHRNxELtz
+
+https://youtube.com/watch?v=ZFzn2AQPwRA&si=ybbBm_r-_UZhoZRS
+
+https://youtube.com/watch?v=5K7mApnSGwo&si=-r7pg0jwLvp0-eRx

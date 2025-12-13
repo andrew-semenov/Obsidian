@@ -1,5 +1,5 @@
 ---
-Оригинальное название: Les aventures extraordinaires d'Adel Blanc-Sec
+Подлинник: Les aventures extraordinaires d'Adel Blanc-Sec
 Категория: Развлекательный контент
 Статус: Завершено
 Начато: false

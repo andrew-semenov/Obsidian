@@ -14,7 +14,7 @@
     "Озвучивает": "multitext",
     "др. язык(и)": "multitext",
     "СтраницГлав": "number",
-    "Прогресс": "number",
+    "Прогресс": "multitext",
     "Читает": "multitext",
     "ПрогрессMax": "number",
     "Глав": "number",
@@ -24,6 +24,7 @@
     "Интерес": "number",
     "Учёба": "checkbox",
     "Категория": "text",
-    "Порядок": "number"
+    "Порядок": "number",
+    "ПрогрессТест3": "multitext"
   }
 }

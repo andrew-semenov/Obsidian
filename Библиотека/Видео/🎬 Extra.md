@@ -1,5 +1,4 @@
 ---
-Оригинальное название: англ. Extra
 Категория: Образовательный контент
 Статус: Выполняется
 Начато: true
@@ -9,7 +8,10 @@
 Интерес: 4
 tags:
   - Сериал
-  - Amazon
+  - English
+  - Spanish
+  - German
+  - French
 ---
 
 [extr@ — Википедия](https://ru.wikipedia.org/wiki/Extr@)

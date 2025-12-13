@@ -1,5 +1,5 @@
 ---
-Оригинальное название: Hercule Poirot
+Подлинник: Hercule Poirot
 Автор:
   - Агата Кристи
   - Agatha Mary Clarissa

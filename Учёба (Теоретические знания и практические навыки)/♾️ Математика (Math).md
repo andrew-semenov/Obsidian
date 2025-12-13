@@ -12,7 +12,7 @@ tags:
   - Примеры
 ---
 
-### Пути обучения (Learning Paths)
+### Путь обучения (Learning Path)
 
 #### Алгебра
 
@@ -69,3 +69,11 @@ https://youtube.com/watch?v=sn7_drV3WMs&si=p-N2AosrypuQs-sm
 [YouTube](https://youtu.be/mRaQbgyd63k?si=Ey_FV06kH62Au4Yd)
 
 https://youtube.com/shorts/xcz1Jxpz1zY?si=wQhbUuYq4CO55w7U
+
+https://youtube.com/shorts/lu-QdDtXm4E?si=baQXIAPe7pqyXe_e
+
+https://youtube.com/shorts/-0e4OzwL-7k?si=JYsmbHD2cUC4iw6K
+
+https://youtube.com/shorts/OxGzrbpEZRw?si=vDoZawPy3IFpmQmE
+
+Посмотрите это видео пользователя @borislav_math в Instagram https://www.instagram.com/reel/DRSNtmHClJn/?utm_source=ig_web_button_native_share

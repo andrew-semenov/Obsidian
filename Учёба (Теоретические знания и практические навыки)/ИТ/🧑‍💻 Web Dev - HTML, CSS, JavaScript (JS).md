@@ -33,7 +33,7 @@ tags:
 
 
 #### JavaScript
-- [[../../Библиотека/📑 Чит-листы#Javascript|Чит-листы]]
+- [[../../Библиотека/📑 Чит-листы (Cheatsheets)#Javascript|Чит-листы]]
 - [ ] [Курс по Grammy JS: вся БАЗА \| как писать телеграм-ботов на JS - YouTube](https://www.youtube.com/watch?v=q-AFR0D7Vuw) #PomazkovJS
 
 
@@ -65,3 +65,19 @@ https://www.instagram.com/reel/DOweFA3jkze/
 https://youtube.com/watch?v=MzO-0IYkZMU&si=h2bQz1ebj8qfZEkP
 
 Посмотрите эту публикацию пользователя @webuniverse02 в Instagram https://www.instagram.com/p/DRtIkibkkV_/?utm_source=ig_web_button_native_share
+
+Посмотрите это фото пользователя @codingwithparvez в Instagram https://www.instagram.com/p/DRfL0JPktYb/?utm_source=ig_web_button_native_share
+
+https://youtube.com/watch?v=DhleEgRmWF8&si=IKn7ROCoAw7Q7H0J
+
+https://youtube.com/watch?v=eYrdtDOq5Lg&si=9qv0f8zFi-SICSOT
+
+https://www.instagram.com/p/DR3ixbmgGXF/
+
+https://www.instagram.com/p/DSHLbQjEhSS/
+
+https://www.instagram.com/p/DRziPvmga87/
+
+https://www.instagram.com/p/DSCuxr3EsBm/
+
+https://www.instagram.com/p/DRL41RpDG_L/

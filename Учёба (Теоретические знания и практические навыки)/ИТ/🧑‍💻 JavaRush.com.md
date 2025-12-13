@@ -7,6 +7,9 @@
 Интерес: 1
 tags:
   - Курсы
+Прогресс:
+  - "Java Syntax. Уровень 1. Знакомство с Java: вывод на экран, типы String и int."
+  - https://javarush.com/quests/lectures?quest=QUEST_JAVA_SYNTAX&level=1
 ---
 
 - [Полезные ссылки от профессора – 1](https://javarush.com/quests/lectures/questsyntax.level01.lecture09)
