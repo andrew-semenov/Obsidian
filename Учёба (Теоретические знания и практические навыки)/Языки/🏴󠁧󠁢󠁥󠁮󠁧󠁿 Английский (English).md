@@ -14,6 +14,117 @@ tags:
   - YouTube
 ---
 
+#### Idioms / Идиомы
+rain cats and dogs – лить как из ведра    
+face like thunder – мрачнее тучи  
+storm in a teacup – буря в стакане воды, много шума из ничего
+chase rainbows – гнаться за недостижимым
+lightning-fast – молниеносный 
+have one's head in the clouds – витать в облаках
+be snowed under – быть перегруженным работой
+be under the weather – недомогать
+twist in the wind – томиться
+under а cloud – под подозрением    
+as right as rain – в полном порядке
+for a rainy day – на черный день      
+bolt from the blue – как снег на голову
+throw caution to the winds – перестать осторожничать
+weather the storm – пережить трудные времена
+sail close to the wind – ходить по краю пропасти
+on cloud nine – на седьмом небе от счастья
+shoot the breeze – болтать о пустяках
+in a fog – растерянный
+go down a storm – удаться
+a piece of the pie – доля
+gravy train – легкие деньги
+bring home the bacon – обеспечивать семью, преуспевать
+make ends meet – сводить концы с концами
+hit the jackpot – срывать куш
+be in the red – быть в долгу
+make a bundle – сделать кучу денег
+bet your bottom dollar – гарантировать что-либо
+look like a million dollars – выглядеть на все сто
+cost a pretty penny – стоить уйму денег
+go Dutch – платить свою часть
+nest egg – заначка
+golden handshake – большое выходное пособие
+cheapskate – скряга
+be flush with money – купаться в роскоши
+at all costs – любой ценой
+live beyond one's means – жить не по средствам
+break the bank – сильно потратиться
+cost a fortune – стоить целое состояние
+on the breadline – за чертой бедности
+once in a blue moon – очень редко
+behind the times – устаревший
+time flies – время летит
+the big time – большой успех
+around the clock – круглосуточно
+dwell on the past – жить прошлым
+have the time of one's life – отлично провести время
+crack of dawn – с восходом солнца
+run out of time – иссякать
+in the blink of an eye – в одно мгновение
+like clockwork – без перебоя
+for donkey's years – с незапамятных времен
+pressed for time – очень торопиться
+give someone a hard time – отчитывать
+be ahead of time – опережать
+to have a whale of a time – замечательно провести время 
+go with the times – идти в ногу со временем
+on the spur of the moment – с наскока
+in broad daylight – среди бела дня
+catch unawares – застигнуть врасплох
+monkey business – бессмысленная работа
+smell a rat – чуять недоброе
+top dog – победитель
+cash cow – источник денежных средств, дойная корова
+eager beaver – работяга, деловая колбаса
+black sheep – белая ворона
+elephant in the room – слона то я и не приметил, это очевидно
+when pigs fly – когда рак свиснет
+like a cat on a hot tin roof – быть не в своей тарелке
+in the doghouse – в немилости
+be as busy as a bee – трудиться, как пчела
+let a cat out of the bag – выпустить кота из мешка
+horse around – валять дурака
+as poor as a church mouse – бедный, как церковная мышь, без гроша за душой
+lion's share of something – львиная доля
+eat like a horse – иметь волчий аппетит
+have a tiger by the tail – бросать вызов судьбе
+hear it straight from the horse's mouth – из первоисточника
+butterflies in the stomach – ни жив, ни мертв
+like water off a duck's back – как с гуся вода
+
+####  Phrasal verbs / Фразовые глаголы
+Be out – отсутствовать
+Be off – уезжать, уходить, быть неработающим, свободным
+Be over – завершиться, окончиться
+Beupto – намереваться, собираться что-то сделать, зависеть от
+Break in – вламываться, врываться, вмешиваться (в разговор)
+Break down – сломаться, сломать, выйти из строя
+Calm down – успокаиваться, успокаивать
+Call back – перезвонить, позвать назад
+Carry on – продолжать заниматься чем-то
+Check in – регистрироваться, зарегистрировать
+Check out – выписаться из, выяснять, проверять
+Clean up – убирать, приводить в порядок
+Come along – приходить, появляться, идти вместе, сопровождать
+Come across – случайно встретить, натолкнуться на
+Come from – происходить от / из, взяться
+Come on – приходить, проходить, давай! / брось! /пошли! /кончай!
+Come in – входить, прибывать, приходить
+Come over – заезжать, подходить, приходить, охватывать
+Cut off – отрезать, прерывать
+Count on – рассчитывать на, возлагать надежду
+End up – закончить, попасть, оказаться
+
+#### Лексика (слова)
+#### Грамматика
+#### Фонетика Произношение, напр звук i
+#### Диалоги
+#### Lyrics / Тексты песен с переводом 
+
 #### Источники
 [[../../Библиотека/Ресурсы (Полезные Сайты Useful Sites)#Языки|Ресурсы (Полезные Сайты Useful Sites)]]
 
