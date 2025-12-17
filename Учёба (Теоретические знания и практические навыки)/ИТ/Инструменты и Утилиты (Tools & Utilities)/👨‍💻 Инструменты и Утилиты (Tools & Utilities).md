@@ -11,21 +11,17 @@ tags:
   - cURL
   - Docker
   - YouTube
+  - eksctl
+  - aws
 ---
 
 
-![[nmap#`= this.file.name`]]
-![[curl#curl234]]
-![[docker#`= this.file.name`]]
+![[Nmap#`= this.file.name`]]
+![[cURL#`=this.file.name`]]
+![[Docker#`= this.file.name`]]
 ![[git#`= this.file.name`]]
-
-#### eksctl
-
-#### aws
-
-
-
-
+![[eksctl#`= this.file.name`]]
+![[aws#`= this.file.name`]]
 
 # На сортировку
 

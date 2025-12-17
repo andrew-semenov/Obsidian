@@ -32,7 +32,7 @@ tags:
 	- https://codepen.io/
 
 
-#### Языки
+#### Языки (Ресурсы)
 - https://www.loecsen.com/
 - https://reallanguage.club/   
 
