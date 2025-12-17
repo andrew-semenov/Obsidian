@@ -1,4 +1,4 @@
-#### docker moker
+#### `= this.file.name`
 - [ ] [Ultimate Docker Compose Tutorial - YouTube](https://www.youtube.com/watch?v=SXwC9fSwct8) #TechWorldWithNana
 - [ ] 
 
@@ -33,3 +33,4 @@ https://youtube.com/watch?v=uzq4Jy83xxw&si=Ix_F25KyYfyyBObf
 https://youtube.com/watch?v=rCZcuU9O-sE&si=SN6xGudOswq7YI5e
 
 https://youtube.com/watch?v=8-IQAqIpT5s&si=DgltI_eBHOk6tHXp
+

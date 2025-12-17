@@ -1,3 +1,5 @@
+#### `= this.file.name`
+
 > [!NOTE]- Развернуть/Свернуть
 > - [ ] [Как использовать NMAP. Подробный анализ работы утилиты. Разбираем основные флаги. Часть 1-я.](https://www.youtube.com/watch?v=JTe1QiyqqV4&list=PLZI9z6OQiXCiPVvJzga_ZEsdAYzz-ps_R&index=2)
 > - [ ] [Как использовать NMAP. Подробный анализ работы утилиты. Разбираем основные флаги. Часть 2-я.](https://www.youtube.com/watch?v=mP1aErCEDTo&list=PLZI9z6OQiXCiPVvJzga_ZEsdAYzz-ps_R&index=2)

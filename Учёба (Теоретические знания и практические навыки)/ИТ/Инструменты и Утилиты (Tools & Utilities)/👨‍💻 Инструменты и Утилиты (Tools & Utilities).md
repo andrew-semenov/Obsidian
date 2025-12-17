@@ -14,11 +14,10 @@ tags:
 ---
 
 
-![[nmap]]
+![[nmap#`= this.file.name`]]
 ![[curl#curl234]]
-![[git]]
-![[docker#docker moker]]
-
+![[docker#`= this.file.name`]]
+![[git#`= this.file.name`]]
 
 #### eksctl
 
