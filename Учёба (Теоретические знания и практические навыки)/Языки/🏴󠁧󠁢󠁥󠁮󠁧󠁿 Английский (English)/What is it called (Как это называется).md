@@ -1,2 +1,2 @@
 #### `=this.file.name`
-- [Instagram](https://www.instagram.com/kosrnouri/reel/DMOZDUkIbsi/)
+- https://www.instagram.com/kosar.teaches/

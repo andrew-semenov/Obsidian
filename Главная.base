@@ -89,7 +89,6 @@ views:
     order:
       - file.name
       - tags
-      - Оригинальное название
       - Описание
       - Автор
       - Прогресс
@@ -115,9 +114,9 @@ views:
     order:
       - file.name
       - tags
-      - Оригинальное название
       - Описание
       - Автор
+      - Прогресс
     sort:
       - property: Приоритет
         direction: ASC
@@ -172,3 +171,11 @@ views:
         direction: ASC
     markers: bullet
     indentProperties: true
+  - type: table
+    name: На сортировку
+    filters:
+      and:
+        - Категория.isEmpty()
+    sort:
+      - property: file.ctime
+        direction: DESC

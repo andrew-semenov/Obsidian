@@ -1,8 +1,9 @@
+#### `=this.file.name`
 Очиститель воды 3 в 1 (пурифайер) с обратным осмосом и УФ-обеззараживанием JIMMY R9
 https://jimmy.ua/dispenser-kuler-purifayer-jimmy-r9.html 
-- куплен 31 окт 2025 за 17999грн
+- куплен 31 окт 2025 за 17999грн на https://jimmy.ua
 
----
+ ###### Расходники
 
 - Фильтр для очистителя воды JIMMY Q2S for R9 (3-Mineralized) - Менять чере 1 год.
 	- https://jimmy.ua/filtr-dlya-ochistitelya-vody-jimmy-q2s-for-r9-3-mineralized.html
