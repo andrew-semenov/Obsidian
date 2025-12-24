@@ -78,3 +78,9 @@ https://youtube.com/watch?v=O2o2R1PyzX0&si=XRosRgMEdJQBbixo
 https://youtube.com/shorts/RDZpVA-QuLg?si=4QHXO0LyuP35BY77
 
 Посмотрите это видео пользователя @one_cup_of_english в Instagram https://www.instagram.com/reel/DRHY04OljMk/?utm_source=ig_web_button_native_share
+
+Посмотрите это фото пользователя @quickenglishfluency в Instagram https://www.instagram.com/p/DSWjFjrk0qD/?utm_source=ig_web_button_native_share
+
+Посмотрите эту публикацию пользователя @english.vocaberry в Instagram https://www.instagram.com/p/DR3ccIzDn1V/?utm_source=ig_web_button_native_share
+
+https://www.instagram.com/reel/DQW3AYijDUr/

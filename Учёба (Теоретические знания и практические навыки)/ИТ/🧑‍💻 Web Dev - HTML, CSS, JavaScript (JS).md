@@ -83,3 +83,5 @@ https://www.instagram.com/p/DSCuxr3EsBm/
 https://www.instagram.com/p/DRL41RpDG_L/
 
 https://youtube.com/watch?v=tkTSs4ujBBg&si=1FNp_lLb05jtfqaD
+
+Посмотрите это фото пользователя @codingwithparvez в Instagram https://www.instagram.com/p/DSe4VDFklgB/?utm_source=ig_web_button_native_share

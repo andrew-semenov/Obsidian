@@ -79,3 +79,5 @@ https://youtube.com/shorts/OxGzrbpEZRw?si=vDoZawPy3IFpmQmE
 Посмотрите это видео пользователя @borislav_math в Instagram https://www.instagram.com/reel/DRSNtmHClJn/?utm_source=ig_web_button_native_share
 
 Посмотрите это видео пользователя @shanghai_mathematics в Instagram https://www.instagram.com/reel/DR3Kf57CLta/?utm_source=ig_web_button_native_share
+
+Посмотрите это фото пользователя @matem_repetitor в Instagram https://www.instagram.com/p/DSCiINHjF0c/?utm_source=ig_web_button_native_share
