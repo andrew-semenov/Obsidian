@@ -21,7 +21,7 @@
   "mobileToolbarCommands": [
     "editor:paste",
     "editor:insert-callout",
-    "editor:toggle-checklist-status",
+    "editor:cycle-list-checklist",
     "editor:swap-line-up",
     "editor:swap-line-down",
     "editor:undo",
@@ -40,8 +40,10 @@
     "editor:clear-formatting",
     "editor:insert-table",
     "editor:configure-toolbar",
-    "bases:insert",
-    "editor:toggle-blockquote"
+    "editor:toggle-blockquote",
+    "editor:toggle-bullet-list",
+    "editor:toggle-numbered-list",
+    "editor:insert-footnote"
   ],
   "mobileQuickRibbonItem": "",
   "propertiesInDocument": "source",

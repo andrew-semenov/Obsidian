@@ -84,29 +84,24 @@ tags:
 
 
 
-
-
-##### Проба
-###### Техно-новости
-###### Техно-подкасты
-
-
 ##### Youtube каналы
-###### Научно-популярные 
-- Новости
+###### Научно-популярное
+- Техно-новости
+	- https://youtube.com/@rozetked
+	- https://youtube.com/@rozetkedplus
 	- https://youtube.com/@kikobzor
 	- https://youtube.com/@kikbrains
 	- https://youtube.com/@prorobotov
 	- https://youtube.com/@droiderru
-- Истории / Рассказы
+	- https://youtube.com/@old_hungry-gamer
+- Техно- истории и расказы
 	- https://youtube.com/@physfrompobed
 	- https://youtube.com/@vertdiderscience
 	- https://youtube.com/@daniskoshelev
-	- https://youtube.com/@minaevlive
 	- https://youtube.com/@drhistory
 	- https://youtube.com/@frants_chemistry
 - Подкасты
-	- https://youtube.com/@vselennayaplus
+	- https://youtube.com/@vselennayaplus #АлексейМихайловичСемихатов #ВладимирГеоргиевичСурдин
 	- https://youtube.com/@ayratkhayrullin
 	- https://youtube.com/@glebsolomin
 	- https://youtube.com/@vedensky
@@ -114,8 +109,10 @@ tags:
 	- https://youtube.com/@alexandersokolovskiy
 
 ###### Публицистика
+- Истории и рассказы
+	- https://youtube.com/@minaevlive
 - Новости
-	- https://youtube.com/@stranaua
+	- https://youtube.com/@stranaua #ОлесяМедведева
 	- https://youtube.com/@curious_cat
 	- https://youtube.com/@panchenkoonline
 - Подкасты
@@ -152,24 +149,23 @@ tags:
 	- https://youtube.com/@amicus3
 	- https://youtube.com/@steamdecktest
 	- https://youtube.com/@komijo
+	- https://youtube.com/@koncheniyoff
 - Прохождение игр
+	- https://youtube.com/@juliavg1
 	- https://youtube.com/@kuplinovplay
-	- https://youtube.com/@kuplinovplay
+	- https://youtube.com/@alinarin
 
-###### Электроника, техника и устройства
-- Обзоры
-	- https://youtube.com/@rozetked
-	- https://youtube.com/@rozetkedplus
-	- https://youtube.com/@old_hungry-gamer
-- Ремонт
+###### Электротехника и электроника
+- Электротехника
+	- https://youtube.com/@alexgyvershow
+	- https://youtube.com/@electronicsclub1
+	- 
+- Ремонт электроники
 	- https://youtube.com/@steam_deck_repair
 	- https://youtube.com/@roman_pro_remont
 	- https://youtube.com/@remonter
 
 ###### Научная дисциплина. Лекции.
-- Электроника
-	- https://youtube.com/@electronicsclub1
-	- https://youtube.com/@alexgyvershow
 - Физика
 	- https://youtube.com/@pvictor54
 	- https://youtube.com/@mektep_online_fizika
@@ -283,6 +279,7 @@ tags:
 	- https://youtube.com/@vanzai
 	- https://youtube.com/@oblomoffood
 	- https://youtube.com/@chefsayonara
+	- https://youtube.com/@samsebesushist
 - Саморазвитие
 	- https://youtube.com/@sedakasparova
 	- https://youtube.com/@libloen
@@ -295,9 +292,10 @@ tags:
 	- https://youtube.com/@musictrash-rus
 	- https://youtube.com/@pervoyemuzykalnoye
 - Фитнес
+	- https://youtube.com/@anti_trainer
+		- https://t.me/Max_anti_trainer
 	- https://youtube.com/@mensrong
 	- https://youtube.com/@fitnessanimator
-	- https://youtube.com/@anti_trainer
 	- https://youtube.com/@trener_artem
 	- https://youtube.com/@tulupavel
 	- https://youtube.com/@ivankrasavin
@@ -369,3 +367,5 @@ https://itch.io/
 https://torrent-games.games/audiobook/
 
 https://youtube.com/@brinvideo
+
+https://youtube.com/@lovishbatya

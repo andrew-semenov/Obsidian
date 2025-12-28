@@ -5,56 +5,6 @@ properties:
     displayName: Прогресс
 views:
   - type: list
-    name: Начато
-    filters:
-      and:
-        - Начато == true
-    groupBy:
-      property: Категория
-      direction: ASC
-    order:
-      - file.name
-      - tags
-      - Оригинальное название
-      - Описание
-      - Автор
-    sort:
-      - property: Приоритет
-        direction: ASC
-      - property: Интерес
-        direction: ASC
-    image: note.Обложка
-    cardSize: 210
-    imageAspectRatio: 0.7
-    imageFit: contain
-    indentProperties: true
-    separator: ", "
-  - type: list
-    name: Ожидает
-    filters:
-      and:
-        - Начато == false
-        - Завершено == false
-    groupBy:
-      property: Категория
-      direction: ASC
-    order:
-      - file.name
-      - Оригинальное название
-      - Автор
-      - tags
-    sort:
-      - property: Приоритет
-        direction: ASC
-      - property: Интерес
-        direction: ASC
-    image: note.Обложка
-    cardSize: 210
-    imageAspectRatio: 0.7
-    imageFit: contain
-    indentProperties: false
-    separator: ", "
-  - type: list
     name: Завершено
     filters:
       and:
@@ -121,6 +71,8 @@ views:
       - property: Приоритет
         direction: ASC
       - property: Интерес
+        direction: ASC
+      - property: Прогресс
         direction: ASC
     image: note.Обложка
     cardSize: 210

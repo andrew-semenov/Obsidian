@@ -6,7 +6,7 @@
 Прогресс:
   - "Uncharted: Golden Abyss"
 tags:
-  - Игры
+  - Игра
   - PS5
   - SteamDeck
   - Приключения
