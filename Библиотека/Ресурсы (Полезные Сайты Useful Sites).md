@@ -50,9 +50,16 @@ tags:
 		- https://medium.com/
 	- Электронные книги (eBooks)
 		- https://flibusta.su/
-		- https://flibusta.site/
+			- https://flibusta.site/
+			- https://flibusta.one/
 		- https://litnet.com/ru
 		- https://loveread.ec/
+		- https://knigochei.org/
+		- https://readli.net/
+		- https://www.rulit.me/
+		- https://moreknig.org/
+		- https://www.ruslit.net/
+
 	- Аудиокниги (Audiobooks)
 		- https://baza-knig.ru/
 		- https://audioknig.su/
