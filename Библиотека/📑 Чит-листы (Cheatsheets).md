@@ -1,9 +1,0 @@
----
-Описание: краткий справочный документ, содержащий основную информацию или инструкции по определенной теме.
-Категория: Справочный контент
-tags:
----
-
- #### Javascript
-- https://www.instagram.com/p/DRtIkibkkV_/?utm_source=ig_web_button_native_share
-

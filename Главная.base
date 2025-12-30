@@ -5,22 +5,52 @@ properties:
     displayName: Прогресс
 views:
   - type: list
-    name: Завершено
+    name: Познание
     filters:
-      and:
-        - Завершено == true
+      or:
+        - Деятельность == "Познание"
     groupBy:
-      property: Категория
+      property: Статус
       direction: ASC
     order:
       - file.name
-      - Оригинальное название
-      - Автор
       - tags
+      - Описание
+      - Автор
+      - Автор2
+      - Прогресс
     sort:
       - property: Приоритет
         direction: ASC
       - property: Интерес
+        direction: ASC
+    image: note.Обложка
+    cardSize: 210
+    imageAspectRatio: 0.7
+    imageFit: contain
+    indentProperties: true
+    separator: ", "
+  - type: list
+    name: Досуг
+    filters:
+      and:
+        - Деятельность == "Досуг"
+    groupBy:
+      property: Статус
+      direction: ASC
+    order:
+      - file.name
+      - tags
+      - Описание
+      - Автор2
+      - Автор
+      - Прогресс
+    sort:
+      - property: Приоритет
+        direction: ASC
+      - property: Интерес
+        direction: ASC
+      - property: Прогресс
         direction: ASC
     image: note.Обложка
     cardSize: 210
@@ -65,6 +95,7 @@ views:
       - file.name
       - tags
       - Описание
+      - Автор2
       - Автор
       - Прогресс
     sort:
@@ -81,7 +112,7 @@ views:
     indentProperties: true
     separator: ", "
   - type: list
-    name: Справочный контент
+    name: Справочный контент. Закладки. Заметки
     filters:
       and:
         - Категория == "Справочный контент"
@@ -91,6 +122,8 @@ views:
       - Оригинальное название
       - Описание
       - Автор
+      - Автор2
+      - Прогресс
     sort:
       - property: Приоритет
         direction: ASC
@@ -104,6 +137,7 @@ views:
     imageFit: contain
     indentProperties: true
     separator: ", "
+    markers: none
   - type: list
     name: Библиотека
     groupBy:

@@ -91,13 +91,14 @@ tags:
 
 
 
-##### Youtube каналы
+##### Youtube Tg Insta (Контент)
 ###### Научно-популярное
 - Техно-новости
 	- https://youtube.com/@rozetked
-	- https://youtube.com/@rozetkedplus
+		- https://youtube.com/@rozetkedplus
+		- https://t.me/rozetked
 	- https://youtube.com/@kikobzor
-	- https://youtube.com/@kikbrains
+		- https://youtube.com/@kikbrains
 	- https://youtube.com/@prorobotov
 	- https://youtube.com/@droiderru
 	- https://youtube.com/@old_hungry-gamer
@@ -115,7 +116,7 @@ tags:
 	- https://youtube.com/@surdinpodcast
 	- https://youtube.com/@alexandersokolovskiy
 
-###### Публицистика
+###### Публицистика (Новости, истории и рассказы)
 - Истории и рассказы
 	- https://youtube.com/@minaevlive
 - Новости
@@ -143,7 +144,7 @@ tags:
 	- https://youtube.com/@enver_izmailov
 	- https://youtube.com/@theduran
 
-###### Компьютерные игры
+###### Компьютерные игры (Обзоры и прохождение)
 - Игровые новости
 	- https://youtube.com/@gstv
 	- https://youtube.com/@onlinegamercentral
@@ -162,7 +163,7 @@ tags:
 	- https://youtube.com/@kuplinovplay
 	- https://youtube.com/@alinarin
 
-###### Электротехника и электроника
+###### Электротехника и электроника (Теория и ремонт)
 - Электротехника
 	- https://youtube.com/@alexgyvershow
 	- https://youtube.com/@electronicsclub1
@@ -172,7 +173,7 @@ tags:
 	- https://youtube.com/@roman_pro_remont
 	- https://youtube.com/@remonter
 
-###### Научная дисциплина. Лекции.
+###### Уроки. Лекции. Курсы. Практика
 - Физика
 	- https://youtube.com/@pvictor54
 	- https://youtube.com/@mektep_online_fizika
@@ -187,21 +188,11 @@ tags:
 - Химия
 	- https://youtube.com/@insperia.chemistry
 	- https://youtube.com/@chemistryeasy
-
-###### Информационные технологии
-- Общее
-	- https://youtube.com/@listenit_channel
-	- https://youtube.com/@merionacademy
-	- https://youtube.com/@tkhirianov
-- Подкасты 
-	- https://youtube.com/@itbeard
 - Системное администрирование и DevOps
 	- https://youtube.com/@andreysozykin
 	- https://youtube.com/@pavlenkoat
 	- https://youtube.com/@techworldwithnana
 	- https://youtube.com/@marceldempers
-- Базы данных
-	- 
 - Веб-программирование
 	- https://youtube.com/@aleksanderlamkov
 	- https://youtube.com/@aniakubow
@@ -218,8 +209,29 @@ tags:
 	- https://youtube.com/@mr0x45xploit
 	- https://youtube.com/@mrcybersec
 	- https://youtube.com/@davidbombal
+- Задания (ИТ)
+	- https://t.me/js_test
+	- https://t.me/webb_dev
+	- https://t.me/frontendquestions
+- Укулеле
+	- https://youtube.com/@dasha_kirpich
+	- https://youtube.com/@vladilele
+	- https://youtube.com/@alenakravchenko
+	- https://youtube.com/@stepancampari
+- Блокфлейта
+- Калимба
+	- https://youtube.com/@kalimbastore
 
-###### Языки
+###### Информационные технологии
+- Общее
+	- https://youtube.com/@listenit_channel
+	- https://youtube.com/@merionacademy
+	- https://youtube.com/@tkhirianov
+- Подкасты 
+	- https://youtube.com/@itbeard
+	- https://t.me/evilbug
+
+###### Языки (Грамматика, диалоги и т.д.)
 - Английский
 	- https://youtube.com/@english_svetlana
 	- https://youtube.com/@englexschool
@@ -245,7 +257,6 @@ tags:
 	- https://youtube.com/@englishwithspeakayou
 - Китайский
 	- https://youtube.com/@bamboobridgeacademy
-	- 
 - Корейский
 	- https://youtube.com/@koreanclass101
 - Японский
@@ -253,14 +264,49 @@ tags:
 	- https://youtube.com/@furusawasensei
 	- https://youtube.com/@piro_sensei
 
-###### Сортировка
+###### Здоровье и спорт
 - Медицина
 	- https://youtube.com/@doctorpetrik
 	- https://youtube.com/@drericberg
 	- https://youtube.com/@eokomarovskiy
+- Фитнес
+	- https://youtube.com/@anti_trainer
+		- https://t.me/Max_anti_trainer
+	- https://youtube.com/@mensrong
+	- https://youtube.com/@fitnessanimator
+	- https://youtube.com/@trener_artem
+	- https://youtube.com/@tulupavel
+	- https://youtube.com/@ivankrasavin
+	- https://youtube.com/@semenikhindenis
+	- https://youtube.com/@denysrublenko
+	- https://youtube.com/@yogatop
+- Боевые искусства
+	- https://youtube.com/@y.kormushin
+	- https://youtube.com/@farakicks
+	- https://youtube.com/@lornetherrienfcfs
+	- https://youtube.com/@pasquinilli
+
+###### Литература
 - Аудиокниги и Аудиоспектакли
 	- https://youtube.com/@-audioknigi
 	- https://youtube.com/@poleznieknigi
+- IT библиотека
+	- https://t.me/Portal_v_IT
+	- https://t.me/books_learn
+- QA
+	- https://t.me/testerlib
+	- https://t.me/qa_wiki
+- WebDev
+	- https://t.me/frontenderrrr
+- Поэзия 
+	- https://t.me/mir_poetry
+	- https://t.me/mozhno_potishe
+- Сортировка
+	- https://t.me/backenderrr
+	- https://t.me/+wSyGmha1omIyOWQy
+	- https://t.me/flibusta_anglysky
+
+###### Сортировка
 - (Без)Алкогольные напитки и коктейли
 	- https://youtube.com/@sergiiomelianenko978
 	- https://youtube.com/@kalent_os
@@ -277,6 +323,7 @@ tags:
 	- https://youtube.com/@hardprocent
 	- https://youtube.com/@alpha_crypt
 	- https://youtube.com/@rationalanswer
+	- https://youtube.com/@instardinginvest
 - Путешествия
 	- https://youtube.com/@ptuxermann
 - Гастропутешествия
@@ -298,22 +345,6 @@ tags:
 	- https://youtube.com/@jazzcafeambience
 	- https://youtube.com/@musictrash-rus
 	- https://youtube.com/@pervoyemuzykalnoye
-- Фитнес
-	- https://youtube.com/@anti_trainer
-		- https://t.me/Max_anti_trainer
-	- https://youtube.com/@mensrong
-	- https://youtube.com/@fitnessanimator
-	- https://youtube.com/@trener_artem
-	- https://youtube.com/@tulupavel
-	- https://youtube.com/@ivankrasavin
-	- https://youtube.com/@semenikhindenis
-	- https://youtube.com/@denysrublenko
-	- https://youtube.com/@yogatop
-- Боевые искусства
-	- https://youtube.com/@y.kormushin
-	- https://youtube.com/@farakicks
-	- https://youtube.com/@lornetherrienfcfs
-	- https://youtube.com/@pasquinilli
 - Астрология и таро
 	- https://youtube.com/@renataraevskaya
 	- https://youtube.com/channel/UC941v6iVLw8HqaKyyuxBoCw
@@ -321,45 +352,26 @@ tags:
 	- https://youtube.com/@mariyakuzmenko
 	- https://youtube.com/@oljadera
 	- https://youtube.com/@natalliatarot
+- Юмор
+	- https://youtube.com/@lutchak
+	- https://youtube.com/@propelmeny
+	- https://youtube.com/@calamburpictures
 - 
 
 ###### Человеческое общество, культура и развитие
 - История
 	- 
 
-
-
 ##### Telegram каналы
-- IT библиотека
-	- https://t.me/Portal_v_IT
-	- https://t.me/books_learn
-- QA
-	- https://t.me/testerlib
-	- https://t.me/qa_wiki
-- WebDev
-	- https://t.me/frontenderrrr
-	- 
-- Новости технологий
-	- https://t.me/rozetked
-- Поэзия 
-	- https://t.me/mir_poetry
-	- https://t.me/mozhno_potishe
-- Книги
-	- https://t.me/backenderrr
-	- https://t.me/+wSyGmha1omIyOWQy
-	- https://t.me/flibusta_anglysky
-	- 
-- Практика
-	- https://t.me/js_test
 - Готовые проекты для вдохновления
 	- https://t.me/codepen_amazing
 - Видео курсы
 	- http://t.me/it_sensei
-- ИТ подкасты
-	- https://t.me/evilbug
 - Астрология
 	- https://t.me/AstroEsoteric_bot
 	- 
+- Юмор
+	- https://youtube.com/@lutchak
 - 
 
 

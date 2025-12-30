@@ -1,5 +1,4 @@
 ---
-Автор:
 Формат: Лекции
 Обложка: https://yt3.googleusercontent.com/ytc/AIdro_mEkmd-AyPVeTtfWCX7fqGp5MtEdp91q4u0YuU024HU0AM=s160-c-k-c0x00ffffff-no-rj
 tags:

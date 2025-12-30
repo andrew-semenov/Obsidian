@@ -1,15 +1,14 @@
 ---
 Категория: Образовательный контент
+Деятельность: Познание
 Статус: В процессе
-Начато: true
-Завершено: false
 Приоритет: 1
 Интерес: 1
-tags:
-  - Курсы
 Прогресс:
   - "Java Syntax. Уровень 1. Знакомство с Java: вывод на экран, типы String и int."
   - https://javarush.com/quests/lectures?quest=QUEST_JAVA_SYNTAX&level=1
+tags:
+  - Курсы
 ---
 
 ![[Полезные ссылки#`=this.file.name`]]
