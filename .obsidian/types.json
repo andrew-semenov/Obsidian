@@ -25,7 +25,7 @@
     "Учёба": "checkbox",
     "Категория": "text",
     "Порядок": "number",
-    "Автор": "multitext",
+    "Автор": "text",
     "Created": "multitext",
     "Автор2": "text"
   }
