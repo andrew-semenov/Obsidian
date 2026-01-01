@@ -353,6 +353,7 @@ tags:
 	- https://youtube.com/@oljadera
 	- https://youtube.com/@natalliatarot
 - Юмор
+	- https://youtube.com/channel/UCW_oPH0RczYahd88Sayo-2w
 	- https://youtube.com/@lutchak
 	- https://youtube.com/@propelmeny
 	- https://youtube.com/@calamburpictures
