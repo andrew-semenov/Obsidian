@@ -1,14 +1,14 @@
-Xiaomi Mi Robot Vacuum (SDJQR01RR) (SKV4000CN) (SKV4000GL) (Алло №103325545) 
-	- Модель
-		- https://allo.ua/ru/roboty-pylesosy/xiaomi-mi-robot-vacuum-skv4000cn.html
-		- https://allo.ua/ua/roboty-pylesosy/xiaomi-mi-robot-vacuum-skv4000cn.html
-	- Двигатель
-		- https://zamina.com.ua/ua/p1476291975-dvigatel-motor-dlya.html (этот купил)
-		- https://unishop.com.ua/p1442778638-dvigatel-motor-turbina.html
-	- Аккумулятор
-		- rozetka.com.ua/377995887/p377995887/ (купил, всё хорошо)
-	- Фильтр hepa
-		- https://bt.rozetka.com.ua/xiaomi_skv4007cn/p14653652/ (этот понравился, как оригинал)
-		- https://zamina.com.ua/ua/p2207243753-komplekt-2sht-filtry.html (купил, на 5 с минусом, чуть-чуть не прилегает)
-	- Боковая щетка
-		- https://bt.rozetka.com.ua/xiaomi_skv4006cn/p14653610/
+#### `=this.file.name`
+- Модель
+	- https://allo.ua/ru/roboty-pylesosy/xiaomi-mi-robot-vacuum-skv4000cn.html
+	- https://allo.ua/ua/roboty-pylesosy/xiaomi-mi-robot-vacuum-skv4000cn.html
+- Двигатель
+	- https://zamina.com.ua/ua/p1476291975-dvigatel-motor-dlya.html (этот купил)
+	- https://unishop.com.ua/p1442778638-dvigatel-motor-turbina.html
+- Аккумулятор
+	- rozetka.com.ua/377995887/p377995887/ (купил, всё хорошо)
+- Фильтр hepa
+	- https://bt.rozetka.com.ua/xiaomi_skv4007cn/p14653652/ (этот понравился, как оригинал)
+	- https://zamina.com.ua/ua/p2207243753-komplekt-2sht-filtry.html (купил, на 5 с минусом, чуть-чуть не прилегает)
+- Боковая щетка
+	- https://bt.rozetka.com.ua/xiaomi_skv4006cn/p14653610/

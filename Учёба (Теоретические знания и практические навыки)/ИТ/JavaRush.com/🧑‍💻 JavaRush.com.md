@@ -1,6 +1,6 @@
 ---
 Категория: Образовательный контент
-Деятельность: Познание
+Формат: Познание
 Статус: В процессе
 Приоритет: 1
 Интерес: 1
@@ -10,6 +10,8 @@
 tags:
   - Курсы
 ---
+
+[Курс Java Syntax - Лекция: Полезные ссылки от профессора – 1](https://javarush.com/quests/lectures/questsyntax.level01.lecture09)
 
 ![[Полезные ссылки#`=this.file.name`]]
 ![[Java Syntax#[`=this.file.name`](https //javarush.com/quests/QUEST_JAVA_SYNTAX)]]

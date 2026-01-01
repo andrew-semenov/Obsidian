@@ -8,7 +8,7 @@ views:
     name: Познание
     filters:
       or:
-        - Деятельность == "Познание"
+        - Формат == "Познание"
     groupBy:
       property: Статус
       direction: ASC
@@ -33,7 +33,7 @@ views:
     name: Досуг
     filters:
       and:
-        - Деятельность == "Досуг"
+        - Формат == "Досуг"
     groupBy:
       property: Статус
       direction: ASC
@@ -43,13 +43,25 @@ views:
       - Описание
       - Автор
       - Прогресс
-    sort:
-      - property: Приоритет
-        direction: ASC
-      - property: Интерес
-        direction: ASC
-      - property: Прогресс
-        direction: ASC
+    sort: []
+    image: note.Обложка
+    cardSize: 210
+    imageAspectRatio: 0.7
+    imageFit: contain
+    indentProperties: true
+    separator: ", "
+  - type: list
+    name: Справочник
+    filters:
+      and:
+        - Формат == "Справка"
+    order:
+      - file.name
+      - tags
+      - Описание
+      - Автор
+      - Прогресс
+    sort: []
     image: note.Обложка
     cardSize: 210
     imageAspectRatio: 0.7
@@ -161,3 +173,24 @@ views:
     sort:
       - property: file.ctime
         direction: DESC
+  - type: list
+    name: YouTube
+    filters:
+      and:
+        - Формат == "YouTube"
+    groupBy:
+      property: tags
+      direction: ASC
+    order:
+      - file.name
+      - tags
+      - Описание
+      - Автор
+      - Прогресс
+    sort: []
+    image: note.Обложка
+    cardSize: 210
+    imageAspectRatio: 0.7
+    imageFit: contain
+    indentProperties: true
+    separator: ", "
