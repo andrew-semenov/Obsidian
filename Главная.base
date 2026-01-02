@@ -13,10 +13,14 @@ views:
     groupBy:
       property: Категория
       direction: ASC
+    order:
+      - file.name
+      - Прогресс
     sort:
       - property: Статус
         direction: ASC
     indentProperties: true
+    markers: number
   - type: list
     name: Пройдено
     filters:
