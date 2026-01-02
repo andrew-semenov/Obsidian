@@ -5,147 +5,28 @@ properties:
     displayName: Прогресс
 views:
   - type: list
-    name: Познание
-    filters:
-      or:
-        - Формат == "Познание"
-    groupBy:
-      property: Статус
-      direction: ASC
-    order:
-      - file.name
-      - tags
-      - Описание
-      - Автор
-      - Прогресс
-    sort:
-      - property: Приоритет
-        direction: ASC
-      - property: Интерес
-        direction: ASC
-    image: note.Обложка
-    cardSize: 210
-    imageAspectRatio: 0.7
-    imageFit: contain
-    indentProperties: true
-    separator: ", "
-  - type: list
-    name: Досуг
+    name: Активно
     filters:
       and:
-        - Формат == "Досуг"
+        - "!Категория.isEmpty()"
+        - Статус != "Завершено"
     groupBy:
-      property: Статус
+      property: Категория
       direction: ASC
-    order:
-      - file.name
-      - tags
-      - Описание
-      - Автор
-      - Прогресс
+    sort:
+      - property: Статус
+        direction: ASC
+    indentProperties: true
+  - type: list
+    name: Пройдено
+    filters:
+      and:
+        - Статус == "Завершено"
+    groupBy:
+      property: Категория
+      direction: ASC
     sort: []
-    image: note.Обложка
-    cardSize: 210
-    imageAspectRatio: 0.7
-    imageFit: contain
     indentProperties: true
-    separator: ", "
-  - type: list
-    name: Справочник
-    filters:
-      and:
-        - Формат == "Справка"
-    order:
-      - file.name
-      - tags
-      - Описание
-      - Автор
-      - Прогресс
-    sort: []
-    image: note.Обложка
-    cardSize: 210
-    imageAspectRatio: 0.7
-    imageFit: contain
-    indentProperties: true
-    separator: ", "
-  - type: list
-    name: Образовательный контент
-    filters:
-      and:
-        - Категория == "Образовательный контент"
-    groupBy:
-      property: Статус
-      direction: ASC
-    order:
-      - file.name
-      - tags
-      - Описание
-      - Автор
-      - Прогресс
-    sort:
-      - property: Приоритет
-        direction: ASC
-      - property: Интерес
-        direction: ASC
-    image: note.Обложка
-    cardSize: 210
-    imageAspectRatio: 0.7
-    imageFit: contain
-    indentProperties: true
-    separator: ", "
-  - type: list
-    name: Развлекательный контент
-    filters:
-      and:
-        - Категория == "Развлекательный контент"
-    groupBy:
-      property: Статус
-      direction: ASC
-    order:
-      - file.name
-      - tags
-      - Описание
-      - Автор
-      - Прогресс
-    sort:
-      - property: Приоритет
-        direction: ASC
-      - property: Интерес
-        direction: ASC
-      - property: Прогресс
-        direction: ASC
-    image: note.Обложка
-    cardSize: 210
-    imageAspectRatio: 0.7
-    imageFit: contain
-    indentProperties: true
-    separator: ", "
-  - type: list
-    name: Справочный контент. Закладки. Заметки
-    filters:
-      and:
-        - Категория == "Справочный контент"
-    order:
-      - file.name
-      - tags
-      - Оригинальное название
-      - Описание
-      - Автор
-      - Прогресс
-    sort:
-      - property: Приоритет
-        direction: ASC
-      - property: Порядок
-        direction: ASC
-      - property: Интерес
-        direction: ASC
-    image: note.Обложка
-    cardSize: 210
-    imageAspectRatio: 0.7
-    imageFit: contain
-    indentProperties: true
-    separator: ", "
-    markers: none
   - type: list
     name: Библиотека
     groupBy:
@@ -173,24 +54,3 @@ views:
     sort:
       - property: file.ctime
         direction: DESC
-  - type: list
-    name: YouTube
-    filters:
-      and:
-        - Формат == "YouTube"
-    groupBy:
-      property: tags
-      direction: ASC
-    order:
-      - file.name
-      - tags
-      - Описание
-      - Автор
-      - Прогресс
-    sort: []
-    image: note.Обложка
-    cardSize: 210
-    imageAspectRatio: 0.7
-    imageFit: contain
-    indentProperties: true
-    separator: ", "
