@@ -5,7 +5,7 @@ properties:
     displayName: Прогресс
 views:
   - type: list
-    name: Активно
+    name: Активности
     filters:
       and:
         - "!Категория.isEmpty()"

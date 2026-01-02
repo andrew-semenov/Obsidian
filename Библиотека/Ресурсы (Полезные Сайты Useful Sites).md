@@ -144,7 +144,7 @@ tags:
 	- https://youtube.com/@enver_izmailov
 	- https://youtube.com/@theduran
 
-###### Компьютерные игры (Обзоры и прохождение)
+￼###### Компьютерные игры (Обзоры и прохождение)
 - Игровые новости
 	- https://youtube.com/@gstv
 	- https://youtube.com/@onlinegamercentral
@@ -158,6 +158,7 @@ tags:
 	- https://youtube.com/@steamdecktest
 	- https://youtube.com/@komijo
 	- https://youtube.com/@koncheniyoff
+	- https://youtube.com/@clever-games
 - Прохождение игр
 	- https://youtube.com/@juliavg1
 	- https://youtube.com/@kuplinovplay
