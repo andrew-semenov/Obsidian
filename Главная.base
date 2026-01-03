@@ -61,9 +61,23 @@ views:
         direction: DESC
   - type: list
     name: Активности 2
+    groupBy:
+      property: Тематика
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+      - Прогресс
+    sort:
+      - property: Статус
+        direction: ASC
+    indentProperties: true
+    markers: number
+  - type: list
+    name: Завершено
     filters:
       and:
-        - "!Тематика.isEmpty()"
+        - Статус == "Завершено"
     groupBy:
       property: Тематика
       direction: ASC

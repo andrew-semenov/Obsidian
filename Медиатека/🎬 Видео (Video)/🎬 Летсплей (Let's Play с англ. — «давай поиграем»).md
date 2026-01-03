@@ -5,8 +5,10 @@
 Интерес: 2
 tags:
   - YouTube
-Тематика: Досуг
+Тематика: Шоу
 ---
+
+- [ ] https://www.youtube.com/live/4F3L-bmb0qQ?si=i8EadOOxODwLo6bu
 
 #### [Любимые Адвенчуры и Квесты - YouTube](https://www.youtube.com/@juliavg1/featured)
 - [ ] [YESTERDAY ORIGINS. Прохождение. - YouTube](https://www.youtube.com/playlist?list=PLfcoTlZW6C_thbpvCEp9mj-IDZ8G4r4ag)

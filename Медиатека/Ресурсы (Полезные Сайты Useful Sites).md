@@ -160,6 +160,7 @@ tags:
 	- https://youtube.com/@komijo
 	- https://youtube.com/@koncheniyoff
 	- https://youtube.com/@clever-games
+	- https://youtube.com/@playzona
 - Прохождение игр
 	- https://youtube.com/@juliavg1
 	- https://youtube.com/@kuplinovplay
