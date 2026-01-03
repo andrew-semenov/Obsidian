@@ -5,7 +5,7 @@
 Интерес: 2
 tags:
   - YouTube
-Тематика: Досуг
+Тематика: Шоу
 ---
 
 #### [Любимые Адвенчуры и Квесты - YouTube](https://www.youtube.com/@juliavg1/featured)
