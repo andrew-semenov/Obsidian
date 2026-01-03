@@ -10,6 +10,7 @@ tags:
   - PS5
   - SteamDeck
   - Приключения
+Тематика: Игры
 ---
 
 [Uncharted (Naughty Dog)](https://ru.wikipedia.org/wiki/Uncharted)  

@@ -71,6 +71,8 @@ views:
       - file.name
       - file.tags
       - Прогресс
-    sort: []
+    sort:
+      - property: Статус
+        direction: ASC
     indentProperties: true
     markers: number

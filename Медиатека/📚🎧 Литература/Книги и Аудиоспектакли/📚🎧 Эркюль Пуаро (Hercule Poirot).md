@@ -10,6 +10,7 @@ tags:
   - Книга
   - Аудиокнига
   - Детектив
+Тематика: Литература
 ---
 
 - https://knigavuhe.org/serie/ehrkjul-puaro/
