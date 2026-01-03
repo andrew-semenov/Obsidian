@@ -8,6 +8,7 @@ tags:
   - Испытания
   - Challenges
   - kata
+Тематика: Практика и тренировка
 ---
 
 > [!NOTE] Javascript

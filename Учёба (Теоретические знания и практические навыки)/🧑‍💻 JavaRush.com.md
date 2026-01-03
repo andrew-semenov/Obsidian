@@ -8,6 +8,7 @@
   - https://javarush.com/quests/lectures?quest=QUEST_JAVA_SYNTAX&level=1
 tags:
   - Курсы
+Тематика: Курсы
 ---
 
 #### Полезные ссылки

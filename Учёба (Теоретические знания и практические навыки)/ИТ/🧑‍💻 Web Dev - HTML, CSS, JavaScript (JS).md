@@ -9,6 +9,7 @@ tags:
   - CSS
   - JavaScript
   - YouTube
+Тематика: Практика и тренировка
 ---
 
 #### HTML

@@ -59,3 +59,18 @@ views:
     sort:
       - property: file.ctime
         direction: DESC
+  - type: list
+    name: Активности 2
+    filters:
+      and:
+        - "!Тематика.isEmpty()"
+    groupBy:
+      property: Тематика
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+      - Прогресс
+    sort: []
+    indentProperties: true
+    markers: number
