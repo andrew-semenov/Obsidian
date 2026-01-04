@@ -32,6 +32,10 @@ git fsck --name-objects
 ```
 
 ```
+git config --global http.postBuffer 524288000
+```
+
+```
 git pull --rebase
 ```
 
