@@ -8,6 +8,7 @@ ISBN: 978-5-9906808-9-0
 tags:
   - Книга
   - Pre-intermediate
+Тематика: Английский
 ---
 
 ![](https://content.rozetka.com.ua/goods/images/big/251893714.jpg)

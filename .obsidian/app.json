@@ -20,12 +20,12 @@
   "readableLineLength": false,
   "mobileToolbarCommands": [
     "editor:paste",
-    "editor:insert-callout",
     "editor:cycle-list-checklist",
     "editor:swap-line-up",
     "editor:swap-line-down",
     "editor:undo",
     "editor:redo",
+    "editor:insert-callout",
     "editor:insert-link",
     "editor:insert-embed",
     "editor:toggle-code",
@@ -43,7 +43,9 @@
     "editor:toggle-blockquote",
     "editor:toggle-bullet-list",
     "editor:toggle-numbered-list",
-    "editor:insert-footnote"
+    "editor:insert-footnote",
+    "editor:fold-all",
+    "editor:unfold-all"
   ],
   "mobileQuickRibbonItem": "",
   "propertiesInDocument": "source",
@@ -56,5 +58,5 @@
   "showInlineTitle": true,
   "focusNewTab": false,
   "promptDelete": true,
-  "mobilePullAction": "editor:fold-all"
+  "mobilePullAction": "insert-template"
 }

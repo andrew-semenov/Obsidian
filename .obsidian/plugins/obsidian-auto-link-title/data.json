@@ -11,5 +11,5 @@
   "maximumTitleLength": 0,
   "useNewScraper": false,
   "linkPreviewApiKey": "",
-  "useBetterPasteId": false
+  "useBetterPasteId": true
 }

@@ -5,7 +5,7 @@ tags:
   - Игра
   - SteamDeck
   - Приключения
-Тематика: Игры
+Тематика: Интерактив
 ---
 
 [Forgotton Anne](https://store.steampowered.com/app/542050/Forgotton_Anne/)

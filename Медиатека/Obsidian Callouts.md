@@ -1,3 +1,8 @@
+---
+Тематика: Справочники
+Статус: Ждёт
+tags:
+---
 https://help.obsidian.md/callouts
 
 > [!tip] Tip

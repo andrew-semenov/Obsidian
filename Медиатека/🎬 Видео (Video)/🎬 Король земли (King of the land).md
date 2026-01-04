@@ -9,7 +9,7 @@ tags:
   - Комедия
   - Мелодрама
   - Netflix
-Тематика: Дорама
+Тематика: Беллетристика
 ---
 https://beztorfilms.moy.su/load/doramy/korol_zemli_2023/10-1-0-544
 

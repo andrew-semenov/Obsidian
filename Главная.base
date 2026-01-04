@@ -17,7 +17,7 @@ views:
       - property: Статус
         direction: ASC
     indentProperties: true
-    markers: number
+    markers: bullet
   - type: list
     name: Архив
     filters:
@@ -84,7 +84,7 @@ views:
     name: На сортировку
     filters:
       and:
-        - Категория.isEmpty()
+        - Тематика.isEmpty()
     sort:
       - property: file.ctime
         direction: DESC
