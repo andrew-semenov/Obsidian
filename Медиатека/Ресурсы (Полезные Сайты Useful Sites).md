@@ -2,7 +2,7 @@
 Категория: Справочная
 tags:
   - Закладки
-Тематика: Справочная
+Тематика: Справочники
 ---
 
 ##### Полезные сайты
@@ -130,6 +130,7 @@ tags:
 	- https://youtube.com/@gennadym
 		- https://t.me/gen_m
 	- https://youtube.com/@demurachannel
+		- https://youtube.com/@demura_sg
 		- https://t.me/sgdemura
 	- https://youtube.com/@super-uralov
 		- https://t.me/su2050

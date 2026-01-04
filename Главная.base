@@ -5,6 +5,35 @@ properties:
     displayName: Прогресс
 views:
   - type: list
+    name: Досуг
+    groupBy:
+      property: Тематика
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+      - Прогресс
+    sort:
+      - property: Статус
+        direction: ASC
+    indentProperties: true
+    markers: number
+  - type: list
+    name: Архив
+    filters:
+      and:
+        - Статус == "В архиве"
+    groupBy:
+      property: Тематика
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+      - Прогресс
+    sort: []
+    indentProperties: true
+    markers: number
+  - type: list
     name: Активности
     filters:
       and:
@@ -59,34 +88,3 @@ views:
     sort:
       - property: file.ctime
         direction: DESC
-  - type: list
-    name: Активности 2
-    groupBy:
-      property: Тематика
-      direction: ASC
-    order:
-      - file.name
-      - file.tags
-      - Прогресс
-    sort:
-      - property: Статус
-        direction: ASC
-    indentProperties: true
-    markers: number
-  - type: list
-    name: Завершено
-    filters:
-      and:
-        - Статус == "Завершено"
-    groupBy:
-      property: Тематика
-      direction: ASC
-    order:
-      - file.name
-      - file.tags
-      - Прогресс
-    sort:
-      - property: Статус
-        direction: ASC
-    indentProperties: true
-    markers: number
