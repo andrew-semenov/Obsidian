@@ -9,7 +9,7 @@ tags:
   - Испытания
   - Challenges
   - kata
-Блок: ИТ
+Блок: Источники.Ресурсы.Сервисы
 ---
 
 > [!NOTE] Javascript
