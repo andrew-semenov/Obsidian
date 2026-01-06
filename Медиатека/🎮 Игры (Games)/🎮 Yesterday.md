@@ -1,14 +1,13 @@
 ---
-Категория: Досуг
-Тематика: Интерактив
+Блок: Гейминг
 Статус: Ждёт
+Прогресс:
+  - Yesterday Origins
 tags:
   - Игра
   - SteamDeck
   - PointAndClick
   - Приключения
-Прогресс:
-  - Yesterday Origins
 ---
 
 

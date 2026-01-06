@@ -1,5 +1,5 @@
 ---
-Категория: Досуг
+Блок: Гейминг
 Статус: Ждёт
 Приоритет: 2
 Интерес: 1
@@ -10,7 +10,6 @@ tags:
   - PS5
   - SteamDeck
   - Приключения
-Тематика: Интерактив
 ---
 
 [Uncharted (Naughty Dog)](https://ru.wikipedia.org/wiki/Uncharted)  

@@ -8,8 +8,8 @@ views:
     name: Досуг.Гештальт
     filters:
       and:
+        - "!Блок.isEmpty()"
         - Статус != "В архиве"
-        - "!Тематика.isEmpty()"
     groupBy:
       property: Блок
       direction: ASC
@@ -28,6 +28,7 @@ views:
     name: Архив
     filters:
       and:
+        - "!Блок.isEmpty()"
         - Статус == "В архиве"
     groupBy:
       property: Блок

@@ -4,7 +4,6 @@
 URL: https://youtu.be/xzU7s1jD6_I
 tags:
   - АндрейОлеговичБаумейстер
-  - YouTube
   - TED
 ---
 https://youtu.be/xzU7s1jD6_I

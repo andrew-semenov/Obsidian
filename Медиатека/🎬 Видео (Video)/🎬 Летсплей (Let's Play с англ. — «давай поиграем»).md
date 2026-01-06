@@ -1,11 +1,9 @@
 ---
-Категория: Досуг
+Блок: Гейминг
 Приоритет: 1
 Интерес: 2
 tags:
   - YouTube
-Тематика: Шоу
-Блок: Гейминг
 ---
 
 - [ ] https://www.youtube.com/live/4F3L-bmb0qQ?si=i8EadOOxODwLo6bu
