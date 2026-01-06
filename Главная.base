@@ -5,34 +5,40 @@ properties:
     displayName: Прогресс
 views:
   - type: list
-    name: Досуг
+    name: Досуг.Гештальт
+    filters:
+      and:
+        - Статус != "В архиве"
+        - "!Тематика.isEmpty()"
     groupBy:
-      property: Тематика
+      property: Блок
       direction: ASC
     order:
       - file.name
       - file.tags
       - Прогресс
+      - URL
     sort:
       - property: Статус
         direction: ASC
     indentProperties: true
     markers: bullet
+    rowHeight: medium
   - type: list
     name: Архив
     filters:
       and:
         - Статус == "В архиве"
     groupBy:
-      property: Тематика
+      property: Блок
       direction: ASC
     order:
       - file.name
       - file.tags
-      - Прогресс
+      - URL
     sort: []
     indentProperties: true
-    markers: number
+    markers: bullet
   - type: list
     name: Активности
     filters:
