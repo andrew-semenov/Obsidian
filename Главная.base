@@ -5,7 +5,7 @@ properties:
     displayName: Прогресс
 views:
   - type: list
-    name: Досуг.Гештальт
+    name: Г.Р.И.Д.
     filters:
       and:
         - "!Блок.isEmpty()"
