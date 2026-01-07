@@ -15,11 +15,14 @@ views:
       direction: ASC
     order:
       - file.name
+      - tags
       - file.tags
       - Прогресс
       - URL
     sort:
       - property: Статус
+        direction: ASC
+      - property: file.tags
         direction: ASC
     indentProperties: true
     markers: bullet
