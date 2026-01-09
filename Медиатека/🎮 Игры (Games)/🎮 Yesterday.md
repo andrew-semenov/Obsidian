@@ -6,8 +6,7 @@
 tags:
   - Игра
   - SteamDeck
-  - PointAndClick
-  - Приключения
+  - Квест
 ---
 
 

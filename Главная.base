@@ -15,17 +15,14 @@ views:
       direction: ASC
     order:
       - file.name
-      - tags
       - file.tags
-      - Прогресс
-      - URL
     sort:
       - property: Статус
         direction: ASC
       - property: file.tags
         direction: ASC
-    indentProperties: true
-    markers: bullet
+    indentProperties: false
+    markers: number
     rowHeight: medium
   - type: list
     name: Архив
@@ -39,9 +36,10 @@ views:
     order:
       - file.name
       - file.tags
-      - URL
-    sort: []
-    indentProperties: true
+    sort:
+      - property: file.tags
+        direction: ASC
+    indentProperties: false
     markers: bullet
   - type: list
     name: Активности
