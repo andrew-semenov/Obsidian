@@ -8,15 +8,15 @@ body {
 }
 
 .bases-group-heading {
-    font-size: large;
+    font-size: x-large;
     font-weight: bold;
     color: red;
     text-decoration: underline;
-    text-transform: uppercase;
-    background-color:yellow;
+    text-transform: capitalize;
+    background-color:rgb(245, 255, 245);
     width: 100%;
-    -webkit-text-stroke-width: 0.05em;
-    -webkit-text-stroke-color: darkgreen;
+    -webkit-text-stroke-width: 0.01em;
+    -webkit-text-stroke-color: black;
 }
 
 span.bases-list-property:last-child:has(span.value-list-element){

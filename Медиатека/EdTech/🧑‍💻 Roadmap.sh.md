@@ -1,13 +1,11 @@
 ---
-Блок: Сервисы
+Блок: EdTech
 Статус: Активно
 Приоритет: 1
 Интерес: 1
-URL: https://www.w3schools.com/
+URL: https://roadmap.sh/
 Прогресс:
 tags:
+  - Тестирование
   - Программирование
 ---
-
-[About W3Schools](https://www.w3schools.com/about/default.asp)
-
