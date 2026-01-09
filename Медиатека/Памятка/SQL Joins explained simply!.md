@@ -1,6 +1,5 @@
 ---
-Блок: Напоминалка
-tags:
-  - SQL
+Блок: Памятка
+tag:
 ---
 https://www.instagram.com/p/DS3ChBJCgxy/
