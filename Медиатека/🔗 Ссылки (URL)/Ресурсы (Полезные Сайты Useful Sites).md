@@ -96,27 +96,11 @@ tags:
 ##### Youtube Tg Insta (Контент)
 ###### Научно-популярное
 - Техно-новости
-	- https://youtube.com/@rozetked
-		- https://youtube.com/@rozetkedplus
-		- https://t.me/rozetked
 	- https://youtube.com/@kikobzor
 		- https://youtube.com/@kikbrains
-	- https://youtube.com/@prorobotov
 	- https://youtube.com/@droiderru
-	- https://youtube.com/@old_hungry-gamer
-- Техно- истории и расказы
-	- https://youtube.com/@physfrompobed
-	- https://youtube.com/@vertdiderscience
-	- https://youtube.com/@daniskoshelev
-	- https://youtube.com/@drhistory
-	- https://youtube.com/@frants_chemistry
-- Подкасты
-	- https://youtube.com/@vselennayaplus #АлексейМихайловичСемихатов #ВладимирГеоргиевичСурдин
-	- https://youtube.com/@ayratkhayrullin
-	- https://youtube.com/@glebsolomin
-	- https://youtube.com/@vedensky
-	- https://youtube.com/@surdinpodcast
-	- https://youtube.com/@alexandersokolovskiy
+
+
 
 ###### Публицистика (Новости, истории и рассказы)
 - Истории и рассказы

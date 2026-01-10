@@ -4,9 +4,15 @@
   "debug": false,
   "editorMenu": [
     {
-      "id": "bases:insert",
-      "icon": "lucide-layout-list",
-      "name": "Bases: Insert new base",
+      "id": "editor:fold-all",
+      "icon": "lucide-minimize-2",
+      "name": "Fold all headings and lists",
+      "mode": "any"
+    },
+    {
+      "id": "editor:unfold-all",
+      "icon": "lucide-maximize-2",
+      "name": "Unfold all headings and lists",
       "mode": "any"
     }
   ],
@@ -70,8 +76,34 @@
   ],
   "rightRibbon": [],
   "titleBar": [],
-  "statusBar": [],
-  "pageHeader": [],
+  "statusBar": [
+    {
+      "id": "editor:fold-all",
+      "icon": "lucide-minimize-2",
+      "name": "Fold all headings and lists",
+      "mode": "any"
+    },
+    {
+      "id": "editor:unfold-all",
+      "icon": "lucide-maximize-2",
+      "name": "Unfold all headings and lists",
+      "mode": "any"
+    }
+  ],
+  "pageHeader": [
+    {
+      "id": "editor:fold-all",
+      "icon": "lucide-minimize-2",
+      "name": "Fold all headings and lists",
+      "mode": "any"
+    },
+    {
+      "id": "editor:unfold-all",
+      "icon": "lucide-maximize-2",
+      "name": "Unfold all headings and lists",
+      "mode": "any"
+    }
+  ],
   "macros": [],
   "explorer": [],
   "hide": {
