@@ -46,10 +46,10 @@ tags:
 	- Исследования и публикации
 		- https://www.researchgate.net/
 	- Информационные порталы (useful knowledge)
-		- https://lifehacker.ru/
+		- 
 		- https://archive.org/
 		- https://fmhy.net/
-		- https://medium.com/
+		- 
 	- Электронные книги (eBooks)
 		- https://flibusta.su/
 			- https://flibusta.site/
@@ -299,13 +299,6 @@ tags:
 - (Без)Алкогольные напитки и коктейли
 	- https://youtube.com/@sergiiomelianenko978
 	- https://youtube.com/@kalent_os
-- Краткие пересказы фильмов
-	- https://youtube.com/@crat_cat
-	- https://youtube.com/@kinofox1
-	- https://youtube.com/@cliffhangerman
-	- https://youtube.com/@vkino777
-- Фильмы и сериалы
-	- https://youtube.com/@gtrffilms
 - Финансовые новости
 	- https://youtube.com/@coinpost
 	- https://youtube.com/@cryptofriends
