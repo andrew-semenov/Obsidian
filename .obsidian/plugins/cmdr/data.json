@@ -78,15 +78,15 @@
   "titleBar": [],
   "statusBar": [
     {
-      "id": "editor:fold-all",
-      "icon": "lucide-minimize-2",
-      "name": "Fold all headings and lists",
-      "mode": "any"
-    },
-    {
       "id": "editor:unfold-all",
       "icon": "lucide-maximize-2",
       "name": "Unfold all headings and lists",
+      "mode": "any"
+    },
+    {
+      "id": "editor:fold-all",
+      "icon": "lucide-minimize-2",
+      "name": "Fold all headings and lists",
       "mode": "any"
     }
   ],
@@ -110,7 +110,7 @@
     "statusbar": [],
     "leftRibbon": []
   },
-  "spacing": 8,
+  "spacing": "8",
   "advancedToolbar": {
     "rowHeight": 48,
     "rowCount": 2,
