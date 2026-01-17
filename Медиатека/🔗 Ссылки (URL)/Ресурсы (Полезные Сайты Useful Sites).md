@@ -90,25 +90,7 @@ tags:
 
 
 ##### Youtube Tg Insta (Контент)
-###### Научно-популярное
-- Техно-новости
-	- https://youtube.com/@kikobzor
-		- https://youtube.com/@kikbrains
-	- https://youtube.com/@droiderru
-
-
-
 ###### Публицистика (Новости, истории и рассказы)
-- Истории и рассказы
-	- https://youtube.com/@minaevlive
-- Новости
-	- 
-	- https://youtube.com/@curious_cat
-	- 
-- Подкасты
-	- https://youtube.com/@mashkomnata
-	- https://youtube.com/@enver_izmailov
-	- https://youtube.com/@theduran
 
 ￼###### Компьютерные игры (Обзоры и прохождение)
 - Игровые новости
@@ -126,10 +108,6 @@ tags:
 	- https://youtube.com/@koncheniyoff
 	- https://youtube.com/@clever-games
 	- https://youtube.com/@playzona
-- Прохождение игр
-	- https://youtube.com/@juliavg1
-	- https://youtube.com/@kuplinovplay
-	- https://youtube.com/@alinarin
 
 ###### Электротехника и электроника (Теория и ремонт)
 - Электротехника
@@ -199,60 +177,6 @@ tags:
 	- https://youtube.com/@itbeard
 	- https://t.me/evilbug
 
-###### Языки (Грамматика, диалоги и т.д.)
-- Английский
-	- https://youtube.com/@english_svetlana
-	- https://youtube.com/@englexschool
-	- https://youtube.com/@mmmenglish_emma
-	- https://youtube.com/@engvidronnie
-	- https://youtube.com/@englishwithliz
-	- https://youtube.com/@englishwithlucy
-	- https://youtube.com/@englishwithgreg
-	- https://youtube.com/@carokowanzenglish
-	- https://youtube.com/@voteto
-	- https://youtube.com/@englishwithsvitlanakonstan3026
-	- https://youtube.com/@english_academia
-	- https://youtube.com/@englishchitchat
-	- https://youtube.com/@englishfluencyjourney
-	- https://youtube.com/@teacher.thiagoalencar
-	- https://youtube.com/@everydayenglishexcellence
-	- https://youtube.com/@excitingenglish
-	- https://youtube.com/@lolaspeakenglishpractice
-	- https://youtube.com/@onlineclassby
-	- https://youtube.com/@feuata
-	- https://youtube.com/@learnenglishwithbobthecanadian
-	- https://youtube.com/@englishclass101
-	- https://youtube.com/@englishwithspeakayou
-- Китайский
-	- https://youtube.com/@bamboobridgeacademy
-- Корейский
-	- https://youtube.com/@koreanclass101
-- Японский
-	- https://youtube.com/@torylingo
-	- https://youtube.com/@furusawasensei
-	- https://youtube.com/@piro_sensei
-
-###### Здоровье и спорт
-- Медицина
-	- https://youtube.com/@doctorpetrik
-	- https://youtube.com/@drericberg
-	- https://youtube.com/@eokomarovskiy
-- Фитнес
-	- https://youtube.com/@anti_trainer
-		- https://t.me/Max_anti_trainer
-	- https://youtube.com/@mensrong
-	- https://youtube.com/@fitnessanimator
-	- https://youtube.com/@trener_artem
-	- https://youtube.com/@tulupavel
-	- https://youtube.com/@ivankrasavin
-	- https://youtube.com/@semenikhindenis
-	- https://youtube.com/@denysrublenko
-	- https://youtube.com/@yogatop
-- Боевые искусства
-	- https://youtube.com/@y.kormushin
-	- https://youtube.com/@farakicks
-	- https://youtube.com/@lornetherrienfcfs
-	- https://youtube.com/@pasquinilli
 
 ###### Литература
 - Аудиокниги и Аудиоспектакли
@@ -312,11 +236,7 @@ tags:
 	- https://youtube.com/@lutchak
 	- https://youtube.com/@propelmeny
 	- https://youtube.com/@calamburpictures
-- 
 
-###### Человеческое общество, культура и развитие
-- История
-	- 
 
 ##### Telegram каналы
 - Готовые проекты для вдохновления
@@ -325,13 +245,9 @@ tags:
 	- http://t.me/it_sensei
 - Астрология
 	- https://t.me/AstroEsoteric_bot
-	- 
-- Юмор
-	- https://youtube.com/@lutchak
-- 
 
+	
 
-##### instagram каналы
 
 # На сортировку
 
