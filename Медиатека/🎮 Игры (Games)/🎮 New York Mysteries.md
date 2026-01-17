@@ -1,3 +1,10 @@
+---
+Блок: Гейминг
+Статус: Ждёт
+tags:
+  - Игра
+---
+
 1. https://play.google.com/store/apps/details?id=com.fivebn.nym1.f2p
 2. https://play.google.com/store/apps/details?id=com.fivebn.nym2.f2p
 3. https://play.google.com/store/apps/details?id=com.fivebn.nym3.f2p

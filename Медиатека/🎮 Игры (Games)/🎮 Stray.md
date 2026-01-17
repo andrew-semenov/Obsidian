@@ -4,4 +4,5 @@
 tags:
   - Игра
 ---
-https://itorrents-igruha.org/3337-911-operator-collectors-edition.html
+
+- https://store.steampowered.com/app/1332010/Stray/

@@ -4,4 +4,5 @@
 tags:
   - Игра
 ---
-https://itorrents-igruha.org/3337-911-operator-collectors-edition.html
+
+https://play.google.com/store/apps/details?id=com.artifexmundi.mopa1.gp

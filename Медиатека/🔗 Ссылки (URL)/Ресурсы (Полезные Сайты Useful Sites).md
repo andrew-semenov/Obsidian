@@ -9,13 +9,9 @@ tags:
 ##### Полезные сайты
 - Информационные технологии
 	- Испытание Challenge
-		- https://www.codewars.com/
 		- https://www.geeksforgeeks.org/blogs/geeksforgeeks-practice-best-online-coding-platform/
-		- https://tryhackme.com/
 	- Курсы Courses
 		- https://coddy.tech/
-		- https://leetcode.com/
-		- https://javarush.com/
 		- https://scrimba.com/courses
 		- https://www.codingame.com/
 		- https://www.sololearn.com/ru/learn
@@ -106,28 +102,11 @@ tags:
 - Истории и рассказы
 	- https://youtube.com/@minaevlive
 - Новости
-	- https://youtube.com/@stranaua #ОлесяМедведева
+	- 
 	- https://youtube.com/@curious_cat
-	- https://youtube.com/@panchenkoonline
+	- 
 - Подкасты
-	- https://youtube.com/@shelestshum 
-		- https://t.me/shelestlive
-	- https://youtube.com/@gennadym
-		- https://t.me/gen_m
-	- https://youtube.com/@demurachannel
-		- https://youtube.com/@demura_sg
-		- https://t.me/sgdemura
-	- https://youtube.com/@super-uralov
-		- https://t.me/su2050
-	- https://youtube.com/@andriibaumeister
-		- https://t.me/andriibaumeister
-	- https://youtube.com/channel/UCQlcl6e4irYUvGJbyLrW1ow #ПавелЩелин
-		- https://t.me/common_sen
-	- https://youtube.com/@bondarenkok
-		- https://t.me/kost1969
-	- https://youtube.com/@stevedoudnik
 	- https://youtube.com/@mashkomnata
-	- https://youtube.com/@dikiylive
 	- https://youtube.com/@enver_izmailov
 	- https://youtube.com/@theduran
 
@@ -299,13 +278,7 @@ tags:
 - (Без)Алкогольные напитки и коктейли
 	- https://youtube.com/@sergiiomelianenko978
 	- https://youtube.com/@kalent_os
-- Финансовые новости
-	- https://youtube.com/@coinpost
-	- https://youtube.com/@cryptofriends
-	- https://youtube.com/@hardprocent
-	- https://youtube.com/@alpha_crypt
-	- https://youtube.com/@rationalanswer
-	- https://youtube.com/@instardinginvest
+
 - Путешествия
 	- https://youtube.com/@ptuxermann
 - Гастропутешествия
