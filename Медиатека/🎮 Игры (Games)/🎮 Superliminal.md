@@ -3,7 +3,7 @@
 Статус: Ждёт
 tags:
   - Игра
-  - SteamDeck
+  - Steam
   - Android
 ---
 

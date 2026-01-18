@@ -3,7 +3,7 @@
 Статус: В процессе
 tags:
   - Игра
-  - SteamDeck
+  - Steam
 ---
 
 - https://store.steampowered.com/app/539470/Police_Stories/

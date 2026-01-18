@@ -5,7 +5,7 @@
   - Yesterday Origins
 tags:
   - Игра
-  - SteamDeck
+  - Steam
   - Квест
 ---
 

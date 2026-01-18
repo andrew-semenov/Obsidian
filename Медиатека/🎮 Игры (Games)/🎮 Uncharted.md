@@ -7,7 +7,7 @@
   - "Uncharted: Golden Abyss"
 tags:
   - Игра
-  - PS5
+  - PS
   - Приключения
 ---
 
