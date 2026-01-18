@@ -47,7 +47,7 @@
     "editor:toggle-blockquote",
     "editor:insert-footnote"
   ],
-  "mobileQuickRibbonItem": "",
+  "mobileQuickRibbonItem": "homepage:Open homepage",
   "propertiesInDocument": "source",
   "autoPairBrackets": false,
   "autoPairMarkdown": false,
