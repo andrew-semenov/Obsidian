@@ -97,3 +97,16 @@ views:
     sort:
       - property: file.ctime
         direction: DESC
+  - type: list
+    name: 🎬 Видео
+    filters:
+      and:
+        - file.folder.contains("Медиатека/🎬 Видео (Video)")
+    groupBy:
+      property: Тут
+      direction: ASC
+    sort:
+      - property: Статус
+        direction: ASC
+    indentProperties: true
+    markers: number

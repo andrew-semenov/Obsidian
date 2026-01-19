@@ -7,6 +7,7 @@ URL: https://www.youtube.com/playlist?list=PLejGw9J2xE9VvidYh8HR5Ix0aSCIKEAp3
 tags:
   - Летсплей
   - ДмитрийКуплинов
+Тут: Летсплей
 ---
 
  [Resident Evil 4 Remake Прохождение - YouTube](https://www.youtube.com/playlist?list=PLejGw9J2xE9VvidYh8HR5Ix0aSCIKEAp3)
