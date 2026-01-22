@@ -1,5 +1,5 @@
 {
-  "confirmDeletion": false,
+  "confirmDeletion": true,
   "showAddCommand": true,
   "debug": false,
   "editorMenu": [
@@ -68,9 +68,15 @@
   ],
   "leftRibbon": [
     {
-      "id": "workspace:goto-tab-4",
-      "icon": "lucide-home",
-      "name": "Перейти на вкладку #4",
+      "id": "file-explorer:reveal-active-file",
+      "icon": "lucide-navigation",
+      "name": "Files: Reveal current file in navigation",
+      "mode": "any"
+    },
+    {
+      "id": "app:go-back",
+      "icon": "lucide-arrow-left",
+      "name": "Navigate back",
       "mode": "any"
     }
   ],

@@ -5,6 +5,90 @@ properties:
     displayName: Прогресс
 views:
   - type: list
+    name: 👨‍🎓 Навыки
+    filters:
+      and:
+        - file.folder.contains("Навыки")
+    order:
+      - file.name
+      - tags
+    sort:
+      - property: Статус
+        direction: ASC
+    indentProperties: true
+    markers: number
+  - type: list
+    name: 📚 Литература
+    filters:
+      and:
+        - file.folder.contains("📚🎧 Литература")
+    groupBy:
+      property: 🔵
+      direction: ASC
+    order:
+      - file.name
+      - tags
+    sort:
+      - property: Статус
+        direction: ASC
+    indentProperties: true
+    markers: number
+  - type: list
+    name: 🎬 Видео
+    filters:
+      and:
+        - file.folder.contains("🎬 Видео (Video)")
+    groupBy:
+      property: 🔵
+      direction: ASC
+    order:
+      - file.name
+      - tag
+      - tags
+    sort:
+      - property: Статус
+        direction: ASC
+    indentProperties: true
+    markers: number
+  - type: list
+    name: ❓Ознакомиться
+    filters:
+      and:
+        - file.folder.contains("❓Ознакомиться")
+    order:
+      - file.name
+      - tags
+    sort: []
+    indentProperties: true
+    markers: number
+  - type: list
+    name: 🔗 Источники
+    filters:
+      and:
+        - file.folder.contains("🔗 Источники")
+    order:
+      - file.name
+      - tags
+    sort: []
+    indentProperties: true
+    markers: number
+  - type: list
+    name: Архив
+    filters:
+      and:
+        - Статус == "В архиве"
+    groupBy:
+      property: 🔵
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+    sort:
+      - property: file.tags
+        direction: ASC
+    indentProperties: true
+    markers: bullet
+  - type: list
     name: СиД (Созидание и Досуг)
     filters:
       and:
@@ -16,7 +100,6 @@ views:
     order:
       - file.name
       - file.tags
-      - URL
     sort:
       - property: Статус
         direction: ASC
@@ -25,23 +108,6 @@ views:
     indentProperties: true
     markers: number
     rowHeight: medium
-  - type: list
-    name: Архив
-    filters:
-      and:
-        - "!Блок.isEmpty()"
-        - Статус == "В архиве"
-    groupBy:
-      property: Блок
-      direction: ASC
-    order:
-      - file.name
-      - file.tags
-    sort:
-      - property: file.tags
-        direction: ASC
-    indentProperties: false
-    markers: bullet
   - type: list
     name: Активности
     filters:
@@ -98,15 +164,24 @@ views:
       - property: file.ctime
         direction: DESC
   - type: list
-    name: 🎬 Видео
+    name: Досуг
     filters:
       and:
-        - file.folder.contains("Медиатека/🎬 Видео (Video)")
-    groupBy:
-      property: Тут
-      direction: ASC
-    sort:
-      - property: Статус
-        direction: ASC
-    indentProperties: true
+        - Это == "Досуг"
+    order:
+      - file.name
+      - tags
     markers: number
+    indentProperties: true
+  - type: list
+    name: Учёба
+    filters:
+      and:
+        - Это == "Досуг"
+    order:
+      - file.name
+      - tags
+    markers: number
+    indentProperties: true
+  - type: table
+    name: View

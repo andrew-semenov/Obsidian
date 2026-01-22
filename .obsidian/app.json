@@ -45,7 +45,8 @@
     "editor:insert-table",
     "editor:insert-embed",
     "editor:toggle-blockquote",
-    "editor:insert-footnote"
+    "editor:insert-footnote",
+    "file-explorer:reveal-active-file"
   ],
   "mobileQuickRibbonItem": "homepage:Open homepage",
   "propertiesInDocument": "source",

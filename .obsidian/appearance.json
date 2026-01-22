@@ -7,5 +7,6 @@
   "accentColor": "#187a39",
   "theme": "moonstone",
   "showViewHeader": true,
-  "showRibbon": true
+  "showRibbon": true,
+  "baseFontSize": 14
 }
