@@ -73,7 +73,7 @@ views:
     indentProperties: true
     markers: number
   - type: list
-    name: Архив
+    name: 🗄️ Архив
     filters:
       and:
         - Статус == "В архиве"
