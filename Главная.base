@@ -28,6 +28,7 @@ views:
     order:
       - file.name
       - tags
+      - Прогресс
     sort:
       - property: Статус
         direction: ASC
