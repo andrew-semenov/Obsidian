@@ -1,4 +1,5 @@
 ---
+🔵: SteamDeck
 Блок: SteamDeck
 tags:
 ---
