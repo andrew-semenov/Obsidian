@@ -7,5 +7,6 @@
 tags:
   - Летсплей
   - ДмитрийКуплинов
+Это: Смотрю
 ---
  [Resident Evil 7: Biohazard Прохождение - YouTube](https://www.youtube.com/playlist?list=PLejGw9J2xE9WvAMfzQ_ChID4DGHhXTOsA)

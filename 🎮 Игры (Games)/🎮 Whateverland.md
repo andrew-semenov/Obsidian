@@ -3,6 +3,8 @@
 Статус: Ждёт
 tags:
   - Игра
+  - Steam
+Это: Играю
 ---
 
 - https://store.steampowered.com/app/1299990/Whateverland_Prologue/

@@ -9,6 +9,7 @@ tags:
   - Игра
   - PS
   - Приключения
+Это: Играю
 ---
 
 [Uncharted (Naughty Dog)](https://ru.wikipedia.org/wiki/Uncharted)  

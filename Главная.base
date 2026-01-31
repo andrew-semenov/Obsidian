@@ -63,33 +63,6 @@ views:
     indentProperties: true
     markers: number
   - type: list
-    name: 🔗 Источники
-    filters:
-      and:
-        - file.folder.contains("🔗 Источники")
-    order:
-      - file.name
-      - tags
-    sort: []
-    indentProperties: true
-    markers: number
-  - type: list
-    name: 🗄️ Архив
-    filters:
-      and:
-        - Статус == "В архиве"
-    groupBy:
-      property: 🔵
-      direction: ASC
-    order:
-      - file.name
-      - file.tags
-    sort:
-      - property: file.tags
-        direction: ASC
-    indentProperties: true
-    markers: bullet
-  - type: list
     name: СиД (Созидание и Досуг)
     filters:
       and:
@@ -128,16 +101,6 @@ views:
     indentProperties: true
     markers: number
   - type: list
-    name: Пройдено
-    filters:
-      and:
-        - Статус == "Завершено"
-    groupBy:
-      property: Категория
-      direction: ASC
-    sort: []
-    indentProperties: true
-  - type: list
     name: Библиотека
     groupBy:
       property: Статус
@@ -160,29 +123,132 @@ views:
     name: На сортировку
     filters:
       and:
-        - Тематика.isEmpty()
+        - Это.isEmpty()
     sort:
       - property: file.ctime
         direction: DESC
   - type: list
-    name: Досуг
+    name: 👨‍🎓 Постигаю
     filters:
       and:
-        - Это == "Досуг"
+        - Это == "Постигаю"
+    groupBy:
+      property: 🔵
+      direction: ASC
+    order:
+      - file.name
+      - tags
+    sort:
+      - property: Статус
+        direction: ASC
+    indentProperties: true
+  - type: list
+    name: 📚 Читаю
+    filters:
+      and:
+        - Это == "Читаю"
+    groupBy:
+      property: 🔵
+      direction: ASC
+    order:
+      - file.name
+      - tags
+    indentProperties: true
+  - type: list
+    name: 🎧 Слушаю
+    filters:
+      and:
+        - Это == "Слушаю"
+        - Статус != "В архиве"
+    groupBy:
+      property: 🔵
+      direction: ASC
     order:
       - file.name
       - tags
     markers: number
     indentProperties: true
   - type: list
-    name: Учёба
+    name: 🎮 Играю
     filters:
       and:
-        - Это == "Досуг"
+        - Это == "Играю"
+    groupBy:
+      property: 🔵
+      direction: ASC
     order:
       - file.name
       - tags
-    markers: number
     indentProperties: true
+  - type: list
+    name: 🎬 Смотрю
+    filters:
+      and:
+        - Это == "Смотрю"
+        - Статус != "В архиве"
+    groupBy:
+      property: 🔵
+      direction: ASC
+    order:
+      - file.name
+      - tags
+    indentProperties: true
+  - type: list
+    name: 🆘 Чрезвычайная ситуация
+    indentProperties: true
+  - type: list
+    name: ℹ️ Полезное
+    indentProperties: true
+  - type: list
+    name: 🔗 Источники
+    filters:
+      and:
+        - file.folder.contains("🔗 Источники")
+    order:
+      - file.name
+      - tags
+    sort: []
+    indentProperties: true
+    markers: number
+  - type: list
+    name: 🗂️ Медиатека
+    filters:
+      and:
+        - Статус != "В архиве"
+    groupBy:
+      property: 🔵
+      direction: ASC
+    order:
+      - file.name
+      - tags
+    indentProperties: true
+  - type: list
+    name: 🗄️ Архив
+    filters:
+      and:
+        - Статус == "В архиве"
+    groupBy:
+      property: 🔵
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+    sort:
+      - property: file.tags
+        direction: ASC
+    indentProperties: true
+    markers: bullet
   - type: table
-    name: View
+    name: Руководство
+  - type: list
+    name: Обсидиан
+    filters:
+      and:
+        - Это == "Obsidian"
+    indentProperties: true
+  - type: list
+    name: Стим дек
+    filters:
+      and:
+        - Это == "Steam Deck"
+    indentProperties: true
