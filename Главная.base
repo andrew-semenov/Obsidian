@@ -35,34 +35,32 @@ views:
         direction: ASC
     indentProperties: true
   - type: list
-    name: 🤔 Интересуюсь
-    filters:
-      and:
-        - Это == "Интересно"
-    groupBy:
-      property: 🔵
-      direction: ASC
-    order:
-      - file.name
-      - tags
-    indentProperties: true
-  - type: table
-    name: 👂Фонье
-  - type: list
     name: 😌 Вайб
-    indentProperties: true
-  - type: list
-    name: 😋 Смакую
     filters:
       and:
-        - Это == "Отдых"
+        - Это == "Вайб"
+        - Статус != "В архиве"
     groupBy:
       property: 🔵
       direction: ASC
     order:
       - file.name
       - tags
+    sort:
+      - property: Статус
+        direction: ASC
     indentProperties: true
+  - type: list
+    name: ❓Ознакомиться
+    filters:
+      and:
+        - file.folder.contains("❓Ознакомиться")
+    order:
+      - file.name
+      - tags
+    sort: []
+    indentProperties: true
+    markers: number
   - type: list
     name: 🗄️ Архив
     filters:
@@ -79,71 +77,6 @@ views:
         direction: ASC
     indentProperties: true
     markers: bullet
-  - type: table
-    name: На сортировку
-    filters:
-      and:
-        - Это.isEmpty()
-    sort:
-      - property: file.ctime
-        direction: DESC
-  - type: list
-    name: 📚 Читаю
-    filters:
-      and:
-        - Это == "Читаю"
-    groupBy:
-      property: 🔵
-      direction: ASC
-    order:
-      - file.name
-      - tags
-    indentProperties: true
-  - type: list
-    name: 🎧 Слушаю
-    filters:
-      and:
-        - Это == "Слушаю"
-        - Статус != "В архиве"
-    groupBy:
-      property: 🔵
-      direction: ASC
-    order:
-      - file.name
-      - tags
-    markers: number
-    indentProperties: true
-  - type: list
-    name: 🎮 Играю
-    filters:
-      and:
-        - Это == "Играю"
-    groupBy:
-      property: 🔵
-      direction: ASC
-    order:
-      - file.name
-      - tags
-    indentProperties: true
-  - type: list
-    name: 🎬 Смотрю
-    filters:
-      and:
-        - Это == "Смотрю"
-        - Статус != "В архиве"
-    groupBy:
-      property: 🔵
-      direction: ASC
-    order:
-      - file.name
-      - tags
-    indentProperties: true
-  - type: list
-    name: 🆘 Чрезвычайная ситуация
-    indentProperties: true
-  - type: list
-    name: ℹ️ Полезное
-    indentProperties: true
   - type: list
     name: 🔗 Источники
     filters:
@@ -155,6 +88,20 @@ views:
     sort: []
     indentProperties: true
     markers: number
+  - type: list
+    name: 🆘 Чрезвычайная ситуация
+    indentProperties: true
+  - type: table
+    name: На сортировку
+    filters:
+      and:
+        - Это.isEmpty()
+    sort:
+      - property: file.ctime
+        direction: DESC
+  - type: list
+    name: ℹ️ Полезное
+    indentProperties: true
   - type: list
     name: 🗂️ Медиатека
     filters:
@@ -285,20 +232,35 @@ views:
         direction: ASC
     indentProperties: true
     markers: number
-  - type: list
-    name: ❓Ознакомиться
-    filters:
-      and:
-        - file.folder.contains("❓Ознакомиться")
-    order:
-      - file.name
-      - tags
-    sort: []
-    indentProperties: true
-    markers: number
   - type: table
     name: 🤯 Познать
   - type: table
     name: 👨‍🎓 Изучить
   - type: table
     name: 🤔 Подумать
+  - type: table
+    name: 👂Фонье
+  - type: list
+    name: 🤔 Интересуюсь
+    filters:
+      and:
+        - Это == "Интересно"
+    groupBy:
+      property: 🔵
+      direction: ASC
+    order:
+      - file.name
+      - tags
+    indentProperties: true
+  - type: list
+    name: 😋 Смакую
+    filters:
+      and:
+        - Это == "Отдых"
+    groupBy:
+      property: 🔵
+      direction: ASC
+    order:
+      - file.name
+      - tags
+    indentProperties: true

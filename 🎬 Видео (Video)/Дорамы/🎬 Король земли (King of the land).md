@@ -1,5 +1,5 @@
 ---
-Это: Смотрю
+Это: Вайб
 🔵: Дорамы
 Статус: В архиве
 Приоритет: 2
@@ -10,6 +10,7 @@ tags:
   - Мелодрама
   - Netflix
 ---
+
 https://beztorfilms.moy.su/load/doramy/korol_zemli_2023/10-1-0-544
 
 https://wvvw.lafa.site/serialy/korol-zemli.htm
