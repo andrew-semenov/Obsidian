@@ -4,14 +4,21 @@ properties:
   note.Прогресс:
     displayName: Прогресс
 views:
-  - type: table
-    name: На сортировку
+  - type: list
+    name: 👨‍💻 Практикую
     filters:
       and:
-        - Это.isEmpty()
+        - Это == "Практикую"
+    groupBy:
+      property: 🔵
+      direction: ASC
+    order:
+      - file.name
+      - tags
     sort:
-      - property: file.ctime
-        direction: DESC
+      - property: Статус
+        direction: ASC
+    indentProperties: true
   - type: list
     name: 👨‍🎓 Постигаю
     filters:
@@ -27,6 +34,59 @@ views:
       - property: Статус
         direction: ASC
     indentProperties: true
+  - type: list
+    name: 🤔 Интересуюсь
+    filters:
+      and:
+        - Это == "Интересно"
+    groupBy:
+      property: 🔵
+      direction: ASC
+    order:
+      - file.name
+      - tags
+    indentProperties: true
+  - type: table
+    name: 👂Фонье
+  - type: list
+    name: 😌 Вайб
+    indentProperties: true
+  - type: list
+    name: 😋 Смакую
+    filters:
+      and:
+        - Это == "Отдых"
+    groupBy:
+      property: 🔵
+      direction: ASC
+    order:
+      - file.name
+      - tags
+    indentProperties: true
+  - type: list
+    name: 🗄️ Архив
+    filters:
+      and:
+        - Статус == "В архиве"
+    groupBy:
+      property: 🔵
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+    sort:
+      - property: file.tags
+        direction: ASC
+    indentProperties: true
+    markers: bullet
+  - type: table
+    name: На сортировку
+    filters:
+      and:
+        - Это.isEmpty()
+    sort:
+      - property: file.ctime
+        direction: DESC
   - type: list
     name: 📚 Читаю
     filters:
@@ -107,22 +167,6 @@ views:
       - file.name
       - tags
     indentProperties: true
-  - type: list
-    name: 🗄️ Архив
-    filters:
-      and:
-        - Статус == "В архиве"
-    groupBy:
-      property: 🔵
-      direction: ASC
-    order:
-      - file.name
-      - file.tags
-    sort:
-      - property: file.tags
-        direction: ASC
-    indentProperties: true
-    markers: bullet
   - type: list
     name: Обсидиан
     filters:
@@ -252,3 +296,9 @@ views:
     sort: []
     indentProperties: true
     markers: number
+  - type: table
+    name: 🤯 Познать
+  - type: table
+    name: 👨‍🎓 Изучить
+  - type: table
+    name: 🤔 Подумать
