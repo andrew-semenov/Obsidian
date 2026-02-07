@@ -5,6 +5,17 @@ properties:
     displayName: Прогресс
 views:
   - type: list
+    name: 🔗 Источники
+    filters:
+      and:
+        - file.folder.contains("🔗 Источники")
+    order:
+      - file.name
+      - tags
+    sort: []
+    indentProperties: true
+    markers: number
+  - type: list
     name: 👨‍💻 Практикую
     filters:
       and:
@@ -49,6 +60,8 @@ views:
     sort:
       - property: Статус
         direction: ASC
+      - property: tags
+        direction: ASC
     indentProperties: true
   - type: list
     name: ❓Ознакомиться
@@ -78,19 +91,28 @@ views:
     indentProperties: true
     markers: bullet
   - type: list
-    name: 🔗 Источники
-    filters:
-      and:
-        - file.folder.contains("🔗 Источники")
-    order:
-      - file.name
-      - tags
-    sort: []
-    indentProperties: true
-    markers: number
-  - type: list
     name: 🆘 Чрезвычайная ситуация
     indentProperties: true
+  - type: list
+    name: СиД (Созидание и Досуг)
+    filters:
+      and:
+        - "!Блок.isEmpty()"
+        - Статус != "В архиве"
+    groupBy:
+      property: Блок
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+    sort:
+      - property: Статус
+        direction: ASC
+      - property: file.tags
+        direction: ASC
+    indentProperties: true
+    markers: number
+    rowHeight: medium
   - type: table
     name: На сортировку
     filters:
@@ -128,26 +150,6 @@ views:
     indentProperties: true
   - type: table
     name: Руководство
-  - type: list
-    name: СиД (Созидание и Досуг)
-    filters:
-      and:
-        - "!Блок.isEmpty()"
-        - Статус != "В архиве"
-    groupBy:
-      property: Блок
-      direction: ASC
-    order:
-      - file.name
-      - file.tags
-    sort:
-      - property: Статус
-        direction: ASC
-      - property: file.tags
-        direction: ASC
-    indentProperties: true
-    markers: number
-    rowHeight: medium
   - type: list
     name: Активности
     filters:
