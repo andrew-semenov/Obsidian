@@ -11,6 +11,7 @@
     "Категория": "text",
     "Порядок": "number",
     "Автор": "text",
-    "Created": "multitext"
+    "Created": "multitext",
+    "URL": "multitext"
   }
 }

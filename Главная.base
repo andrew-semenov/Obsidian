@@ -9,10 +9,16 @@ views:
     filters:
       and:
         - file.folder.contains("🔗 Источники")
+    groupBy:
+      property: 🔵
+      direction: ASC
     order:
       - file.name
+      - URL
       - tags
-    sort: []
+    sort:
+      - property: tags
+        direction: ASC
     indentProperties: true
     markers: number
   - type: list

@@ -25,9 +25,9 @@ https://uknig.com/series/1832
 	1. [x] Тузы красной масти
 	2. [x] Мошенник Кеннеди
 	3. [x] Дело Джо Аттимара
-3. [ ] «Возвращение мистера Дж. Г. Ридера» (Mr J. G. Reeder Returns, 1932)
+3. [x] «Возвращение мистера Дж. Г. Ридера» (Mr J. G. Reeder Returns, 1932)
 	1. [x] «Дом сокровищ» (The Treasure House)
-	2. [ ] «Человек-тень» (The shadow man)
+	2. [x] «Человек-тень» (The shadow man)
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJypFywsIzrW3C18Q6WAFBFjeSu4LQVa8ZwM907VPnYQ&s)
 
