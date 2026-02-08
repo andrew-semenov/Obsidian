@@ -27,6 +27,7 @@ apt upgrade
 ```
 
 ```
+git fsck --lost-found &&
 git fsck --full &&
 git fsck --name-objects
 ```
