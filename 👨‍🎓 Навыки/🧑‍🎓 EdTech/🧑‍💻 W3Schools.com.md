@@ -4,6 +4,7 @@
 Статус: Активно
 Прогресс:
 tags:
+  - Курсы
   - HTML
   - CSS
   - Javascript

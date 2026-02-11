@@ -4,6 +4,7 @@
 Статус: Ждёт
 tags:
   - Игра
+  - Torrent
 ---
 
 - https://store.steampowered.com/app/1332010/Stray/

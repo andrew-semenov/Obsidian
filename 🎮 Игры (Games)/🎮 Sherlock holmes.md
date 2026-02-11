@@ -4,6 +4,7 @@
 Статус: Ждёт
 tags:
   - Игра
+  - PS
 ---
 
 The testemante

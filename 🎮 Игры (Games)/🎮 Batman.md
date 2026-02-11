@@ -4,6 +4,7 @@
 Статус: Ждёт
 tags:
   - Игра
+  - ps
 ---
 
 Return to arkham  asylum

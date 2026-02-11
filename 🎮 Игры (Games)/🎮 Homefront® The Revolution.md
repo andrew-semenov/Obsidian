@@ -1,11 +1,9 @@
 ---
 Это: Вайб
 🔵: Гейминг
-Статус: Ждёт
 tags:
   - Игра
   - PS
+  - Шутер
 ---
-
-Ac syndicate
-Ac unity
+https://store.playstation.com/ru-ua/concept/202024

@@ -4,6 +4,7 @@
 Статус: Ждёт
 tags:
   - Игра
+  - Torrent
 ---
 
 https://store.steampowered.com/app/108600/Project_Zomboid/
