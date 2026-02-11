@@ -1,7 +1,6 @@
 {
   "types": {
     "aliases": "aliases",
-    "cssclasses": "multitext",
     "tags": "tags",
     "ISBN": "multitext",
     "др. язык(и)": "multitext",
@@ -9,9 +8,7 @@
     "Приоритет": "number",
     "Интерес": "number",
     "Категория": "text",
-    "Порядок": "number",
     "Автор": "text",
-    "Created": "multitext",
     "URL": "multitext"
   }
 }

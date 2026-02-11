@@ -54,6 +54,7 @@ views:
     order:
       - file.name
       - tags
+      - Автор
     sort:
       - property: Статус
         direction: ASC
@@ -70,6 +71,7 @@ views:
     order:
       - file.name
       - tags
+      - Автор
     sort:
       - property: Статус
         direction: ASC
