@@ -2,7 +2,8 @@
   "enabledCssSnippets": [
     "book",
     "books",
-    "test"
+    "test",
+    "styles"
   ],
   "accentColor": "#187a39",
   "theme": "moonstone",
