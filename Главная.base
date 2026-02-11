@@ -5,6 +5,12 @@ properties:
     displayName: Прогресс
 views:
   - type: list
+    name: 🎯 Планы действий
+    filters:
+      and:
+        - file.folder == "🎯 Планы действий"
+    indentProperties: true
+  - type: list
     name: 🔗 Источники
     filters:
       and:
