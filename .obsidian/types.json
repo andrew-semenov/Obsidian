@@ -5,8 +5,6 @@
     "ISBN": "multitext",
     "др. язык(и)": "multitext",
     "Прогресс": "multitext",
-    "Приоритет": "number",
-    "Интерес": "number",
     "Категория": "text",
     "Автор": "text",
     "URL": "multitext"

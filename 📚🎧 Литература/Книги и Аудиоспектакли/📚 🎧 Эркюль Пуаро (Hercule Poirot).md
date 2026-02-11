@@ -19,9 +19,11 @@ tags:
 1. $1920$ — «Загадочное происшествие в Стайлзе»
 	- - [x] Читает: Клюквин Александр https://baza-knig.top/detektivy-trillery/22044-zagadochnoe-proisshestvie-v-staylze-agata-kristi.html
 2. $1923$ — «Убийство на поле для гольфа»
-	- - [ ] 
+	- - [x] Читает: Клюквин Александр https://baza-knig.top/detektivy-trillery/80067-111-jerkjul-puaro-02-ubijstvo-na-pole-dlja-golfa-agata-kristi.html
 3. $1927$ — «Большая четвёрка»
+	- - [x] Читает: Клюквин Александр https://baza-knig.top/detektivy-trillery/22048-bolshaya-chetverka-agata-kristi.html	
 4. $1926$ — «Убийство Роджера Экройда»
+	- - [ ] Читает: Клюквин Александр https://baza-knig.top/detektivy-trillery/22047-ubiystvo-rodzhera-ekroyda-agata-kristi.html
 5. $1928$ — «Тайна «Голубого поезда»
 6. $1932$ — «Загадка Эндхауза»
 7. $1933$ — «Смерть лорда Эджвера»
