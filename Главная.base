@@ -73,9 +73,9 @@ views:
       - tags
       - Автор
     sort:
-      - property: Статус
-        direction: ASC
       - property: tags
+        direction: ASC
+      - property: Статус
         direction: ASC
     indentProperties: true
   - type: list
@@ -131,8 +131,9 @@ views:
   - type: table
     name: На сортировку
     filters:
-      and:
+      or:
         - Это.isEmpty()
+        - 🔵.isEmpty()
     sort:
       - property: file.ctime
         direction: DESC

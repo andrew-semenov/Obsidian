@@ -59,5 +59,6 @@
   "showInlineTitle": true,
   "focusNewTab": false,
   "promptDelete": true,
-  "mobilePullAction": "insert-template"
+  "mobilePullAction": "insert-template",
+  "openBehavior": "file:Главная.base"
 }

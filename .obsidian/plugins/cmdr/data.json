@@ -10,6 +10,12 @@
       "mode": "any"
     },
     {
+      "id": "file-explorer:reveal-active-file",
+      "icon": "lucide-navigation",
+      "name": "Файловый менеджер: Показать текущий файл в файловом менеджере",
+      "mode": "any"
+    },
+    {
       "id": "editor:unfold-all",
       "icon": "lucide-maximize-2",
       "name": "Unfold all headings and lists",
@@ -18,39 +24,9 @@
   ],
   "fileMenu": [
     {
-      "id": "markdown:add-metadata-property",
-      "icon": "lucide-plus-circle",
-      "name": "Добавить свойство файла",
-      "mode": "any"
-    },
-    {
-      "id": "insert-current-date",
-      "icon": "lucide-calendar-days",
-      "name": "Шаблоны: Вставить текущую дату",
-      "mode": "any"
-    },
-    {
-      "id": "insert-current-date",
-      "icon": "lucide-calendar-days",
-      "name": "Шаблоны: Вставить текущую дату",
-      "mode": "any"
-    },
-    {
       "id": "editor:insert-footnote",
       "icon": "lucide-file-signature",
       "name": "Вставить сноску",
-      "mode": "any"
-    },
-    {
-      "id": "bases:add-view",
-      "icon": "lucide-shapes",
-      "name": "Базы даннных: Add view",
-      "mode": "any"
-    },
-    {
-      "id": "bases:add-view",
-      "icon": "lucide-shapes",
-      "name": "Базы даннных: Add view",
       "mode": "any"
     },
     {
@@ -77,12 +53,6 @@
       "id": "file-explorer:reveal-active-file",
       "icon": "lucide-navigation",
       "name": "Files: Reveal current file in navigation",
-      "mode": "any"
-    },
-    {
-      "id": "app:go-back",
-      "icon": "lucide-arrow-left",
-      "name": "Navigate back",
       "mode": "any"
     }
   ],
@@ -123,10 +93,22 @@
     }
   ],
   "macros": [],
-  "explorer": [],
+  "explorer": [
+    {
+      "id": "file-explorer:reveal-active-file",
+      "icon": "lucide-navigation",
+      "name": "Файловый менеджер: Показать текущий файл в файловом менеджере",
+      "mode": "any"
+    }
+  ],
   "hide": {
     "statusbar": [],
-    "leftRibbon": []
+    "leftRibbon": [
+      "Navigate back",
+      "Публикация изменений",
+      "Создать новую базу",
+      "Создать новый холст"
+    ]
   },
   "spacing": "8",
   "advancedToolbar": {
