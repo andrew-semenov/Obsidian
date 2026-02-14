@@ -71,11 +71,10 @@ views:
     order:
       - file.name
       - tags
-      - Автор
     sort:
-      - property: tags
-        direction: ASC
       - property: Статус
+        direction: ASC
+      - property: tags
         direction: ASC
     indentProperties: true
   - type: list
