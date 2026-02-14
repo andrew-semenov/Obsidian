@@ -1,6 +1,6 @@
 ---
 Это: Источники
-🔵: Нарратив
+🔵: Документалистика
 URL:
   - https://www.youtube.com/@GEOSHOW
 tags:
