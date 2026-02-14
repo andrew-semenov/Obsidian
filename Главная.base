@@ -90,6 +90,18 @@ views:
     indentProperties: true
     markers: number
   - type: list
+    name: ℹ️ Полезное
+    filters:
+      and:
+        - Это == "Полезное"
+    groupBy:
+      property: 🔵
+      direction: ASC
+    order:
+      - file.name
+      - tags
+    indentProperties: true
+  - type: list
     name: 🗄️ Архив
     filters:
       and:
@@ -137,15 +149,6 @@ views:
     sort:
       - property: file.ctime
         direction: DESC
-  - type: list
-    name: ℹ️ Полезное
-    filters:
-      and:
-        - Это == "Полезное"
-    groupBy:
-      property: 🔵
-      direction: ASC
-    indentProperties: true
   - type: list
     name: 🗂️ Медиатека
     filters:
