@@ -55,6 +55,10 @@ find .git/objects/ -type f -empty | xargs rm
 git clean -f -d -n
 ```
 
+```
+git rm -r --cached .
+```
+
 ---
 - 
 
