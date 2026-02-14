@@ -2,7 +2,7 @@
 Это: Источники
 🔵: Документалистика
 URL:
-  -  https://youtube.com/@GOLOVOLOMTV
+  - https://youtube.com/@GOLOVOLOMTV
 tags:
   - Научно-популярное
   - Мир
