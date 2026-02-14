@@ -11,7 +11,7 @@ pkg install git
 pkg install wget
 
 ```
-git config --global core.compression 0
+cd /storage/emulated/0/Documents/Obsidian
 ```
 
 ```
@@ -19,7 +19,11 @@ git config --global core.quotepath false
 ```
 
 ```
-cd /storage/emulated/0/Documents/Obsidian
+git config --global core.compression 0
+```
+
+```
+git config --global http.postBuffer 524288000
 ```
 
 ```
@@ -30,14 +34,7 @@ apt upgrade
 ```
 git fsck --lost-found &&
 git fsck --full &&
-git fsck --name-objects
-```
-
-```
-git config --global http.postBuffer 524288000
-```
-
-```
+git fsck --name-objects &&
 git pull --rebase
 ```
 
