@@ -98,10 +98,8 @@ tags:
 	- https://youtube.com/@onlinegamercentral
 	- https://youtube.com/@igromaniamain
 	- https://youtube.com/@igromaniavideo
-	- https://youtube.com/@rocky_viii
 	- https://youtube.com/@gamervictor-q8u
 	- https://youtube.com/@3dnews
-	- https://youtube.com/@stopgameru
 	- https://youtube.com/@amicus3
 	- https://youtube.com/@steamdecktest
 	- https://youtube.com/@komijo
@@ -121,8 +119,6 @@ tags:
 
 ###### Уроки. Лекции. Курсы. Практика
 - Физика
-	- https://youtube.com/@pvictor54
-	- https://youtube.com/@mektep_online_fizika
 	- https://youtube.com/@getaclassphys
 	- https://youtube.com/@ege_ebonit
 	- https://youtube.com/@inznan
@@ -135,13 +131,11 @@ tags:
 	- https://youtube.com/@insperia.chemistry
 	- https://youtube.com/@chemistryeasy
 - Системное администрирование и DevOps
-	- https://youtube.com/@andreysozykin
 	- https://youtube.com/@pavlenkoat
 	- https://youtube.com/@techworldwithnana
 	- https://youtube.com/@marceldempers
 - Веб-программирование
 	- https://youtube.com/@aleksanderlamkov
-	- https://youtube.com/@aniakubow
 	- https://youtube.com/@freecodecamp
 	- https://youtube.com/@larchanka
 	- https://youtube.com/@vladilenminin
@@ -152,7 +146,6 @@ tags:
 	- https://youtube.com/@leshamarshal
 	- https://youtube.com/@learnqa 
 - Кибербезопасность.
-	- https://youtube.com/@mr0x45xploit
 	- https://youtube.com/@mrcybersec
 	- https://youtube.com/@davidbombal
 - Задания (ИТ)
@@ -164,7 +157,6 @@ tags:
 	- https://youtube.com/@vladilele
 	- https://youtube.com/@alenakravchenko
 	- https://youtube.com/@stepancampari
-- Блокфлейта
 - Калимба
 	- https://youtube.com/@kalimbastore
 

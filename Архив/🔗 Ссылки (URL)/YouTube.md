@@ -3,26 +3,12 @@
 > 	- Сети и Хакинг 
 > 		- [Alex WysiWyg](https://www.youtube.com/@alexwysiwyg) 
 > 		- [NetworkChuck](https://www.youtube.com/@NetworkChuck) 
-> 		- [Mister Exploit](https://www.youtube.com/@Mr0x45xploit)
-> 		- [David Bombal](https://www.youtube.com/@davidbombal)
-> 		- [That DevOps Guy](https://www.youtube.com/@marceldempers)
-> 		- [TechWorld with Nana](https://www.youtube.com/@techworldwithnana)
 > 	- Программирование  
-> 		- [Александр Ламков — Friendly Frontend](https://youtube.com/@aleksanderlamkov?si=ZNTj0cjV6rIj83fx)
 > 		- [Лёша Корепанов](https://www.youtube.com/@aocore)
-> 		-  [Code with Ania Kubów](https://www.youtube.com/@aniakubow) 
 > 		- [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid)
 > 		- [Дюжев Алексей. с 0 в IT.](https://www.youtube.com/@sov-it)
-> - Физика 
-> 	- [Павел ВИКТОР](https://www.youtube.com/@pvictor54) 
-> - Путешествия 
-> 	- [Вкусное Движение](https://www.youtube.com/@koteoganezov) 
-> 	- [Антон Птушкін](https://www.youtube.com/@ptuxermann) 
 > - 3Dпечать
 > 	- [Мастерская Люми](https://www.youtube.com/@masterskayalumi)
-> - Музыкальные инструменты 
-> 	- Укулеле 
-> 		- https://www.youtube.com/@vladilele
 > - Спорт 
 > 	- [Taban Training](https://www.youtube.com/@mensrong)
 
@@ -65,11 +51,9 @@
 > > -  [Начинаем изучать физику. Починаємо вивчати фізику](https://www.youtube.com/playlist?list=PL1Us50cZo25ng_lR6WvoFtkqnphzNASUX)
 > 
 > > [!faq]- Музыкальные инструменты
-> > - Калимба
 > > - Укулеле
 > > 	- [Укулеле с нуля для начинающих](https://www.youtube.com/playlist?list=PL7ySmivKDOlW_y1M_bHQjJJ4mRReFFVik) 
 > > 	- [Уроки игры на УКУЛЕЛЕ](https://www.youtube.com/playlist?list=PLU-31PmwNG0wwZwmy8bIY9mlWK0TfbiDa)
-> > - Флейта
 > 
 > > [!faq]- Спорт и Здоровье
 > > - [Команда Познавалова Мультфильмы Общее Дело](https://www.youtube.com/playlist?list=PLlNywkCI4IKyNXLKzGyM43Orp41Qm1plo) 

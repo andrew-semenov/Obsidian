@@ -34,22 +34,12 @@ tags:
 - [ ] 
 
 
-#### Рассчёт сетей и масок
-
-
-#### Клиент-серверная архитектура
-
 
 #### WSL сети
 - [ ] [WSL 2 Networking](https://youtu.be/yCK3easuYm4?si=TsHcM5yh-XnX5VET) #DavidBombal #YouTube 
 - [ ] 
 
 
-#### API. Rest API. Soap. GraphQL
-
-
-#### Книги
-- [ ] 
 
 # На сортировку
 
