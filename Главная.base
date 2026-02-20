@@ -5,12 +5,6 @@ properties:
     displayName: Прогресс
 views:
   - type: list
-    name: 🎯 Планы действий
-    filters:
-      and:
-        - file.folder == "🎯 Планы действий"
-    indentProperties: true
-  - type: list
     name: 🔗 Источники
     filters:
       and:
@@ -27,6 +21,19 @@ views:
         direction: ASC
     indentProperties: true
     markers: number
+  - type: list
+    name: 🧠💪 Тренировки
+    filters:
+      and:
+        - Это == "Тренировки"
+    groupBy:
+      property: 🔵
+      direction: ASC
+    order:
+      - file.name
+      - URL
+      - tags
+    indentProperties: true
   - type: list
     name: 👨‍💻 Практикую
     filters:
@@ -78,6 +85,18 @@ views:
         direction: ASC
     indentProperties: true
   - type: list
+    name: ℹ️ Справочник
+    filters:
+      and:
+        - Это == "Справочник"
+    groupBy:
+      property: 🔵
+      direction: ASC
+    order:
+      - file.name
+      - tags
+    indentProperties: true
+  - type: list
     name: ❓Ознакомиться
     filters:
       and:
@@ -89,16 +108,10 @@ views:
     indentProperties: true
     markers: number
   - type: list
-    name: ℹ️ Полезное
+    name: 🎯 Планы действий
     filters:
       and:
-        - Это == "Полезное"
-    groupBy:
-      property: 🔵
-      direction: ASC
-    order:
-      - file.name
-      - tags
+        - file.folder == "🎯 Планы действий"
     indentProperties: true
   - type: list
     name: 🗄️ Архив
@@ -116,9 +129,6 @@ views:
         direction: ASC
     indentProperties: true
     markers: bullet
-  - type: list
-    name: 🆘 Чрезвычайная ситуация
-    indentProperties: true
   - type: list
     name: СиД (Созидание и Досуг)
     filters:
@@ -161,20 +171,6 @@ views:
       - tags
     indentProperties: true
   - type: list
-    name: Обсидиан
-    filters:
-      and:
-        - Это == "Obsidian"
-    indentProperties: true
-  - type: list
-    name: Стим дек
-    filters:
-      and:
-        - Это == "Steam Deck"
-    indentProperties: true
-  - type: table
-    name: Руководство
-  - type: list
     name: Активности
     filters:
       and:
@@ -192,25 +188,6 @@ views:
         direction: ASC
     indentProperties: true
     markers: number
-  - type: list
-    name: Библиотека
-    groupBy:
-      property: Статус
-      direction: ASC
-    order:
-      - file.name
-      - Оригинальное название
-      - Автор
-      - tags
-    sort:
-      - property: Приоритет
-        direction: ASC
-      - property: Порядок
-        direction: ASC
-      - property: Интерес
-        direction: ASC
-    markers: bullet
-    indentProperties: true
   - type: list
     name: 👨‍🎓 Навыки
     filters:

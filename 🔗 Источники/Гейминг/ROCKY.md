@@ -4,7 +4,6 @@
 URL:
   - https://www.youtube.com/@ROCKY_VIII
 tags:
-  - Дайджесты
   - Обзоры
 ---
 

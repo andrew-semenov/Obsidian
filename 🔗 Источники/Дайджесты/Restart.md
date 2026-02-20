@@ -5,6 +5,7 @@ URL:
   - https://youtube.com/@RestartVG
 tags:
   - Игры
+  - Консоли
 ---
 
 

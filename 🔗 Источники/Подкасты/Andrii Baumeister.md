@@ -5,7 +5,8 @@ URL:
   - https://t.me/andriibaumeister
   - https://youtube.com/@andriibaumeister
 tags:
-  - Публицистика
+  - Философия
+  - ФилософскаяПублицистика
   - АндрейОлеговичБаумейстер
 ---
 
