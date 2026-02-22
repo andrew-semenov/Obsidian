@@ -16,3 +16,13 @@ https://getblock.io/faucet/
 https://solfaucet.com/
 
 https://shasta.tronex.io/join/getJoinPage
+
+https://faucets.chain.link/
+
+https://cloud.google.com/application/web3/faucet
+
+https://rpc.info/ethereum-hoodi
+
+https://spl-token-faucet.com/
+
+https://solana.stackexchange.com/questions/1513/how-do-we-get-test-stablecoins-on-solana-like-usdc-or-usdt

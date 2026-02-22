@@ -33,6 +33,9 @@ views:
       - file.name
       - URL
       - tags
+    sort:
+      - property: tags
+        direction: ASC
     indentProperties: true
   - type: list
     name: 👨‍💻 Практикую
@@ -64,6 +67,23 @@ views:
       - Автор
     sort:
       - property: Статус
+        direction: ASC
+    indentProperties: true
+  - type: list
+    name: 🧘‍♂️ Мысли
+    filters:
+      and:
+        - Это == "Мысли"
+    groupBy:
+      property: 🔵
+      direction: ASC
+    order:
+      - file.name
+      - tags
+    sort:
+      - property: Статус
+        direction: ASC
+      - property: tags
         direction: ASC
     indentProperties: true
   - type: list
@@ -112,6 +132,23 @@ views:
     filters:
       and:
         - file.folder == "🎯 Планы действий"
+    indentProperties: true
+  - type: list
+    name: 😄 Юмор
+    filters:
+      and:
+        - Это == "Юмор"
+    groupBy:
+      property: 🔵
+      direction: ASC
+    order:
+      - file.name
+      - tags
+    sort:
+      - property: Статус
+        direction: ASC
+      - property: tags
+        direction: ASC
     indentProperties: true
   - type: list
     name: 🗄️ Архив
