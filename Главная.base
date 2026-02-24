@@ -70,10 +70,10 @@ views:
         direction: ASC
     indentProperties: true
   - type: list
-    name: 🧘‍♂️ Мысли
+    name: 🧘‍♂️ Мысли (вдохновление) и ☝️🦉мудрость
     filters:
       and:
-        - Это == "Мысли"
+        - file.folder.contains("🧘‍♂️ Мысли")
     groupBy:
       property: 🔵
       direction: ASC
