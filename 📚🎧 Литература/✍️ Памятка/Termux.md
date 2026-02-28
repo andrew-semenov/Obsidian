@@ -28,7 +28,7 @@ git config --global http.postBuffer 524288000
 
 ```
 apt update && 
-apt upgrade
+apt upgrade -y
 ```
 
 ```
