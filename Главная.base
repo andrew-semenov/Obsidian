@@ -70,6 +70,22 @@ views:
         direction: ASC
     indentProperties: true
   - type: list
+    name: 👨‍🎓 Изучаю
+    filters:
+      and:
+        - Это == "Постигаю"
+    groupBy:
+      property: 🔵
+      direction: ASC
+    order:
+      - file.name
+      - tags
+      - Автор
+    sort:
+      - property: Статус
+        direction: ASC
+    indentProperties: true
+  - type: list
     name: 🧘‍♂️ Мысли (вдохновление) и ☝️🦉мудрость
     filters:
       and:
@@ -117,6 +133,18 @@ views:
       - tags
     indentProperties: true
   - type: list
+    name: 💡 Памятка
+    filters:
+      and:
+        - Это == "Памятка"
+    groupBy:
+      property: 🔵
+      direction: ASC
+    order:
+      - file.name
+      - tags
+    indentProperties: true
+  - type: list
     name: ❓Ознакомиться
     filters:
       and:
@@ -150,6 +178,22 @@ views:
       - property: tags
         direction: ASC
     indentProperties: true
+  - type: list
+    name: 🔁 На повтор
+    filters:
+      and:
+        - Статус == "На повтор"
+    groupBy:
+      property: 🔵
+      direction: ASC
+    order:
+      - file.name
+      - file.tags
+    sort:
+      - property: file.tags
+        direction: ASC
+    indentProperties: true
+    markers: bullet
   - type: list
     name: 🗄️ Архив
     filters:
