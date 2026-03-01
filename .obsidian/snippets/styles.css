@@ -43,7 +43,7 @@ span.bases-list-property:last-child:has(span.value-list-element){
 }
 
 .books>span {
-    background-color: brown;
+    background-color: green;
     width: 95%;
     border: 1px solid #000;
     display: grid;
@@ -117,3 +117,61 @@ span.bases-list-property:last-child:has(span.value-list-element){
 .hide {
     display: none;
 }
+
+
+.spine {
+  /* Горизонтальный корешок */
+  width: 300px;
+  height: 45px;
+  background: #4a2c2a; /* Глубокий коричневый */
+  
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 25px;
+  box-sizing: border-box;
+  
+  /* Эффект объема (свет падает сверху) */
+  background: linear-gradient(180deg, 
+    rgba(0,0,0,0.4) 0%, 
+    rgba(255,255,255,0.15) 45%, 
+    rgba(255,255,255,0.15) 55%, 
+    rgba(0,0,0,0.4) 100%),
+    #4a2c2a;
+    
+  box-shadow: 0 10px 20px rgba(0,0,0,0.4);
+  border-radius: 0 5px 5px 0;
+  position: relative;
+}
+
+/* Стили для Автора */
+.author {
+  color: #d4af37; /* Золотистый цвет */
+  font-family: "Georgia", serif;
+  font-size: 14px;
+  font-style: italic;
+  letter-spacing: 1px;
+}
+
+/* Стили для Названия */
+.title {
+  color: #f1e5d1;
+  font-family: "Verdana", sans-serif;
+  font-weight: bold;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+/* Декоративные золотые тиснения по краям */
+.spine::before, .spine::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  width: 3px;
+  height: 100%;
+  background: rgba(212, 175, 55, 0.5); /* Полупрозрачное золото */
+}
+.spine::before { left: 10px; }
+.spine::after { right: 10px; }
+
