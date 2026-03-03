@@ -42,6 +42,7 @@ span.bases-list-property:last-child:has(span.value-list-element){
     align-items: center;
 }
 
+*/
 .books>span {
     background-color: green;
     width: 95%;
@@ -51,6 +52,8 @@ span.bases-list-property:last-child:has(span.value-list-element){
     column-gap: 5px;
     row-gap: 10px;
 }
+*/
+
 
 .book {
     margin: 5px;
@@ -119,15 +122,18 @@ span.bases-list-property:last-child:has(span.value-list-element){
 }
 
 
+
+
+
 .spine {
   /* Горизонтальный корешок */
-  width: 300px;
-  height: 45px;
+  width: 95%;
+  height: 65px;
   background: #4a2c2a; /* Глубокий коричневый */
   
-  display: flex;
+  /*display: flex;
   align-items: center;
-  justify-content: space-between;
+  justify-content: space-between;*/
   padding: 0 25px;
   box-sizing: border-box;
   
@@ -172,6 +178,8 @@ span.bases-list-property:last-child:has(span.value-list-element){
   height: 100%;
   background: rgba(212, 175, 55, 0.5); /* Полупрозрачное золото */
 }
+
 .spine::before { left: 10px; }
 .spine::after { right: 10px; }
+
 
