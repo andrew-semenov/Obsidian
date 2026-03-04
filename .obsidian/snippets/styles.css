@@ -47,7 +47,7 @@ span.bases-list-property:last-child:has(span.value-list-element){
   }
 
   .book-cover {
-    width: 350px;
+    width: min(550px, 100%);
     height: 500px;
     background: linear-gradient(135deg, var(--bg-color) 0%, #000 100%);
     border-radius: 5px 15px 15px 5px;
@@ -56,7 +56,7 @@ span.bases-list-property:last-child:has(span.value-list-element){
     display: flex;
     flex-direction: column;
     padding: 40px;
-	margin: 30px 0;
+	 margin: min(10px, 3%) 0;
     box-sizing: border-box;
     color: var(--text-color);
     text-align: center;
@@ -239,6 +239,7 @@ span.bases-list-property:last-child > span.list-bullet{
   letter-spacing: 1px;
 }
 
+
 /* Стили для Названия */
 .title {
   color: #f1e5d1;
@@ -248,6 +249,7 @@ span.bases-list-property:last-child > span.list-bullet{
   text-transform: uppercase;
   letter-spacing: 2px;
 }
+
 
 /* Декоративные золотые тиснения по краям */
 .spine::before, .spine::after {
