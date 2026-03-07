@@ -28,7 +28,7 @@ span.bases-list-property:last-child:has(span.value-list-element){
 
 
 
-
+/*
 
  :root {
     --bg-color: #2c3e50;
@@ -86,7 +86,7 @@ span.bases-list-property:last-child:has(span.value-list-element){
     margin-top: 20px;
   }
 
-
+*/
 
 
 
@@ -214,7 +214,7 @@ span.bases-list-property:last-child > span.list-bullet{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0 25px;
+  padding: 0;
   box-sizing: border-box;
   
   /* Эффект объема (свет падает сверху) */
