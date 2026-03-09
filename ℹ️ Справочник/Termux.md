@@ -28,10 +28,8 @@ git config --global http.postBuffer 524288000
 
 ```
 apt update && 
-apt upgrade -y
-```
-
-```
+apt upgrade -y &&
+git clean -f -d -n &&
 git fsck --lost-found &&
 git fsck --full &&
 git fsck --name-objects &&
